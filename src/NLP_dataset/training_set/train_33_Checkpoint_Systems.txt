@@ -1,0 +1,35 @@
+Software Engineer
+
+Requisition Number
+NAM00091
+Employment Type
+Full Time
+Location
+Waltham
+Company Overview
+Checkpoint Systems is a global leader in merchandise availability solutions for the retail industry, encompassing loss prevention and merchandise visibility. Checkpoint Systems provides end-to-end solutions enabling retailers to achieve accurate real-time inventory, accelerate the replenishment cycle, prevent out-of-stocks and reduce theft, thus improving merchandise availability and the shopper’s experience. Our solutions are built upon 45 years of radio frequency technology expertise, innovative high-theft and loss-prevention solutions, market-leading RFID hardware, software, and comprehensive labeling capabilities, to brand, secure and track merchandise from source to shelf. (NYSE: CKP), Checkpoint Systems operates in every major geographic market and employs greater than 4000 people worldwide. We offer a competitive compensation package and comprehensive benefits package including life, health, dental and vision, 401(k), stock purchase plan, flexible spending accounts, tuition reimbursement. We care about our people as they are the key to our success. We provide an open and friendly work environment where we empower people and provide them with opportunities to develop their knowledge and goals.
+Position Summary
+The Software Engineer will work as part of Checkpoint Systems RFID Solutions team to develop, customize and implement our OAT Foundation Suite software for our Aerospace and Defense and Retail customers.
+Job Responsibilities
+•Understand customer requirements and project goals.
+•Contribute to functional and technical specifications based on customer requirements
+•Create/contribute test plan and test cases
+•Complete software customization and modifications using Java or .NET
+•Configure and test the implementation
+•Support customer deployments
+•Apply standard Software Development Lifecycle processes
+Education
+•Degree in Computer Science or Electrical Engineering with Software Engineer focus
+Experience
+•3 to 5 years experience in customer engagements
+•
+Knowledge, Skills, & Abilities
+
+•Expertise in technologies including Java, J2EE, .NET, SOAP, XML, SQL, Databases.
+•Excellent communication, written and verbal, skills
+•Strong troubleshooting and problem solving skills
+•Experience with Aerospace industry strongly desirable.
+•Experience with Enterprise software deployments is desirable.
+Additional Information
+Travel to customer sites will be required.
+Candidate must be a US Citizen to be able to work on government projects.

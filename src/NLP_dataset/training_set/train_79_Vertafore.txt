@@ -1,0 +1,47 @@
+Software Engineer II
+Development | Bothell, WA, United States 	
+
+You will be working on the set of services which support wide range of client centric application as part of Vertafore Agency Platform. The right candidate will be a C#/AJAX/MVC.NET expert who loves building scalable and high performance websites or services and enjoys working across different technologies and application tiers.
+As a key technical member of a small team of dedicated software engineers you will lead Vertafore into the SOA future. We seek your subject matter expertise in the Microsoft Development Stack and Web Development Technologies to drive this process forward.
+
+QUALIFICATIONS
+
+    Five plus years of experience building service-based enterprise applications using .NET, ideally in an Agile environment
+    Working knowledge of common frameworks (e.g. AngularJS, jQuery) and ORM technologies
+    Hands-on experience with MS SQL databases, SQL, data modeling, and reporting
+    An inherent drive to solve problems, collaborate with others and mentor team members
+    Understanding of the OData standard and experience with Web Services (consumption and programming, SOAP, REST)
+    Strong sense of quality and code ownership with experience developing Unit and Integration level tests
+    Demonstrated ability to produce well-written and succinct technical analysis and documentation to stakeholders in development and product management
+
+ 
+Tools/Frameworks
+
+    Visual Studio 2010/12, TFS at least 3 years
+    C#, HTML, CSS, JS at least 3 years
+    Web Services at least 3 years
+    JavaScript at least 2 years
+    SQL at least 4 years
+
+
+Desired Expertise
+
+    WCF, WebAPI, OData
+    AngularJS, HTML5
+    Selenium
+    MS Build, TFS
+    Bamboo / Jenkins / Chef
+
+ 
+LOCATION
+
+A little about Vertafore in Bothell, Washington…
+
+The work culture in Bothell is relaxed and yet driven. We believe it’s important to work hard and still find a balance between work and the rest of life. For those times when you need a break, we provide ping pong, foosball, an Xbox 360, and plentiful free soda. Bothell is located half an hour from downtown Seattle and has nearby access to trails, lakes, mountains, and the Puget Sound.
+
+If you’re looking for challenge and opportunity, reach out to us at www.vertafore.com/careers .
+
+WHY VERTAFORE: Be part of the transformation, unleash your potential and make an impact!
+Over the past 40 years, Vertafore has advanced the business of insurance by bringing together the best software in the industry to help agencies, carriers, and MGAs run their organizations. Today, we’re proud to say hundreds of thousands of Vertafore users rely on our solutions to write business faster, cut costs, and fuel growth by increasing collaboration and streamlining processes. Vertafore helps our customers deliver exceptional value to their clients with innovative, intuitive, and comprehensive products and services. Vertafore leads the industry with secure, cloud-based mobile products that provide superior reporting and analytics, delivering actionable insight— right when customers need it most.
+
+Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law equal employment. Visit http://www.vertafore.com/careers today!

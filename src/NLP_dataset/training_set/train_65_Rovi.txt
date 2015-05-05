@@ -1,0 +1,33 @@
+Software Engineer , Web Tools Engineer, Fan TV
+Engineering | San Mateo
+
+It's not often that Silicon Valley and Hollywood partner in such a meaningful, useful and fun way. We’re changing the way people discover, watch and share movies and shows with a revolutionary new set-top box that combines live TV, streaming, video-on-demand and DVR – all in one device with a touch remote. We're a driven, motivated and creative crew who are obsessed with gorgeous interfaces and disruptive technology that will change the entire entertainment industry for the better.  We are looking for bright, creative and passionate folks to join our dynamic team.  We have the culture and flexibility of a start-up while also having the benefits and security of a larger company; it’s the best of both worlds!
+
+At Fan TV, we have a 'work hard, play hard' philosophy.  We enjoy each other's company, attend happy hours, go to movies, hang out in our well-stocked kitchen and blow off steam with a soccer ball at the park just across from our free parking lot. Our headquarters are in downtown San Mateo near the Caltrain station and convenient to San Francisco, the East Bay, San Jose and everything in between. If you think you’d be a fit for this rapidly expanding company, we’d love to hear from you!
+
+ 
+Responsibilities:
+
+Work with the Platform Services and Web Teams to drive the development process and implementation of the front-end tools solutions
+
+Required:
+
+In-depth knowledge of JavaScript, AJAX, and DOM manipulation
+Knowledge of Ruby and Ruby on Rails or Sinatra
+Deep understanding of web standards and best practices (HTML5/CSS3 a must)
+Deep understanding and experience with MVC concepts and Javascript frameworks
+Experience with version control system and Client side templating system
+Strong eye for compelling visual and user-focused design
+Awareness of new technologies, frameworks and resources
+Cross browser compatibility issues
+Solid understanding of OOP and design patterns
+
+Nice to Have:
+Experience with GitHub, with an account showcasing personal or side projects. Experience with Redis, MongoDB, and MySQL.
+Experience with mobile design and responsive design.
+Bachelor's Degree in Computer Science or equivalent combined with at least 3+ years in front-end development roles. Adobe Creative Suite (Photoshop, Illustrator, and InDesign) 
+
+About Rovi
+Rovi Corporation is a global B2B leader focused on revolutionizing the digital entertainment landscape by delivering software and data solutions to connect people to the movies, music and television they enjoy – anytime, anywhere. Our products and services power some of the most iconic entertainment and technology brands around the world including Microsoft, Samsung, Apple, Facebook, Pandora and Shazaam.
+
+Our pioneering program guides, entertainment data, and personalized content recommendations drive search and navigation across Set-Top Boxes, Smart TVs, and Mobile Devices all around the world. With a new generation of cloud-based program guides and emerging solutions for audience analytics and interactive advertising, our team of over 1200 Rovians worldwide are leading the way in the discovery and personalization of digital entertainment.

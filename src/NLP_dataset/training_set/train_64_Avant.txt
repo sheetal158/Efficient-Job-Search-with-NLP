@@ -1,0 +1,41 @@
+
+Software Engineer
+Engineering | Los Angeles, CA, United States
+
+COMPANY DESCRIPTION
+
+Avant Credit Corp ('Avant') is a fast-growing startup that offers tremendous advancement opportunities to its employees. Since its launch in December 2012, Avant, a consumer finance company, has changed the way customers borrow money -- providing them with a new and unique online experience. Avant uses state-of-the-art analytics methods in order to offer its lowest possible interest rates to the widest range of customers. Since inception, Avant has secured over $300 million in equity financing and over $700 million in debt financing to continue to grow at an exponential pace. Previously, Avant's founders created the leading international online short-term lender currently employing over 1,000 individuals and generating over $700 million in annual revenue. Avant’s founders have also launched an innovative real estate investment trust that provides affordable housing options in Chicago, Indianapolis and Baltimore with over 10,000 apartments owned and managed. In addition, several of Avant's founders have participated in the prestigious Y-Combinator startup incubator program in Silicon Valley.
+
+
+JOB DESCRIPTION
+
+You'll work directly with the co-founder/CTO and be responsible for assisting in the build out of the existing Ruby on Rails web application stack as well as any future technologies. Tasks will range from frontend to backend work; such as third party service integrations, business logic implementations, CRM buildout, and frontend customer facing web application changes. We are looking for pragmatic generalist programmers who can not only help us execute in building our application, but also have a real say in the technological direction that it goes.
+
+
+QUALIFICATIONS
+
+    Entrepreneurial and self-driven.
+    Thrives in unstructured environments.
+    Previous Experience with web application frameworks (Rails, Django, Sinatra, etc..), languages (Python, Ruby, PHP), and relational databases (Postgresql, Mysql)
+    Ruby experience preferred.
+    Knowledge of Javascript frameworks such as Knockout, Angular, or similar preferred.
+    Experience working with at least 1 web application with significant customer traffic.
+
+
+BENEFITS
+
+    Rapidly expanding startup with significant growth opportunities
+    Access to work directly with senior management
+    Work environment that emphasizes transparency, community, education and professional development
+    Unlimited PTO/Vacation Policy
+    BlueCross/BlueShield Medical & Dental Insurance
+    VSP Vision Insurance
+    401k with a 4% match
+    Daily free catered breakfast & lunches
+    Fully stocked pantry (Snack preferences noted upon hire)
+    Relaxed dress code 
+    Complimentary corporate cell phone plan
+    Pre-tax commuter benefits
+    Discounted Gym membership package
+    And more!
+

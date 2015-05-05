@@ -1,0 +1,58 @@
+Software Engineer in Test
+Location: Los Angeles, CA
+Department: Engineering
+Type: Full Time
+Min. Experience: Mid Level
+
+THE COMPANY: SCOREBIG, INC.
+
+ScoreBig.com is the leading savings destination for Sports, Music and Theater tickets.  At ScoreBig, consumers name their own ticket price and save up to 60% below box office price on millions of tickets, to thousands of top tier events, including all the major professional sports leagues, top selling concerts, broadway, theater and family.  For the ticketing $20B+ ticketing industry, ScoreBig.com is the first and only opaque sales channel that allows teams and arts, music and theater organizations to move unsold tickets without the brand or cannibalization risks inherent in traditional discounting.   
+
+ScoreBig.com solves both a massive consumer problem in the live event ticketing industry-- price and affordability is the primary reason that most consumers don’t see more live events each year.  At the same time, we solve a massive industry problem -- more than 40% of live event tickets go unsold each year.  Even events that most consumers think are “sold out” often have hundreds or thousands of unsold seats.  In short, ScoreBig works WITH the industry to solve an unsold ticket problem, and FOR the consumer to provide them savings.
+
+ScoreBig.com’s founders, investors and key executives have backgrounds in the NBA, NFL, Theater and Arts and leading ticketing, media and ecommerce companies.
+
+Highlights…
+
+    ScoreBig.com was recently recognized by Forbes as one of America’s Most Promising Companies.
+    Since 2012, the Company has grown over 12x in revenue
+    Led by very experienced executive team and prominent investors and advisory board.
+    See the additional press coverage here.
+
+ 
+
+THE OPPORTUNITY
+
+Software Engineer in Test
+
+Location: Los Angeles, CA, United States
+
+As a Software Engineer in Test, you will be responsible for designing and implementing development and test infrastructure. We are looking for strong contributors with development and testing talents to help us assure that our highly scalable web application meets the highest standards.
+
+WHAT YOU’LL DO
+
+    Collaborate with other Software Engineers in Test and Development Engineers to build and evolve a scalable continuous build, deployment and test framework.
+    Implement and maintain test automation frameworks, performance testing tools and other quality inspection tools.
+    Debug and troubleshoot complex issues.
+    Test APIs, user interfaces, web services and web applications.
+    Translate existing manual regression test cases into automated tests.
+    Write and execute test plans, design and develop test tools, debug and report code bugs and push quality upstream.
+    Responsible for analyzing use cases and test scenarios.
+    Execute and interpret and report test automation results.
+    Research and develop test automation best practices.
+
+WHAT YOU’LL BRING
+
+    3+ years minimum experience.
+    Ready to join an agile, fast paced work environment.
+    Experience with languages such as: C#, Python, Java or C++
+    Experience with automated testing tools and technologies.
+    Working knowledge of XML, JSON and related technologies.
+    Experience with BDD frameworks such as R-Spec and Cucumber.
+    Exposure to various web technologies such as HTTP, Internet Explorer, Firefox, Chrome, HTML, CSS, and Javascript.
+    Excellent written and oral communication skills with ability to explain, present and showcase concepts and concerns to technical and non-technical audiences.
+    Must be familiar with entire Software Development Life Cycle process.
+    Strong analytical and problem solving skills.
+    Self-motivated; able to learn and research issues independently.
+    Knowledge of modern best practices for professional software development including coding standards, code reviews, source control management, build processes, testing, and operations.
+    Bachelor’s degree in Computer Science or relevant Engineering degree.

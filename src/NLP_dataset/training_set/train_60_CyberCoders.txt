@@ -1,0 +1,31 @@
+Full Stack Software Engineer
+New York City, NY
+
+Full-time $130k - $150k
+Full Stack Software Engineer
+
+Located in NY....our engineer team is looking for an excellent and experienced Software Engineer to join our amazing Platform team. We want someone who is comfortable joining a small collaborative team that focuses on our internal and user-facing dashboards, eCommerce and direct sold payment systems and internal account management API's. You must be focused, team oriented and all around go getter.
+
+As a company we develop online video software bringing on new projects everyday from sales to software development we are full cycle. Our main focus is working with publishers ranging from large corporations to small internet writers. We are one of the fastest growing in the online video space and our culture is the best at allowing us to manage our own timelines and deadlines for our projects. Our products include things like, video management, analytic data, ads and all full components of video elements for publishers. We stream billions of videos per month and are located on over 2 million websites.
+
+If you are ready to hit the ground running in an awesome tech arena with the opportunity to grow as a technologist and leader then this is your chance.
+What You Will Be Doing
+You will be working in a scrum environment to build and maintain the Platform architecture. This will range from the Angular front end through to the Restful Python API. There will be a focus on back end work as well. This means developing new commercial features from the Product Backlog. More so, you will be prototyping new ideas and new solutions for the upcoming challenges and bugs that the team will be responsible for.
+What You Need for this Position
+At Least 3 Years of experience and knowledge of:
+
+- Python
+- JavaScript
+- Video/Video Streaming
+- Angular.js
+- Ruby
+
+Good to Have:
+- Familiarity with eCommerce platforms
+- Test automation
+What's In It for You
+Fully paid benefits
+Great salary
+If you think are a great fit please apply below or send an updated resume in word format to chelsea.short@cybercoders.com. We are working forward to working with you!
+
+Applicants must be authorized to work in the U.S.

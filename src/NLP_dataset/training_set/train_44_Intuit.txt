@@ -1,0 +1,35 @@
+Software Engineer
+
+00117738
+Locations:
+
+Cambridge, MA
+Description
+ 
+
+Our Intuit QuickBase product is revolutionizing the way people work by enabling professionals to develop their own cloud-based applications for driving vastly improved work productivity. With more than 500,000 users and a presence in over 50 of the Fortune 100 companies, we are quickly expanding our stake in the high-growth, multibillion-dollar SaaS, PaaS and mobile markets.
+
+Based in the Boston area, QuickBase offers the best of both worlds: the benefits of being employed by Intuit, Fortune’s number one Most Admired software company in the world, and the excitement of QuickBase’s fast-moving, entrepreneurial team.
+
+Primary Responsibilities:
+
+The QuickBase team is looking for a highly motivated and talented Software Engineer to contribute to a mature, widely used, quickly-growing industrial strength SaaS offering.  Come build the next platform for QuickBase growth through the reinvention of its user experience and radical improvement to the Application buying, building and usage experience while making QuickBase less complex and more performant.  Join our team and revolutionize the way the world does business!
+Qualifications
+ 
+
+    BS in Engineering/Computer Science or equivalent.
+    4+ years of software engineering experience.
+    Commitment to Agile / Scrum with experience contributing to release and sprint planning and backlog management.
+    Experience implementing scalable software solutions for performance, accessibility, and testability across a variety of browsers, devices and platforms.
+    Mastery of CS fundamentals: data structures, complexity analysis, object oriented principles, design patterns.
+    Experience with REST, MVC, and multi-tier architectures.
+    Experience with web technologies (HTML5, CSS3, JavaScript).
+    Experience with at least 1 Object Oriented language (C++, C#, Java, Obj-C).
+    Strong experience with JavaScript best practices and at least 1 library/framework, preferably jQuery.
+    Experience with unit testing principles and testing tools such as JUnit, JMeter, TestNG, etc.
+    Strong problem solving skills.
+    Strong verbal and written communication skills, including the ability and desire to speak directly with customers, and properly represent customer perspective during product development.
+    Demonstrated ability to work in a cross-functional environment.
+    Strong initiative to promote positive change and continual improvement team-wide.
+
+Imagine a career where your creative inspiration can fuel BIG innovation.  Year-over-year, Intuit has been recognized as a best employer and is consistently ranked on Fortune’s “100 Best Companies To Work For” and Fortune World’s “Most Admired Software Companies” lists. Immerse yourself in our award winning culture while creating breakthrough solutions that simplify the lives of consumers and small businesses and their customers worldwide.    Intuit is expanding its social, mobile, and global footprint with a full suite of products and services that are revolutionizing the industry.  Utilizing design for delight and lean startup methodologies, our entrepreneurial employees have brought more than 250 innovations to market – from QuickBooks®, Quicken®, and TurboTax®, to GoPayment, Mint.com, big data, cloud (SaaS, PaaS) and mobile apps.  The breadth and depth of these customer-driven innovations mean limitless opportunities for you to turn your ingenious ideas into reality at Intuit.   Discover what it’s like to be part of a team that rewards taking risks and trying new things. It’s time to love what you do! Check out all of our career opportunities at: careers.intuit.com.  EOE AA M/F/Vet/Disability 

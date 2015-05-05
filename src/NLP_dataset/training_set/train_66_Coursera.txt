@@ -1,0 +1,26 @@
+Software Engineer, Android
+Mountain View, CA
+Engineering
+Full-time
+
+Coursera is scaling a global platform to provide universal access to the world’s best education, and we’re driven by the passion and mission to let people learn without limits. At Coursera, our Android Engineering team is reimagining what online education looks like for the mobile space. Big questions to tackle include bringing a feature-rich and robust experience to the touchscreen, learning with and from a massive user community, automated and crowd-sourced grading, and advanced identity verification. We are seeking a seasoned Android engineer to lead architecture and design, as well as be hands-on in building mobile applications from the ground up. The ideal candidate should have experience building polished, beautiful Android apps for distribution on the app store. To be successful, this person should also have a keen empathy for our learners, and a passion for bringing education to the world!
+Your responsibilities
+
+        Create an innovative and delightful mobile learning experience 
+        Design and interact with backend service endpoints 
+        Support multiple devices
+        Analyze trade-offs across options for app technology and architecture
+        Collaborate with engineers, designers, and product managers all pushing the limits of the mobile experience
+
+Your skills
+
+        3+ years in a relevant work role
+        Proven ability to build beautiful mobile apps with a significant back-end component
+        Expertise with the Android operating system
+        Strong communication, presentation, and technical skills
+        B.S., M.S., or PhD. in Computer Science or equivalent
+
+If this opportunity interests you, you might like these courses on Coursera
+
+        Mobile Cloud Computing with Android: https://www.coursera.org/specialization/mobilecloudcomputing2
+        Creative, Serious, and Playful Science of Android Apps: https://www.coursera.org/course/androidapps101

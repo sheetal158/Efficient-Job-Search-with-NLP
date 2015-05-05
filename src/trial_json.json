@@ -1,0 +1,6 @@
+{
+"1":{"req":[],"pref":[]},
+"2":{"req":["Java", "SDET", "EC2", "SWF", "CloudFront", "CloudFormation", "Angular-JS", "Tomcat", "Selenium", "Jenkins", "Maven", "TestNG", "RestAssured", "Soasta"],"pref":[]},
+"3":{"req":["Objective-C", "C", "JavaScript", "Python", "iOS", "Mac OS X", "Linux", "JMP", "d3js", "R"],"pref":[]},
+"4":{"req":["AJAX", "HTML", "CSS", "JavaScript"],"pref":[]}
+}

@@ -1,0 +1,33 @@
+Software Engineer
+Technology | San Francisco, CA, United States
+Start your application
+Apply
+	Send Jobvite
+
+Ticketfly's engineering team is looking for a full-stack Software Engineer to help build our broad set of integrated marketing and ticketing tools for professional event promoters.  The ideal candidate will have a proven track record of building durable, highly-scalable, hosted web applications from top to bottom, enjoy the challenge of learning a complex domain like the live events industry, consistently deliver shippable products at the end of each sprint.  
+
+Requirements
+
+    B.S. in CS, or equivalent knowledge and experience
+
+    2+ years experience designing and developing rock-solid web applications
+
+    Superb Java, Groovy or Scala chops
+
+    Excellent Linux and shell scripting skills
+
+    Knowledge of Javascript, CSS
+
+    Strong verbal and written communication skills
+
+    Desire to work on a cross-functional team using Agile
+
+Pluses / Willing to Learn
+
+    Familiar with MVC Frameworks
+
+    Play
+
+    MySQL/PostgreSQL
+    Amazon AWS
+

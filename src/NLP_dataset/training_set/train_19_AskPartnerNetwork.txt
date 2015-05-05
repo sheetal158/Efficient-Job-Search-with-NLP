@@ -1,0 +1,118 @@
+Front End Developer
+
+Tracking Code
+    TBH585 
+Job Description
+
+     
+
+    Front End Developer @APN in Oakland
+
+     
+
+    The Ask Partner Network, (APN), is an entrepreneurial team driving one of the fastest growing business units at IAC/InterActiveCorp (Nasdaq: IACI). APN creates a wide variety of innovative Ask.com branded and private labeled web, mobile and client applications with the power of Ask.com search that reach millions of people worldwide.   
+
+     
+
+    As an IAC company, the Ask Partner Network is part of a family that includes many of the most successful media and Internet brands in the world, including Match.com, Vimeo and About.com.  
+
+     
+
+    The Ask Partner Network (APN) is looking for an enthusiastic and passionate Front End Software Engineer who takes pride in developing web applications leveraging cutting edge technologies and agile development methodologies in a fast-moving team-oriented environment.
+
+     
+
+    WHAT WE WANT YOU TO DO:
+
+     
+
+        Identify opportunities for improvements in the current landscape.
+
+        Create and maintain technical documentation and ensure efficient planning and execution.
+
+        Manage and document system configurations.
+
+        Maintain up-to-date knowledge of technological advances.
+
+        Oversee software transitions to production.
+
+        Monitor health of systems in production to help identify issues.
+
+        Troubleshoot, identify root causes and assign issues to correct teams.
+
+        Coordinate system development tasks to include design, reviews, integration and formal testing.
+
+        Translate business requirements into design strategies and patterns.
+
+        Mentor team members on Agile software development.
+
+         
+
+        REQUIREMENTS:
+        •BS in Computer Science, Digital Media or equivalent experience
+        •4+ years industry experience
+        •3 + years experience with Javascript, HTML, CSS, (experience with AS3 Flash is a plus)
+        •Advanced Javascript skills (DHTML, OOP, AJAX, jQuery, JSON)
+
+        •Ability to write well-abstracted, reusable and efficient code, and to correctly employ design patterns
+        •Experience with JSP/JSTL and/or Velocity is a plus
+        •Familiarity with Facebook platform and/or other social platforms and APIs is a plus
+        •Previous experience with browser extension technologies (IE, Firefox, Chrome, Safari)
+        •Experience with SVN or other source control software
+
+        PERKS:
+        •Fussball, monthly massages, fun team atmosphere and more!
+
+     
+Required Skills
+
+    Desired Skills and Experience:
+
+    ·         BS in Computer Science, Computer Engineering, Electrical Engineering or related subject with strong academic record required.
+
+    ·         A minimum of 4 - 5 years experience in web software development.
+
+    ·         Experience with architecture and design of multi-tiered systems.
+
+    ·         Experience with networking (TCP/IP and DNS)
+
+    ·         Experience directing projects to an efficient solution while meeting aggressive timelines.
+
+    ·         Excellent problem solving and analytical skills.
+
+    ·         Ability to work well in a team environment and independently.
+
+    ·         Strong organization and multi-tasking abilities.
+
+    ·         Strong leadership skills.
+
+    ·         Strong written, verbal communication and presentation skills
+
+    Bonus Points: 
+
+    ·         Master's degree in related subject preferred
+
+    ·         Experience with Agile software development
+
+    ·         Experience with HTML, CSS, JavaScript and JQuery or other frameworks.
+
+    ·         Experience with Apache, Tomcat, Drools, Subversion, Linux preferred.
+
+    ·         Experience with the implementation of Continuous integration practices and tooling to support automated build,
+
+             delivery and regression tests
+
+    ·         Chef or other configuration management tool.
+Job Location
+    Oakland, California, United States 
+Position Type
+    Full-Time/Regular 
+
+Company Name
+Ask Partner Network
+Apply
+
+
+Share
+Share on linkedin Share on facebook Share on twitter Share on email More Sharing Services
+Return To Job Listings

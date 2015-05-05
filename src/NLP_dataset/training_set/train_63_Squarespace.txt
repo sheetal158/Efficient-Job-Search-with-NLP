@@ -1,0 +1,34 @@
+Software Engineer - NYCommit
+Squarespace - San Francisco, CA
+
+Interview for an engineering position before May 31st and you will get to spend a long weekend in the world capital of culture and creativity. The only better way to experience NYC is to work here.
+
+You and your spouse or partner will be flown in to explore New York City, the place that made Squarespace possible. Create your own New York experience by selecting from a curated list of cultural institutions, entertainment venues and restaurants.
+
+If you are ready to solve problems alongside some of the top engineers in the world, we want to hear from you.
+
+Looking for any combination of these skills:
+
+    BS, MS, or PhD in Computer Science or related technical discipline (or equivalent)
+    Drive development of multiple mobile apps used by tens of thousands of our customers
+    Prototype new app and feature ideas and explore new technologies that are at the forefront of mobile technology
+    Design and implement new features, create UI, debugging, data modeling.
+    Code backend applications and features
+    Strong understanding of interactive application development paradigms, memory management, file
+    Strong understanding of database schema design
+    Data modeling in PostgreSQL, Elasticsearch, and other systems
+    Experience building RESTful APIs & multi-tiered web applications in Python or Java
+    Experience with data ETL techniques and task processing tools such as Celery
+    Experience with distributed computation tools such as Apache Spark, Hadoop
+    Understanding of SQL and data warehousing concepts
+    Understanding of leading NoSQL solutions such as Cassandra and MongoDB
+    Comfort and skill in using Git to collaborate with other developers
+    Practical real world experience with diverse datasets and data access patterns
+    Python, IPython, Pandas, Celery, Elasticsearch, PostgreSQL, Ansible, Flask, Cassandra, Spark, Git, Stash
+    Leverage open source tools where appropriate (d3, nvd3, etc.)
+    Experience with other scripting languages (Python, Ruby, Perl)
+    Specialize in building groundbreaking web applications using advanced HTML, CSS, and JavaScript
+    Experience with shell scripting and knowledge in at least one of the following: Python, Bash, Perl, Ruby
+    Familiarity with relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases
+
+Plus if you have background as: Android Engineer, Commerce Engineer, Data Engineer, Data Visualization Engineer, Front-End Product Engineer, Full Stack Product Engineer, Security Team Lead Server Engineer, Site Reliability Engineer

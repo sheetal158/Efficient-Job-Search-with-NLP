@@ -1,0 +1,37 @@
+Software Engineer, Server
+PowerChord, Inc. - Saint Petersburg, FL
+Why are Software Engineers important at PowerChord? PowerChord connects millions of shoppers with the brands that they love. We build simple and powerful applications to enable the best brand experience at every touchpoint in the buying process. There is much more that we want to build and so much that we could improve. We are a full stack team with large ambitions on both the front-end and back-end.
+
+As a Server Software Engineer, you are agile enough to jump into most projects. The ideal fit for our team is someone who loves ambitious projects and has had experience building large enterprise software products in the cloud.
+
+What are examples of work that Software Engineers do at PowerChord?
+
+    Our core platform supports roughly 100M product variations syndicated to over 10K localized web storefronts.
+    We rebuilt this core platform on an AWS cloud infrastructure, utilizing GoLang and a MongoDB on the server-side, that resulted in a 10x lift in performance at 10% of the resources previously allocated.
+    Built PCTV, a multi-template, centrally distributed digital signage system for in-store product information and product offers. 
+
+Requirements The following are some examples of profiles that are relevant to us:
+
+    Full stack engineering experience, with strong cloud fundamentals
+    Heavy experience in one of the following... GoLang, Python, .NET, Java
+    Exposure to architectural patterns of a large, high-scale web application
+    Experience with the test, build, release engineering cycle
+    Continuous integration environments 
+
+Benefits
+
+    Competitive salaries
+    Education allowance
+    Paid time off
+    Medical, dental, & vision insurance
+    Life insurance and disability benefits
+    Simple IRA with Company match
+    Company sponsored tech talks and happy hours
+    Unlimited coffee, cold beverages & snacks
+    Casual attire environment
+    Much more… 
+
+For more information please visit us at www.PowerChordSystem.com .
+
+PowerChord is an equal opportunity employer. Must be legally eligible to be employed in the United States without sponsorship/transfer.
+ 

@@ -1,0 +1,45 @@
+
+Software Engineer - Front End
+San Jose, CA | Engineering
+Job Description
+
+Switch Communications CEO Craig Walker, co-founder of Google Voice, leads a team of smart engineers, risk-taking designers and product managers, dedicated customer support reps, and high energy sales and marketing people. With $18 million in funding from Google Ventures and Andreessen Horowitz, and engineers from companies like Microsoft and Google, Switch Communications is building voice products that leverage elegant UI on web and mobile clients to transform an industry that hasn't seen real innovation in decades.
+
+At Switch Communications, we move fast developing and releasing next generation, highly interactive voice products, and we’re looking for a Front End Engineer to join us. Everyone on our Web team plays a critical part in defining and building scalable, well-designed software tools and frameworks, while working closely with a team of designers, product managers and other engineers to create an awesome experience for our users. Join us, and have a huge impact on the quality of Switch Communication’s growing products and services.
+
+Responsibilities:
+
+    Develop fast, easy-to-use, high volume interactive web application
+    Extensive experience with Javascript frameworks and an excellent command over HTML, CSS and object-oriented design
+    Able to write clean and maintainable code from mock ups
+    Keeps up with evolving web standards and best practices
+
+Requirements:
+
+The particulars of someone’s experience are not as important to us as generally being a great engineer. Great engineers learn quickly so please use the bullet points below as a guideline.
+
+    BS, or MS in Computer Science or related technical discipline (or equivalent)
+    Previous experience architecting/ implementing a full featured web/client application in Javascript
+    Understanding of web technologies (JavaScript, HTML5, CSS3, REST, JSON, etc.)
+    Familiarity with backend-based languages such as Python
+    A solid foundation in computer science, with strong competencies in data structures, algorithms, and software design.
+    Comfortable in a small, intense and high-growth start-up environment.
+    A comfortable understanding of modern web applications, front-end frameworks and MVC concepts
+    Knowledge of cross-browser development techniques and browser degradation strategies
+    Experience developing responsive web layouts
+    Experience with component-based development
+    Understanding of one or more of the following frameworks:  Backbone, AngularJS, Underscore, YUI, Ember, jQuery, ExtJS (or equivalent)
+
+About Us:
+
+We think of work as a thing you do, not a place you go. Our products are built for the way you work today. From the TechCrunch Disrupt award-winning UberConference, to Switch, the business phone system for Google Apps users, we've got an amazing pipeline of exciting opportunities, and we’re looking for awesome people to join us. The engineers we are looking for have these traits in common: you’re a problem solver, you’re innovative, and you like working with an intelligent, talented, generally inspiring team. You also have to like autonomy and want ownership of your work.
+
+We’re a growing team obsessed with elegant design and efficient solutions to big problems. Our downtown San Francisco headquarters is an open room full of energetic, extraordinary people with a passion for what we do. There is no idea too crazy and no task too small — we work together to make things we’re proud of.
+
+Perks:
+
+    100% paid Medical, Dental and Vision Plan for you and your dependents
+    Weekly Socials and a Game Room complete with game consoles, ping pong and beer pong tables
+    Cell Phone, Home Internet and Gym reimbursement
+    Free healthy, and unhealthy, snacks and drinks
+

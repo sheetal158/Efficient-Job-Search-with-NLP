@@ -1,0 +1,33 @@
+
+Software Engineer
+
+Date: Mar 18, 2015
+
+Location: San Jose, CA, US
+Additional Location(s) or Information:
+Job Category: Engineer - Software
+Level of Experience: Experienced - Non Manager
+Requisition #: R983868
+ 
+Description:
+Experienced Cloud management / DevOps engineer
+
+<Req>Experience:</Req>
+Strong systems and infrastructure experience.
+Excellent Linux system administration skills
+Strong scripting experience (Shell, Perl, Python, Ruby etc.)
+Proficiency with Public Cloud platforms (IaaS/PaaS) on Openstack and AWS
+Configuration management tools like Chef, Puppet etc.
+Monitoring tools like Nagios, Munin, Zenoss, etc.
+Release Engineering tools like Maven, Jenkins, etc.
+Knowledge of or the desire to work with Zabbix, NewRelic, Logstash, and MongoDB, Cassandr, Elasticsearch.
+Strong grasp of automation tools
+Continuous Delivery Approach and knowledge of Continuous Integration (CI) tools
+Hands on exposure to Linux, Git/SVN or other source control tools
+Experience in Virtualization/cloud related QA experience (hands-on).
+Experience in an Agile environment
+
+General skills: Proactive and responsible, accountable for results, self-starter who can own the problem from start to finish without daily direction, great communications skills, proficient in verbal and written English.
+ 
+Job Type: Experienced
+Opportunity Category: Mobility

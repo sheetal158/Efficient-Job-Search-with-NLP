@@ -1,0 +1,22 @@
+SOFTWARE ENGINEER
+Apperian - Boston, MA
+Apperian is the industry leader in Mobile Application Management. Our cloud-based EASE platform enables organizations to secure, manage, and deploy mobile applications effortlessly to hundreds of thousands of users. Innovations at Apperian include analysis of applications executing on a user’s device, dynamic code injection of mobile applications, remote controlling mobile applications, over a dozen patents filed, and the invention of the Mobile Application Management industry with an estimated market size exceeding 10 billion dollars (Gartner).
+
+Apperian, Inc. is located in the heart of Boston’s innovation District, and we are proud to call Boston our home. Since Apperian, Inc. was founded in 2009 it has expanded to the UK, Spain, China, and continues to grow rapidly. Companies using Apperian technology include some of the world’s largest and most innovative organizations, including a number of Fortune 500 companies. Apperian, Inc. is a venture capital backed startup with investors including North Bridge Venture Partners, Kleiner Perkins Caufield & Byers, Intel Capital, and Bessemer Venture Partners.
+
+Apperian seeks motivated engineers to develop our mobile platform supporting millions of users. Our cloud-based EASE platform enables enterprises to secure, manage and deploy mobile applications to all of their employees across iOS, Android, Windows Phone, and Blackberry devices.
+
+Apperian is growing quickly and seeks talented engineers with one or more of the following skills:
+
+Experience programming in Python, JavaScript, PHP, Java, or similar
+Experience creating iOS, Android, or Windows Phone apps
+Required Skills and Experience:
+
+BS/MS BA/MA in Computer Science, Computer Engineering, or similar
+Excellent communication skills
+Passionate about programming
+Capable of learning new concepts and adapting to new technology
+Strong problem solving ability
+Also, people who enjoy having fun! : )
+
+Please send a cover note and resume to jseibel@apperian.com. No phone calls, please

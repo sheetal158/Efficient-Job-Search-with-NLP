@@ -1,0 +1,76 @@
+GlassLab seeks an experienced, organized, and communicative team player to join the team as a Front End Engineer. The Front End Engineer is responsible for writing high quality, reliable code for the next-generation learning game web application supporting multiple games on multiple client delivery systems, and creating new applications and systems for the cutting edge of digital educational technology. The Front End Engineer is expected to work in close collaboration with the Lab’s technical team, Learning and Assessment Scientists, and business owners around technical requirements and questions. Excellent communication skills and the ability to create concise documents are critical. The ideal candidate will be an action-oriented individual comfortable in an iterative, multi-project, prototype-heavy environment with experience building stable, scalable systems that accommodate large audiences and heavy data traffic. GlassLab’s products span across multiple platforms, so familiarity in developing in multiple environments and adaptability are a plus.
+
+The Front End Engineer is expected to perform the following tasks:
+
+    Create and maintain a web front end for a services stack offering user management, product management, data management, and reporting;
+
+    Create websites as needed with product launches; and
+
+    Work collaboratively with both backend and frontend engineers to deliver technology solutions.
+
+
+Position type: Regular, full-time, exempt.
+
+Position compensation: Commensurate with experience and non-profit industry standards
+
+Position location: Redwood City, CA
+
+Number of positions available: 1
+
+Position Requirements
+
+A strong candidate will have the following required prior experience, skills and dispositions:
+
+    Has been an integral part of team that brought client-server products to market;
+
+    Expertise in web application development (javascript, angular.js, backbone, HTML, CSS, and JSON);
+
+    Built reports and dashboards using one of the common libraries like d3.js or Highcharts;
+
+    Built at least one application with a RESTful API;
+
+    At least five (5) years industry experience;
+
+    Knowledge of existing javascript libraries and frameworks that can assist in development of front end technologies;
+
+    A quick learner and experience working across the full stack;
+
+    Well-versed with current standards of software engineering practices;
+
+    Experience with Test-Driven Development;
+
+    Excellent communication skills, including verbal, written and interpersonal;
+
+    Excellent time estimation and prioritization skills; and
+
+    Ability to delegate, plan own work and task work out to others.
+
+
+The ideal candidate will also have the following preferred prior experience skills and dispositions:
+
+    Experience building complex web applications using modern programming languages and tech stacks;
+
+    Knowledge of Git and Grunt;
+
+    A quick learner and be willing to work with UX designers in rapid iteration;
+
+    At home with at least one CMS technology;
+
+    Knowledge of payment solutions, such as stripe.js, a plus;
+
+    Open source project contributions a plus;
+
+    Experience working with distributed interdisciplinary teams;
+
+    Experience working on educational products for or in educational environments with children; and
+
+    Prior experience working with game development or learning and assessment teams.
+
+
+How to apply
+
+To apply, please send an email with the subject “Front End Engineer” and attaching a cover letter and CV to jobs@glasslabgames.org.
+
+Due to the volume of applications we receive, we are unable to respond personally to every applicant. GlassLab, Inc. carefully reviews each application within one month of application receipt. If you do not hear from us within this time, we encourage you to apply again for another position in the future, and thank you for your interest in GlassLab.
+
+GlassLab, Inc. is an equal opportunity employer and does not discriminate on the basis of age, disability, sex, gender identification, sexual orientation, genetic information, national origin, race, religion or any other protected class. 

@@ -1,0 +1,80 @@
+Job Description 
+Software Engineer-161264
+Description
+ Position Title: Software Engineer
+Job Category: Engineering
+Location: Boston, MA
+___________________________________________________________________________________________________
+
+Job Summary
+This entry-level position is primarily responsible for coding and unit testing of the Teradata Loom product, with additional responsibilities to assist in maintaining development infrastructure, helping with product testing, and supporting customer use of Loom. The ideal candidate will have experience with Java development, and familiarity with functional programming languages such as Clojure; experience using relational databases; an understanding and some familiarity with Hadoop; effective communication skills; and a focus on delivering product at regular intervals.
+
+This position is on the Loom team, working on the Loom Server. Loom is a dataset management and data preparation tool for Hadoop.
+
+Work Environment
+This position is located in Boston, MA, working in the offices of the Teradata Center for Hadoop team. The Loom team itself is virtual, with developers in MD, VA, and MO, and testers in India. The candidate must be comfortable and productive working remotely and often independently, coordinating with developers in the US, as well as testers in Asia, as required. The team uses chat and twice-a-week ‘stand-ups’ for communication. Minimal travel (2-4 times/year) will be required.
+Qualifications
+ Key Responsibilities
+• Work on the Loom Server, adding in new functionality and fixing defects, for new releases.
+• Develop quality, maintainable code. Mostly in the Clojure language, with some development in Java.
+• Write unit tests for developed code, to thoroughly test everything checked in.
+• Coordinate with team lead on assignments, to ensure work is completed in a timely, quality manner.
+• Manage workload using a ticket management system (Jira). Regularly update tickets to reflect progress. Keep team lead in the loop on all activities and progress.
+• Manage code using the git distributed version control system.
+• Read design documents and understand how they relate to assigned tasks.
+• Communicate regularly and effectively with team lead and other team members via chat, and with test team via email and through the ticket system.
+• Test Loom at the end of product releases. Build up an understanding of Loom from a user’s perspective.
+• Understand and manage the Loom build process. Issue release distributions when required.
+
+
+Required Experience/Skills
+• Good Java software development skills, with understanding of packages, classpath, exception handling, and debugging/troubleshooting.
+• Ability to pick up Clojure (a functional programming language) quickly.
+• Knowledge of Hadoop; ideally some experience programming using Hadoop HDFS and MapReduce.
+• Ability to troubleshoot problems and use a debugger to isolate problems in code.
+• Experience coding and using development tools (VMs, IDE, debugger) on Linux.
+• Understanding of and experience with unit testing and unit testing frameworks.
+• Ability to code and unit test in an agile development environment.
+• Good time management skills to manage a small workload of assigned tasks effectively.
+• Strong analytical and problem-solving skills.
+
+
+
+Preferred Experience/Skills
+• Experience working with data and metadata. Have used relational databases and JDBC.
+• Experience with or strong interest in functional programming languages (Clojure, Scala, etc).
+o Alternatively, experience with multiple programming languages, and understanding of multiple programming paradigms, would be useful.
+• Experience with Hive, Pig, HBase and other parts of the Hadoop ecosystem.
+• Some experience with NoSQL databases (HBase, MongoDB, Cassandra, etc).
+• Experience using REST APIs. (Ideally, experience developing them also.)
+• Some experience with Web 2.0 technologies (Javascript, CSS) would help when interfacing with UI.
+• Familiarity with basic data statistics would be helpful.
+• Familiarity with machine learning and advanced statistical techniques would be a plus.
+• Ability to working effectively in a geographically-dispersed development team environment.
+• Experience with modern development infrastructures:
+o distributed version control system (git or mercurial)
+o IDE for development and debugging
+o ticketing system for managing tasks and defects; must know how to log tickets for defects
+o build systems (Jenkins, Maven)
+o virtual machines and cloud environments (former for development; latter for testing)
+
+
+Qualifications and Basic Requirements
+• US Permanent Residence
+• Bachelor’s degree in technical field; Master’s degree preferred
+• 1-2 years development experience using Java or multiple JVM-based languages
+• Ability to work independently with limited supervision and general direction
+• Excellent communication (verbal and written) and organizational skills
+
+
+
+*Our total compensation approach includes a competitive base salary, 401(k), strong work/family programs, and medical, dental and disability coverage. Teradata is an Equal Opportunity/Affirmative Action Employer and commits to hiring returning veterans.
+
+
+ 
+Job: Engineering
+Schedule: Full-time
+Primary Location: Americas-United States-Massachusetts-Boston
+Organization: Technology and Strategy
+	
+ 

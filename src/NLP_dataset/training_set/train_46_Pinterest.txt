@@ -1,0 +1,24 @@
+Software Engineer, Content Modeling at Pinterest
+San Francisco, CA, US
+Apply for this job
+Currently we collect and organize web content to give our Pinners a unique web experience, and our next step is to improve this functionality across mobile devices and international locations. You’ll work on a large-scale information retrieval system to process web content for many of our search and discovery features. Using machine learning and natural language processing, you’ll improve the Pinner experience by classifying interest categories and topics from the web to enrich the interest graph.
+
+What you'll do:
+
+Use machine learning, natural language processing, and graph analysis to solve a mix of modeling and ranking problems involving web pages, Pins, Pinners and their relationships
+Design and build machine learning systems that process and classifies Internet-scale content
+Develop processes to effectively evaluate data quality and impact on Pinner experiences
+Run experiments to generate and confirm hypotheses to improve key quality metrics
+Use Big Data technologies (such as Hadoop, Spark, Storm) for building large scale streaming data processing pipelines
+What we're looking for:
+
+Masters degree in Computer Science or equivalent experience
+Expertise in machine learning/statistics or Big Data
+8+ years of experience with algorithms, data structures and coding
+Understanding of an object-oriented programming language (Java, C++, Python)
+Experience in MapReduce/Hadoop and/or distributed systems
+Bonus Points
+
+Ph.D and research experience in machine learning or statistics
+Experience in delivering Big Data and modeling projects at Internet-scale
+Experience in web crawling or search infrastructure 

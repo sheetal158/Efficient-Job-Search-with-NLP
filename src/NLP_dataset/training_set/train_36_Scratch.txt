@@ -1,0 +1,35 @@
+Software Engineer at Scratch
+Cambridge, MA, US
+Apply for this job
+About us
+
+Scratch is a multi-platform e-commerce service that helps busy consumers find and buy unique gifts, home goods, apparel and accessories. Our members tell us what they’re shopping for. Our shopping experts (an in-house team amplified by a network of third-party category specialists) gather and send recommendations, which our members can buy with one tap on any device. We combine smart technology and analytics with refined taste and customer service to deliver an intimately personal user experience at scale. We help people feel better about how they’re spending their money and time.
+
+Founded in August 2014, based in Kendall Square and funded by Bessemer Venture Partners, we’ve recently beta launched our service in invite-only mode, and are working out the kinks before we open up the floodgates.
+
+What we’re building
+
+We’re currently focused on shipping the first version of our product, which comprises a suite of Angular interfaces (desktop, tablet, mobile) powered by a Firebase backend. We also maintain multiple NodeJS workers that handle our processing queue (email automation, payments, analytics etc).
+
+In addition to our customer-facing apps, we’re building internal tools to make our shopping process data-driven and scaleable, and enable a nationwide network of external tastemakers/experts to participate in our ecosystem.
+
+Finally, we’re building the infrastructure we’ll need to scale our team and product, and use our robust customer data to make our recommendations smarter and our process more efficient over time.
+
+Our engineers (like the rest of our team) are smart, scrappy, collaborative, curious and creative.
+
+What we’re looking for
+
+Proficiency in HTML, CSS and JS (we’re using Angular)
+Ability to take mocks and turn them into real web pages
+Curiosity about and passion for learning new frameworks and technologies
+Orientation to work as part of a team
+Ability to think about our product from the perspective of our users
+Disdain for being called a “ninja” or “rockstar”
+Nice to have but not essential: familiarity with NodeJS, Firebase (or any non-relational DB), some systems knowledge
+
+What we offer
+
+Competitive salary and benefits, including fully funded health plan
+Stock options, so that you benefit from the value you help create
+Policies that treat you like an adult: unlimited paid-time off and flexible work hours
+Opportunity to help shape a big new consumer service and great engineering team from an early stage 

@@ -1,0 +1,47 @@
+Software Engineer
+Monday March 02, 2015
+
+Boston , MA 02210
+
+There are engineers who code for a living. But you’re an engineer who lives for coding. You stay up-to-date on the newest technologies and tinker with them in your free time. You’re at your best when given a voice and real ownership of your projects -- not when you’re just another number to your employer. You want to join a dynamic team of no-nonsense (well, some nonsense) A-players who are passionate about helping small businesses succeed.
+
+We think we’re what you’ve been looking for.
+
+Working at Buildium is unlike any other gig you've ever had. We’re casual, open, innovative and collaborative. But we have a singular focus: building a great company. We eat lunch together, talk about pop culture and current events, and genuinely enjoy each other’s company. 
+
+We don’t hire based on a list of buzzwords or acronyms on your resume. We’re looking for pragmatic, technical experts who are passionate about technology, demand excellence of themselves and others, and want to make a real difference.
+
+Responsibilities
+
+    Design and develop across the entire stack, including the front-end, business, and data tiers
+    Achieve 100% code coverage with comprehensive automated unit tests
+    Produce high-quality C# and SQL code that’s optimized for performance and scalability
+    Conduct design and code reviews and ensure adherence to best practices
+    Help identify test cases, resolve issues, and fix bugs
+    Give accurate time estimates based on verbal and written specs
+    Contribute to documentation where required
+    Maintain a high awareness of industry issues and trends, particularly in regard to web technologies, .NET, MySQL, and automated unit testing
+    Disseminate technical knowledge to the rest of the team wherever possible
+    Identify and implement ways to improve how we build software
+
+Qualifications
+
+    Experience designing and developing highly scalable web apps on the Microsoft platform preferred, but we'll consider smart people who are willing to learn
+    Hands-on expertise with ASP.NET, C#, and SQL. Experience with JavaScript, jQuery, and AJAX is a plus, but not necessary - as long as you are willing to learn
+    Able to organize and clarify complex and nuanced business requirements
+    Passionate about technology, wants to stay hands-on, and enjoys coding
+    Familiar with Agile development processes
+    Understands emerging web technologies
+    Able to work in an unstructured, small company environment
+    Self-motivated and willing to work through problems without obvious answers
+
+Benefits
+
+    Competitive salary
+    Take-what-you-need paid time off
+    Health and dental insurance
+    401(k) retirement plan with company match
+    Group life, short-term, and long-term disability insurance
+    Flexible spending and dependent care accounts
+    Opportunity to work in a small, innovative startup environment
+    Ping-pong and foosball tables for superior hand-eye coordination

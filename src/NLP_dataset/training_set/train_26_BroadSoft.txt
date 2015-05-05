@@ -1,0 +1,31 @@
+JSOFT- CA: Jr Software Engineer
+Job Code:	JSOFT- CA
+Location:	USA - San Jose, California
+ 	 
+Position Overview:
+Primary Responsibilities:
+Skills and Educational Requirements:
+
+Position Overview:
+
+We are looking for a candidate who has the eagerness to learn and enjoy computer science. You should be bright enough to pickup the language of choice at the time. There should be enough curiosity within to want to explore new technologies and find out what’s going on under the covers.
+
+People skills are a must. If we can’t work with you, it doesn’t help if you’re smarter than anyone else. Being able to present your ideas on paper and in meetings will be a great benefit. We want you to share your ideas using all possible methods.
+
+Have you thought of solutions that others would consider weird? Did you take the time to implement the idea to completion? If this sounds like you, then come check us out. Hopefully you will be interested in us as we are in you!
+
+
+Essential Duties and Responsibilities:
+• Contributing to sever side development in Java.
+• Understand the existing application code base and design architecture
+• Helping in supporting the product
+• Other tasks as directed
+
+Education & Certifications:
+• Computer Science Bachelor’s degree
+
+Skills, Knowledge & Attributes:
+• Proficiency in at least one OOP language like Java, C++
+• Show a passion for technology and advocating for a top-notch customer experience
+• Ability to collaborate and communicate with team members
+• Be able to work in a fast paced environment while keeping your cool and utilizing your exceptional critical thinking skills

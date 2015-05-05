@@ -1,0 +1,34 @@
+Java Software Engineer
+Casenet, Inc. - Bedford, MA
+You will utilize your robust technical skills and competencies to design, develop, and maintain several key subsystems for Casenet’s next-generation product, TruCare.
+
+    Design, develop, and maintain various aspects (i.e. domain model, services, etc.) for key functional subsystems
+    Collaborate effectively with highly skilled team members to deliver high-quality product and other deliverables in a timely manner within an Agile environment.
+    Continuously evolve and contribute to a culture of software excellence. 
+
+
+QUALIFICATIONS:
+
+    5+ years developing complex, high-performance enterprise software
+    3+ years of Java development
+    Broad experience with the latest Java technologies
+    Experience with other contemporary Java technologies (e.g. JBoss, jBPM, Quartz, etc.)
+    Broad experience with relational databases (e.g. SQL Server, Oracle)
+    Impeccable software engineering habits
+    Strong written and verbal communication skills
+    A positive outlook, a passion for software engineering and the ability to work as part of a team
+    A sense of urgency and the ability to hit the ground running 
+
+
+Preferred Qualifications
+
+    Experience with Hibernate, Spring, Flex, JBoss, jBPM
+    Knowledge of Agile Scrum development methodology
+    Experience with SSIS and/or Clover ETL
+    Experience with mobile development technologies (iOS, Android, Windows)
+    Experience in the healthcare, insurance, or related industries 
+
+
+Please submit your resume to careers@casenetllc.com and clearly state your Visa status and sponsorship requirement if needed.
+
+All inquiries and responses are held in strictest confidence. Principals only, no agency or search referrals will be honored. 

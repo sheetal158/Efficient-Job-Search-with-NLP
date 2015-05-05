@@ -1,0 +1,92 @@
+ Software Engineer
+
+Tracking Code
+    4644 
+Job Description
+
+     
+
+    iHeartMedia, Inc. is one of the leading global media and entertainment companies specializing in radio, digital, outdoor, mobile, live events, and on-demand entertainment and information services for local communities and providing premier opportunities for advertisers.   
+
+     
+
+    iHeartMedia, Inc. consists of two main media businesses: Clear Channel Outdoor Holdings (NYSE: CCO) and the wholly owned iHeartMedia. Between these divisions, we focus on providing a spectrum of multi-platform advertising and marketing opportunities for partners and world-class entertainment content and events for listeners and users.
+
+     
+
+     
+
+    Purpose:
+
+    Our Revenue Platforms Group located in Aliso Viejo, CA is seeking an experienced Software Engineer to assist in the design and development of our products. The ideal candidate will have strong JavaScript, CSS 3, and HTML5 skills. A background of working on large scale enterprise products is ideal. Strong back-end services and data structures, such as JSON, XML and SOAP are also required. Experience and enthusiasm for Scrum, XP, or other Agile methodologies is a huge plus.
+
+    
+Required Skills
+
+    Profile:
+
+    Candidate must be an experienced developer who is a self-starter with demonstrated excellent written and verbal communication skills, and the ability to produce well written code with a low defect rate. Candidate will be expected to conform coding style to our established development and architectural standards and philosophies. In addition, candidate must be organized, thorough, personable, detail oriented and self-motivated.  Candidate must be able to successfully integrate with a team and focus on ensuring the team’s success. Candidate will have a can-do attitude and will place an emphasis on a practical approach to getting quality work done on time in a fast-paced environment.
+
+     
+
+    A positive attitude, while maintaining the highest level of professionalism, is necessary to meet the expectations of our corporate culture.
+
+     
+
+    The position is located in our Aliso Viejo, California office.
+
+     
+
+     
+
+    Qualifications:
+
+        At least 4 years of heavy experience developing Web applications using JavaScript, CSS 3, and HTML5
+
+        At least 2 years of back-end services and data structures, such as JSON, XML and SOAP
+
+        Experience using popular JavaScript frameworks such as jQuery, Kendo UI, and/or similar a plus
+
+        Experience with Salesforce.com is considered a plus
+
+        Knowledge of Scrum, XP and/or other Agile methodologies is a plus
+
+        Effective written and verbal communication skills
+
+        Ability to work effectively in a very collaborative team based environment
+
+        Experience in radio, or a related media industry, is a plus
+
+        A positive attitude and professional disposition
+
+     
+
+     
+
+    Primary duties and responsibilities include but are not limited to the following:
+
+        Interpret business requirements and collaborate with a cross-functional team to determine implementation details
+
+        Perform coding and other related software engineering tasks per project requirements
+
+        Perform as an effective member of an assigned team
+
+        Participate in Sprint Reviews, Planning, Daily Scrum Meetings as a committed member of the team
+
+        Create, document, and perform unit-test plans / scripts / and test-harnesses
+
+        Perform JavaScript, CSS 3, and HTML5 coding to acceptable departmental standards
+
+        Participate in code and design reviews
+
+        Investigate, analyze, and document reported issues
+
+        Perform other related duties as assigned
+
+     
+
+    Occasional travel may be required
+Job Location
+    ALISO VIEJO, California, United States 
+Position Type
+    Full-Time/Regular 

@@ -1,0 +1,37 @@
+Cloud-Software Engineer
+San Jose, California
+
+San Jose client seeks a Cloud Software Engineer (Contract)
+
+Description
+The Cloud Infrastructure & Managed Services team is currently seeking a self-motivated Software Engineer to assist with improving our InterCloud platform by creating new Database-as-a-Service (DBaaS) capabilities using OpenStack Trove.
+
+Role & Responsibilities
+In this role you will work in a fast-paced work environment to enhance, validate, deploy and operate OpenStack Trove in full-scale production including but not limiting to the following responsibilities;
+
+Collaborate with other Cisco team members to add features, validate and deploy OpenStack Trove into production to create new Database-as-a-Service offerings
+Design and develop new DBaaS features to ensure scalability in production using Python and/or other high level languages
+Work with partners to validate and deploy their offerings to the partner data centers
+Automate deployment workflows and integrate with software development lifecycle processes
+Identify, prioritize and fix any issues related to the services features and capabilities
+Work to enhance the services availability, performance and data durability to continually improve its operational robustness
+
+Minimum Qualifications
+BS/CS/ or equivalent degree plus 5-7 years of software development experience
+Previous experience in cloud computing and/or the development of SaaS/IaaS/PaaS applications
+Familiar with Postrgres, MySQL, NoSQL, MongoDB or Cassandra databases
+Previous experience working in agile development environment
+
+Non-Technical Requirements:
+Work on geographically distributed teams
+Understand IT processes, including: architecture, design, implementation, and operations
+Excellent communicator
+Self-motivated, able and willing to help where help is needed
+Able to build relationships, be culturally sensitive, have goal alignment, have learning agility
+
+Desired
+OpenStack Trove
+
+This position can reside in Seattle, WA or SJ, CA
+
+Email resumes to coellen.camat@experis.com

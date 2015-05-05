@@ -1,0 +1,28 @@
+Software Engineer – Springfield, VA
+Job Posting #13-11
+
+RadiantBlue Technologies, Inc. is seeking a forward-thinking software engineer to build novel solutions for challenging problems in national security. You will support our Data Liberation Division that delivers visualization, data-access and integration, massive data warehousing and processing, algorithm development, and automation solutions. We build web and desktop apps, services, and data repositories. We work closely with users and stakeholders to help understand needs and shape the future.
+
+Required Skills & Experience:
+
+    Active Top Secret/SCI clearance is required. CI Poly desired or able to obtain.
+    Degree in Engineering or Computer Science
+    Java or C# programming
+    Cloud computing
+    Geospatial data and concepts
+    2D & 3D visualization and graphics
+    Desktop-Caliber applications in a Web browser (especially using GWT)
+    Highly-Scalable services and applications
+    Search indexing and information retrieval (e.g. Lucene)
+    Distributed computing and data processing (e.g. Hadoop)
+    Web services
+    SQL database
+
+ 
+
+Note: After successfully completing the RadiantBlue interview process, this position is contingent upon customer acceptance of candidate’s resume.
+Salary and Compensation are commensurate with skill level and company needs.
+
+If you would like to apply for this position online, please click here.
+
+RadiantBlue Technologies is an equal opportunity employer.

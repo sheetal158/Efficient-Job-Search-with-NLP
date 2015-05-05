@@ -1,0 +1,18 @@
+Requisition Number: 	1587
+Job Title: 	Software Engineer
+Area of Interest: 	Software Engineering
+City: 	Cambridge
+State/Province: 	Massachusetts
+Job Description: 	Software Engineer-Big Data Cancer Genome Analysis
+
+Would you like to work alongside some of the leading scientific minds in the world, contributing to research with the potential to impact millions of lives? Then join our small interdisciplinary team of software engineers and computational biologists that has had an oversized impact in the quest to cure cancer. We are seeking a versatile engineer to help operate and extend the groundbreaking TCGA GDAC Firehose computational pipeline and FireBrowse.org analysis portal. A medical, genomics, or scientific background is helpful but not required, just a passion to advance biomedical research with rigorous software to automatically process and analyze scientific data on an unprecedented scale.
+Requirements: 	- B.S. or M.S. degree in Computer Science (preferred), Bioinformatics, Computational Biology, or related field with 2 to 5 years of experience
+- Strong programming skills: we largely work in Python, but any of JavaScript, HTML, R, MatLab, C/C++ are a plus
+- Skill with Unix environment and tools, including make and shell scripting
+- Multidisciplinary inclination: able to collaborate across computer & life sciences, or other domains
+- Effective, cross-cutting communication skills, with ability to distill meaning from uncertain information
+- Demonstrated ability to pragmatically deliver impactful results
+- Able to juggle a variety of complex tasks in fast paced environment, with minimal supervision
+- Experience with release engineering and process automation is a big plus
+- Data engineering in NoSQL and SQL database technologies is a big plus
+- Experience developing software in a scientific field is a plus, particularly with modern data visualization toolsets 

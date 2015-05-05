@@ -1,0 +1,48 @@
+Software Engineer - Principal
+Division Digital Factory (DF)
+Job Type Regular
+Business Unit Product Lifecycle Management
+Job Time Full-Time
+Functional Area IT - Information Technology
+Experience Level Senior Level
+Req ID 140244
+Required Education Masters Degree
+Location MA - Waltham, CA - Cypress, MN - Shoreview
+Required Travel 15%
+
+Division Description
+The Siemens Digital Factory Division offers a comprehensive portfolio of seamlessly integrated hardware, software and technology-based services in order to support manufacturing companies worldwide in enhancing the flexibility and efficiency of their manufacturing processes and reducing the time to market of their products.
+
+For more information, please visit: http://www.siemens.com/businesses/us/en/digital-factory.htm
+
+
+Job Description
+Duties and Responsibilities:
+
+Coordinate development of the integration between the SES products and Teamcenter
+Provide technical ownership and oversight of the project
+Create and maintain architectural deliverables such as Data Models and Use Cases
+Analyze and resolve technical issues and evaluate design alternatives
+Collaborate closely with other architects and the product team to deliver a solution that meets the market needs
+Ensure customer use cases are factored into the architectural evolution of the solution
+
+Minimum Requirements:
+
+Multiple years of experience working within the Teamcenter environment
+Experience working with NX Manager or Teamcenter integration with Catia
+Background in software engineering and at least 5-10 years of professional experience in a software architect role.
+Strong knowledge of C++ or Java
+Experience working with Eclipse, Web based applications and SOA development
+Demonstrated leadership skills; ability to work independently with minimal supervision
+Excellent written and verbal communication skills
+
+*LI-JGF
+
+
+Siemens encourages qualified long-term unemployed individuals to apply for open positions.
+
+Equal Employment Opportunity Statement
+Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, ancestry, national origin, sex, sexual orientation, gender identity, age, marital status, family responsibilities, pregnancy, genetic information, protected veteran or military status, other categories protected by federal, state, or local law, and regardless of whether the qualified applicants are individuals with disabilities.
+
+EEO is the Law:
+Applicants and employees are protected under Federal law from discrimination. Click here to learn more. 

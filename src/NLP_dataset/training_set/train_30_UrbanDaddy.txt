@@ -1,0 +1,59 @@
+Title 	Software Engineer  
+Position 	Software Engineer  
+Category 	Engineering  
+Location 	New York  
+About the Organization 	UrbanDaddy, based in New York City, is a rapidly growing digital media brand, delivering consumers unique and local lifestyle recommendations via the web, email and mobile platforms. The Company publishes content that is entertaining, on point, and actionable. In an online environment diluted by unvetted reviews and biased promotions, UrbanDaddy distinguishes itself as a trusted source of highly curated content, uncovering the best in nightlife, dining, gear, travel, style and leisure.
+
+UrbanDaddy has emerged as one of digital media's leading taste-makers, having been recognized for excellence by the New York Times, AdAge, AdWeek and MediaPost. It has also been prominently featured by Apple in its national iPhone marketing campaigns. UrbanDaddy's success has attracted world-class advisors, management and staff.  
+Description 	
+
+We’re looking for a full-stack software engineer to join our technology team.
+
+Team
+
+Our engineering team runs the gamut from veterans of the Internet giants to recent graduates, but we all believe in what we do.  We work hard and are well-rewarded in return, in particular when it comes to respect and trust from our company’s leadership.  Our culture and work environment are designed with one and only one purpose in mind: to make it as easy as possible for each of us to get the job done.  Everything else -- from software/tool selection to management policy -- flows naturally from that.  Every team has its challenges; bureaucracy and BS are not among ours.
+
+Technology
+
+From a technology perspective, our business has three components: editorial, e-commerce, and events.  The production platforms underlying all three are made up of in-house applications running in the cloud.  We are in the process of building out our new unified core platform with Python (Django) on Heroku and are already using it for all new sites.  Some of our sites still rely on a legacy PHP code base and an inherited architecture, but we’re migrating those to the new platform as soon as possible.
+
+What It Takes
+
+    The ability to move fast without breaking stuff.  A successful candidate will most likely have 4+ years of professional software engineering experience.
+
+    A methodical yet highly adaptable nature; the ability to learn on the fly and keep up in a fast-paced environment.
+
+    Extremely effective written and verbal communication with both engineers and non-engineers.
+
+ 
+
+Last but not least, this job requires the ability to produce high-quality results quickly without micromanagement, so a no-excuses attitude is absolutely crucial for this role.  We always deliver, period.
+
+ 
+ 
+Position Requirements 	
+
+What We Use
+
+    Python and Django.  We’re also open to candidates that are strong in another language/framework and interested in transitioning.
+
+    JavaScript/ECMAScript, HTML, and CSS.
+
+    PostgreSQL and MySQL.
+
+    Git (currently with GitHub).
+
+    Heroku.
+
+    Amazon Web Services, especially EC2 and RDS.
+
+    Ubuntu Linux on EC2 only (we all use Macs).
+
+    Atlassian JIRA and Confluence.
+
+    PHP, until we’re completely rid of it (and we will be).  For now, we support Symfony for our legacy platform and Magento for our e-commerce site, Perks.
+
+ 
+
+...and above all, human intelligence.  We’re experts at what we do, but we’re also always ready for a better way of doing things.
+ 

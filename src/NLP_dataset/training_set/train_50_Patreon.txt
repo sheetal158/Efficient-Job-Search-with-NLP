@@ -1,0 +1,19 @@
+Software Engineer
+Patreon - San Francisco, CA
+Who you are:
+
+    You are the puzzlemaster! Ok, maybe not the puzzlemaster, but you understand complex problems and how to tackle them. You communicate well with people and grasp ideas easily. Your mind is always delicately balanced between the job at hand, and ways to improve upon the job at hand. Like that time you changed the handlebars out on your bike. Now you’ve got control and comfort.
+
+What you would do:
+
+    Help us build the backbone of Patreon.
+    Implement new features and optimize existing ones.
+    Rapidly fix bugs and solve any issues that might arise.
+
+Skills you possess:
+
+    Solid understanding of the full web technology stack. (e.g. HTTP, cookies, headers, asset loading, caching.)
+    Familiar with databases. (MySQL, PostgreSQL)
+    Bonus points if you're familiar with: Python, Java/Scala, PHP, JQuery, Node.js, Ruby, MVC frameworks, API development, DevOps.
+    Familiarity with payments systems Stripe and Paypal.
+

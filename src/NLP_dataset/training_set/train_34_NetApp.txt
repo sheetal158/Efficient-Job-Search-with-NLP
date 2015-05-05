@@ -1,0 +1,44 @@
+Business Card Title / Posting Title 	Software Engineer
+Job Summary:
+From the newest ideas in cluster computing to the latest web framework, NetApp software products embrace innovation to deliver compelling solutions to our business.
+
+As a Software Engineer you will work as part of a team responsible for participating in the development, testing and debugging of operating systems that run NetApp storage applications. In addition, you will participate in activities that include testing and debugging of operating systems that run NetApp storage applications. As part of the Research and Development function, the overall focus of the group is on competitive market and customer requirements, supportability, technology advances, product quality, product cost and time-to-market. Software engineers focus on enhancements to existing products as well as new product development.
+
+This position requires an individual to be creative, team-oriented, a quick learner and driven to produce results.
+
+Essential Functions:
+- Modifying and maintaining existing systems
+- Responsible for providing support in development and testing activities of other engineers
+- Coding
+- Designing
+- Testing and/or Unit Testing
+- Test automation
+- Debugging
+- Performance Analysis
+- Participate in technical discussions within the team or other groups within the Business Unit associated with specified projects
+- Willing to work on additional tasks and responsibilities that will contribute towards team, department, and company goals
+Requirements:
+- Strong oral and written communication skills are essential
+- Work collaboratively within a team environment of other engineers to meet aggressive goals and high quality standards
+- Knowledge and experience in specific areas of engineering
+- Proven aptitude for learning new technologies
+- Proficient in technology and development
+- Familiarity of basic concepts of computer architecture, data structures and standard programming practices
+- Follow standard engineering principles and practice
+- Creative and analytical approach to problem solving
+Responsibility:
+- Responsible for a mix of structured and unstructured tasks
+- Apply attained experiences and knowledge in solving routine to moderately complex problems
+- May work with teams across the company in problem solving and design efforts
+Interaction:
+- Interact primarily with direct manager and the technical team on assigned projects. There may be communication with employees in other functions within the Business Unit as required
+- General direction is provided on routine work and detailed direction is provided on new projects and assignments. There will be on-going reviews of activities and priorities
+- Participate as an important contributor to team projects
+Education & Experience:
+-We are seeking full time University Hires that are pursuing or posses a Computer Science, Computer Engineering or an equivalent degree with a tentaive start date of May/June 2015
+- Demonstrated ability to have successfully completed multiple, moderately complex technical tasks
+Posting Category 	University
+Software Engineering 
+Full time / Part time 	Full-time
+Posting Location 	USA - Massachusetts - Waltham
+Requisition Number 	32462BR

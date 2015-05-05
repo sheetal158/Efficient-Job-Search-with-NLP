@@ -1,0 +1,36 @@
+Software Engineering
+
+    Job Title: Software Engineer
+    Location: Cambridge, MA
+    Job Code: HE040215-SLG
+
+Job Description:
+This is an exciting opportunity for an experienced and enthusiastic Software Engineer to work on cutting-edge intelligent systems applied to areas such as crowd sourcing problems, adaptive educational game development, and/or advanced adaptive visualization design problems. You will design and implement a variety of AI algorithms, user interfaces, and training technologies, working in small, project-oriented groups. You will read scientific papers, and work with our PIs to apply scientific research to real defense problems.
+
+Working closely with our PIs, you will participate in a small team following the Agile development paradigm, Scrum, to address requirements across several advanced research and development efforts. You will participate in the design of intelligent simulation- and game-based training systems. In service of these responsibilities, you will need to keep informed of company software development practices, select the best technology solutions, and work with a team of engineers in implementing the envisioned designs.
+Requirements:
+
+    BS Degree in Computer Science or Engineering and 2-5 years of software development experience, including designing, programming, and documenting complex software systems on Windows and Unix/Linux
+
+    Knowledge of software engineering practices (e.g., Agile (Scrum), reading/generating software specs, following software coding guidelines)
+
+    Expertise with C++, Java, object-oriented design, and graphics development
+
+    Expertise with web service and application development and/or Unity/C# development will be considered a plus
+
+    Ability to think critically and creatively to develop innovative solutions to research questions
+
+    Ability to work both independently and effectively within a team environment (may be expected to interact with clients and other performers)
+
+    Experience using artificial intelligence (AI) algorithms for analysis, behavior modeling, and/or crowdsourcing will be considered a plus
+
+    Experience with game design and development will be considered a plus
+
+    Experience with advanced and/or adaptive visualization design and development will be considered a plus
+
+    Code and writing samples may be requested
+
+    US Citizenship is required for this position
+
+
+If you have been referred by a Charles River Analytics employee, include his or her name in the notes section of the online application form.

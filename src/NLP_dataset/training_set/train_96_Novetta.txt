@@ -1,0 +1,59 @@
+Career Opportunities: Software Engineer (6083)
+Req Id 6083 - Posted 04/02/2015 - San Antonio, TX - Information Technology
+Job Description Print Preview
+ 
+
+What we do:
+Novetta focuses on three core areas: Data, Cyber, and Social Analytics. Our products are focused on processing and analyzing vast amounts of data in these core areas. Our services are focused on helping our customers move from complexity to clarity.
+
+The Novetta Difference:
+Our interdisciplinary expertise enables us to solve our customers’ most complex problems through a combination of: Smart people, fresh approaches, and focused inspiration; Domain and subject-matter expertise; Agile and flexible solutions; Software that operates at scale and speed; A culture of challenge and continuous learning. At Novetta, we bridge the gap between what our customers think they can do and what they aspire to achieve.
+
+Our culture is shaped by a commitment to our Core Values:
+Integrity | Customer Mission Success | Employee Focus | Innovation
+ 
+Position Description:
+
+We are seeking a talented Software Engineer to work on cutting edge single page applications. You will be part of a team of dedicated professionals solving our customers’ most challenging problems.
+
+ 
+
+In this role you will:
+
+    Apply the following technologies/protocols to develop single page applications:  JavaScript, C# and SQL, HTML and CSS
+    Perform software development and application support activities.
+    Be responsible for creating/maintaining program and application documentation
+
+ 
+
+Basic Qualifications:
+
+    A minimum of 3+ years of experience with one of the following: Java, Javascript or C#
+    Must be comfortable in a Microsoft environment
+
+    Academic or practical project experience in software system design and testing
+    Strong problem analysis and solving skills
+    Learns new technologies independently
+    BS degree in Computer Science or related IT field
+
+ 
+
+Desired Skills:
+
+    Familiarity with software development tools and environments
+    Experience in an agile scrum development environment
+    Experience creating Single Page Applications 
+    Strong knowledge of asynchronous processing, 
+    Experience with require or common JS frameworks
+    Experience with Parallax and Responsive Applications implementation
+
+ 
+
+Security Clearance:
+
+Must have a TS/SCI clearance. 
+
+
+Get a referral bonus for the great people you know! With our amazing referral program, you could be eligible to win outstanding rewards for referring qualified new hires to Novetta.
+
+Novetta is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.

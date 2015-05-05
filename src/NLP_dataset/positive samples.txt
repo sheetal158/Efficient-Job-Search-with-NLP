@@ -1,0 +1,60 @@
+Experience in Java
+Experience in SDET is valuable
+Experience with Amazon Web Services technologies including EC2, SWF, CloudFront, CloudFormation, etc.
+Experience with common open source technologies including Angular-JS, Tomcat, Selenium, Jenkins, Maven, TestNG, RestAssured, Soasta, etc.
+Languages: Objective-C, C, JavaScript, Python
+Platforms: iOS and Mac OS X and Linux and Web
+Data visualization / statistics experience (JMP, d3js, R)
+Experience building rich client-side interactions with ARIA using a combination of AJAX, HTML, CSS, JavaScript
+Proficient knowledge of database (PostgreSQL preferred)
+Proficient knowledge scripting languages (Python preferred)
+C++
+General Windows, Linux operating systems knowledge
+Strong scripting experience (Shell, Perl, Python, Ruby etc.)
+Proficiency with Public Cloud platforms (IaaS/PaaS) on Openstack and AWS
+Configuration management tools like Chef, Puppet etc.
+Monitoring tools like Nagios, Munin, Zenoss, etc.
+Release Engineering tools like Maven, Jenkins, etc.
+Knowledge of or the desire to work with Zabbix, NewRelic, Logstash, and MongoDB, Cassandr, Elasticsearch.
+Hands on exposure to Linux, Git/SVN or other source control tools
+Minimum 3 years of post-academic experience in commercial software including Java, Swing, JDBC, RMI, J2EE, XML
+Familiarity with open source frameworks: Spring, Hibernate, Spring MVC, Spring JDBC, Ant, JMS.
+Knowledge of relational databases and SQL including working experience with Sybase and/or Oracle
+Coding expertise: mastery of C/C++ programming on large systems.
+- Minimum of 3 months experience with C/C++ programming
+- Experience with Linux kernel and Linux device drivers
+Strong background working with embedded devices and wireless protocols such as Z-Wave, ZigBee, and WiFi
+Expertise with standard Internet protocols across the stack, such as TCP/IP, UDP/IP, HTTP, SOAP, and RESTful Web Services
+Expertise in one or more of the following languages: Groovy, Java, Ruby, Python 
+Strong coding skills in modern languages such as C++/Javascript/Python
+Java or equivalent OO language, familiarity with Unix/Linux environments, in depth knowledge of service development with solid experience in code optimization and low-latency computing.
+Progressive rendering, Responsive Design and modern brower techniques (HTML5, CSS3)
+At least 4 years of heavy experience developing Web applications using JavaScript, CSS 3, and HTML5
+At least 2 years of back-end services and data structures, such as JSON, XML and SOAP
+Experience using popular JavaScript frameworks such as jQuery, Kendo UI, and/or similar a plus
+Knowledge of Scrum, XP and/or other Agile methodologies is a plus
+Coding skills in C++, Java or Python.
+Experience with open source search engines like elasticsearch, solr or lucene
+2+ years experience in developing Ruby
+Familiar with and experience of SQL, NoSQL, Messaging, Middleware and similar systems
+Familiar with and experience of Configuration Management and Deployment systems i.e. CHEF and/or Puppet.
+3+ years of experience in testing, networking or storage drivers on Operating environments such as Linux, ESX.
+Experience in shell scripting, perl/Tcl/python/expect/etc.
+3 + years experience with Javascript, HTML, CSS, (experience with AS3 Flash is a plus)
+Advanced Javascript skills (DHTML, OOP, AJAX, jQuery, JSON)
+Experience with JSP/JSTL and/or Velocity is a plus
+Previous experience with browser extension technologies (IE, Firefox, Chrome, Safari)
+Experience with SVN or other source control software
+Experience with networking (TCP/IP and DNS)
+Experience with HTML, CSS, JavaScript and JQuery or other frameworks
+Experience with Apache, Tomcat, Drools, Subversion, Linux preferred
+Chef or other configuration management tool
+Design and develop Linux user space applications using C/C++ programming language
+Good understanding with hands-on corporate experience in using DBMS, such as PostgreSQL and MS SQL server
+Good understanding with hands-on corporate experience in virtualization infrastructure, such as KVM and VMware
+Hands-on experiences in troubleshooting multi-threaded Linux applications using gdb and valgrind
+8+ years of experience in development on a wide range of technologies : Java, Javascript, HTML, CSS, SQL (Adobe Cold Fusion and Adobe Flex are pluses)
+Experience in large scale, SaaS applications systems
+Experience in Agile developments
+Be a fast learner
+Have strong problem solving skills 

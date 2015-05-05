@@ -1,0 +1,35 @@
+Software Applications Engineer
+Conexant - Irvine, CA
+Here at Conexant we make new ideas possible through our technology advances and application expertise.
+
+We are looking for a highly skilled Software Applications Engineer. Join the team!
+
+This is a contract position
+
+Responsibilities:
+
+    Responsible for designing, implementing and modifying Graphical User Interfaces (GUI) application software to configure and control consumer PC devices and peripherals
+    Working with product marketing, customers PAE’s, FAE’s, and VLSI engineering to design intuitive, efficient and visually attractive user interfaces.
+    Working with graphic artists and creative services to develop custom skins, icons and widgets.
+    Keeping up to date on industry trends in the application software development area. 
+
+
+Qualifications:
+
+    3+ years experience in application software development 
+
+    Fluent in C# programming, Visual C++, and C
+    Experienced in application software (GUI) development for the Windows XP/Vista/Win 7 and Win 8 platform required; experience with writing applications for Linux, Android and Mac OS is a plus.
+    Familiar with WinAPI, DirectX, GDI, .NET, MFC Frameworks/Programming.
+    Familiar with WPF is a plus.
+    Familiar with the basic functions of common PC peripherals/devices, such as Audio, communications devices and input/output devices.
+    Basic understanding of Windows Driver Model (WDM), and Windows Driver Framework (WDF)
+    Graphic art experience is also a plus
+    Strong communication skills and the ability to work in a team environment
+    BSEE/MSEE/BSCS/MSCS or equivalent 
+
+Qualities of Ideal Candidate :
+
+    Able to work with minimum supervision
+    Able to work in multi-disciplined teams
+

@@ -1,0 +1,71 @@
+Job #2805: IT
+Job Code: #2805
+Title: Linux Software Engineer (Linux, C++, Python)
+Job Type: Direct Hire
+Job Location: San Jose CA
+
+Job Description:
+
+Software Engineer (Python, C++, Linux)
+
+Scion Staffing, the Bay Area’s staffing experts, (www.scionstaffing.com) has been engaged to conduct a search for a Software Engineer for a cutting-edge wireless and wired communications company providing communication components, systems and solutions for the transportation industry and other verticals.
+
+Responsibilities:
+
+· Write and implement design specs for feature sets from product requirements provided by engineering management
+
+· Good understanding of design patterns, such as factory design
+
+· Design and develop Linux user space applications using C/C++ programming language
+
+· Design and develop Linux user space applications with using ODBC and embedded SQL
+
+ · Work regularly with debugging tools such as gdb and valgrind to ensure strength of code
+
+· Make significant contributions to our various Linux user space software development efforts
+
+· Demonstrate good judgment in selecting methods and techniques for obtaining solutions
+
+· Pro-active communication inside product team including peer code review and collaborative assistance
+
+· Be able to adapt to issues and changes and quickly learn skills required for latest design
+
+· Work collaboratively with the team on feature development and issue resolution
+
+· Work collaboratively with test engineering to ensure best-in-class systems software reliability and performance
+
+· Exercise good engineering practices, such as source control, peer code review, bug tracking, and unit test, using git, bugzilla, gerrit, robot framework, etc
+
+· Support other Linux software development centers in several geographical sites
+
+Qualifications:
+
+· Bachelor’s degree or global equivalent in Computer Science or related discipline, Master’s degree or global equivalent a plus
+
+· Minimum three years of hands-on corporate working experience in C/C++ and pthread programming
+
+· Strong background and hands-on corporate experience in IP networking and infrastructure
+
+· Strong background and hands-on corporate experience in C/C++ programming with using ODBC and embedded SQL
+
+· Good understanding with hands-on corporate experience in using DBMS, such as PostgreSQL and MS SQL server
+
+· Good understanding with hands-on corporate experience in virtualization infrastructure, such as KVM and VMware
+
+· Good understanding with hands-on corporate experience in enterprise feature development cycle
+
+· Hands-on experiences in troubleshooting multi-threaded Linux applications using gdb and valgrind
+
+· Hands-on style, delivering materials quickly and efficiently
+
+· Excellent interpersonal as well as written and oral communication skills
+
+· Comfortable in a dynamic, collaborative, intense environment
+
+· Open-minded, self-motivated, enthusiastic, and creative at work
+
+· Position location is San Jose, CA
+
+ 
+
+Scion Staffing is an equal opportunity employer and service provider and does not discriminate on the basis of race, religion, gender, gender identity, national origin, citizenship status, sexual orientation, disability, political affiliation or belief. We are committed to the principals of Equal Opportunity Employment and are dedicated to making employment decisions based on merit and value, for ourselves, our client companies, and for the candidates we represent.

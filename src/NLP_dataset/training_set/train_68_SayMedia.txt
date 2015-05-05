@@ -1,0 +1,39 @@
+Software Engineer - Reader Experience
+Engineering | San Francisco, CA
+
+Say Media, a global online publishing and technology company, is seeking a Software Engineer, who loves working with cutting edge front end technology. But isn’t everyone? Why is this position different?  Read on my friend.  
+
+
+Who we are:
+
+Say Media is reinventing the digital magazine with Tempest, our award-winning publishing platform, designed to create rich editorial experiences that bring content front and center. Unlike a general purpose CMS, Tempest is built from the ground up to support the specific needs of the modern digital magazine. We partner with leading digital magazines to give them a best-in-class publishing platform and professional services, allowing them to focus on their content, their readers, and their business instead of their technology. And we are always inventing beautiful new experiences like Adaptive Ads which seamlessly incorporate quality content and brand messaging on any device. Owning our own technology means we can also innovate faster - and keep making things better.
+
+
+Tempest currently serves 50 million pages per month, and we are continually adding new sites and partners. We expect fast-paced growth throughout the company.
+
+
+About the job:
+
+As an engineer, we know you’re primarily interested in technology, so let’s talk about that first.  Sure, we’re looking for the usual front end stack (javascript/html5/css3) but that’s a given, right?  We are looking for someone with deeper skills and interests.  Someone interested and/or experienced with frameworks and technologies like AngularJS, Node, SCSS, Bower, Karma, responsive web design...a true front end enthusiast.  Curious how Polymer will fit in with AngularJS?  If you know what that means, then we want to talk to you! And if you don’t?  Well, Google it, it’s pretty cool!  And as a software engineer, we expect you to be familiar with a full stack of web technologies.  Think python, php, or ruby, plus a healthy dose of relational and nosql databases, http, seo, site performance, A/B testing and more.  You don’t need to have it all but should have some combination of those skills.
+
+What kind of business problems will you be working on?  Here at Say Media, we publish and support some of the leading content and media sites on the web. Our publishing platform is used by millions of readers at sites like xojane.com, readwrite.com, and remodelista.com to name but a few.  Working with the product, design, and engineering teams, you will use your technical skills to create an intuitive, beautiful reader experience across all devices.  We expect you to help design, develop, improve and maintain our next generation publishing platform.  On any given day, you could be working on a responsive web framework that will work on any number of devices.  Or you could be building out the latest editorial features in our CMS.  Or helping to improve our site performance through your extensive knowledge of how the DOM loads and javascript executes.
+
+    Design, implement, and maintain front end features
+    Work with the latest and greatest tools and frameworks to take our site user experiences to the next level
+    Work with the Product team to design and spec new functionality
+    Work with the DevOps team to test and deploy code using continuous integration
+    Participate in all phases of the software development cycle
+    Knowledge of CMS systems and workflows a plus
+    Become a valuable member of the Site Experience team and contribute in it’s culture
+
+
+About you:
+
+The ideal candidate will have an engineering or computer science degree or equivalent experience with a full stack background and a passion for front end technologies.  This is a highly technical role that will be a key position in helping to deliver our content to millions of users on the web.  All applicants will be tested on software development and computer science topics including algorithms, software architecture, software design patterns, and performance analysis.
+
+    3+ years software engineering experience
+    2+ years of software engineering in JavaScript, HTML, CSS
+    Experience working with LAMP, Ruby, Python, and/or PHP
+    Experience using REST based API’s to perform basic CRUD operations
+    Experience with AngularJS, Backbone, Ember, Node, and/or Bower a huge plus
+    Strong desire to learn new languages and technologies

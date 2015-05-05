@@ -1,0 +1,45 @@
+Software Development Engineer in Test - Services
+ENGINEERING - QUALITY ASSURANCE | Saratoga, CA, United States
+
+About Roku, Inc.: Roku is the creator of a popular streaming platform for delivering entertainment to the TV. Roku streaming players and the Roku Streaming Stick® are made by Roku and sold through major retailers in the U.S., Canada, the U.K. and the Republic of Ireland. Roku licenses a reference design and operating system to TV manufacturers to create co-branded Roku TV models. Under the Roku Powered™ program, Roku licenses its streaming platform to Pay TV providers around the world to deliver entertainment services through streaming players. Roku was founded by Anthony Wood, inventor of the DVR. Roku is privately held and headquartered in Saratoga, California, U.S.
+The Role: Roku is seeking an experienced and versatile Software Development Engineer in Test - Web Services (SDET) to assist with testing software for major product releases. You will be responsible for testing the new Service components in early development phases, interfacing with external partners, and running tests to support the Roku Service.  You should be able to represent QA concerns in meetings with cross-functional, project team members and also provide valuable end-user feedback to improve the customer experience.
+
+This position requires good understanding of software lifecycle, experience with a variety of testing techniques, strong written and organizational skills and networking experience.  The Sr. Software Engineer, Test will perform an effective and organized test process that releases the highest quality product possible and help bring those projects to market on time.
+
+This position requires experience and strong skills in both development and design of automation testing solutions.  A Software Development Engineer in Test - Web Services (SDET) in this role is expected to identify areas in their sphere of influence to automate and take the initiative to do so as part of the daily testing effort.
+
+Responsibilities: 
+
+    Lead QA in working with the Service development teams to test new Roku products.
+    Effectively communicate with our product and design teams during new feature reviews and throughout product development.
+    Propose tradeoffs and provide risk assessment to stakeholders as necessary.
+    Set accurate test schedules.
+    Establish an automation and stress-testing lab for system and integration level testing.
+    Integrate and enhance the use of automated test tools into the QA process for new products.
+    Refine and develop test plans for new products/features and ensure adequate test coverage.
+    Troubleshoot issues down to the root cause and provide detailed bug reports.
+    Record all test results for each test suite and provide a high level summary for areas tested.
+
+Experience/Qualifications: 
+
+    Excellent scripting skills Perl, Python, JavaScript
+    Experience designing and running stress, load, and performance tests
+    Expertise in testing web service APIs and related technologies (REST, JSON, XML and SOAP).
+    Ability to analyze crash logs, backtraces, and assist engineers by utilizing basic debugging techniques
+    5+ years of experience writing and executing QA test plans for software or consumer electronics products.
+    Hands-on experience with performance and load testing, including the use of test frameworks such as Selenium combined with Python or other scripting languages.
+    Experience with generating and presenting quantitative reports.
+    Willingness to execute test procedures to verify functionality against specs and product requirements.
+    Excellent verbal and written communication skills.
+    Knowledge of consumer product and web user interfaces and networking functionality.
+    Bachelor’s degree in Computer Science or equivalent.
+
+Characteristics of success at Roku, Inc.:
+
+    Self-motivated individual who takes ownership
+    Positive attitude
+    Non political
+    Results oriented
+    Practical
+    Hands on and team orientation
+    Desire to win in a highly competitive industry

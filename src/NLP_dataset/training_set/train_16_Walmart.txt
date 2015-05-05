@@ -1,0 +1,30 @@
+Search Big Data Engineer
+Apply Now
+
+Position Summary
+Search processes billions of queries for millions of products on Walmart sites and apps worldwide. Whenever a user types in a query or browses through product categories on the web site, phone or the iPad, our service goes to work.
+
+Position Description
+As a Search Big Data Engineer the ideal candidate would need to :
+
+• Demonstrate up-to-date expertise in Software Engineering and applies this to the development, execution, and improvement of action plans
+• Lead and participates in medium- to large-scale projects
+• Lead and participates the discovery phase of medium to large projects to come up with high level design
+• Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+• Provides and supports the implementation of business solutions
+• Troubleshoots business and production issues
+• Be excited about making an immediate impact on a global scale
+
+Minimum Qualifications
+Bachelor's Degree in Computer Science or related field and 6 years experience building scalable ecommerce applications or mobile software
+
+Additional Preferred Qualifications
+• Master’s degree or higher in Computer Science or related field
+• Experience in the search domain highly desirable
+• Experience with open source search engines like elasticsearch, solr or lucene
+
+Job Role
+Search Big Data Engineer
+
+Location
+SUNNYVALE 

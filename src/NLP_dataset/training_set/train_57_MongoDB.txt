@@ -1,0 +1,26 @@
+Java Application Engineer
+Engineering | New York City, United States
+
+
+MongoDB is looking for a server-side Java engineer to join us in building the best database management system for the leading NoSQL database server. MMS, the MongoDB Management Service, is a freely available, cloud-based web application for deploying, monitoring, and backing up MongoDB clusters of any size and configuration. It currently monitors tens of thousands of MongoDB nodes and backs up multiple petabytes of data. On a typical day, MMS processes over a billion metrics and replicates tens of billions of backup operations. We’re constantly evolving MMS as we add exciting new features and scale the system to keep up with the ever-increasing demands of our customers.
+
+Responsibilities
+
+    Design, implement, and comprehensively test new features in a small, agile team environment
+    Assist the ops team to troubleshoot operational issues with MMS
+    Be a self-starter with a passion for technology and a burning desire to constantly improve yourself, the product, and the codebase
+
+Requirements
+
+    Expert Java engineer with 5+ years of experience building full-stack web applications
+    Experience with multi-threaded applications, concurrency and distributed systems
+    Experience with scripting (e.g. Python, shell scripting, etc.) is a plus
+    Familiarity with modern JavaScript APIs and frameworks (e.g. jQuery, Backbone) is a plus
+    Familiarity with MongoDB is a big plus
+    Experience with Go is a big plus
+
+Nice to haves
+
+    You want to be part of a top-notch engineering team working on the cutting edge of database technology innovation
+    You're flexible and willing to take on a wide variety of responsibilities
+    You are well organized and comfortable juggling multiple tasks at the same time

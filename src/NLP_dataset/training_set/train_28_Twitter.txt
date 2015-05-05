@@ -1,0 +1,25 @@
+Software QA - Lead
+Software Engineering | San Francisco, CA
+
+Apply Now
+	Send Jobvite
+Twitter’s SF QA team is seeking a Senior QA Engineer to lead a small team working on cutting edge web and mobile applications. You will own the components that you work on and be involved from design through deployment to ensure we ship the highest quality software.
+Responsibilities: 
+Mentor and lead team members in QA best practices.
+Organize and prioritize testing efforts across the team.
+Design, write, execute and maintain end-to-end, acceptance, integration and regression tests for various web and mobile components. 
+Determine when components meet acceptable quality criteria and standards and give the go-ahead for release to production. 
+Monitor, investigate and identify problems with production components, processes, and data; help development diagnose and test fixes. 
+Requirements: 
+8+ years in QA 
+Proven QA Lead experience 
+Consistently balances and prioritizes work correctly and effectively 
+Strong communication and documentation skills 
+Flexible, able to shift priorities quickly, “do what needs to be done” attitude 
+Working knowledge of SQL, MySQL or equivalent db systems 
+Highly organized and detail oriented. 
+Ability to work autonomously with minimal direction 
+Desired: 
+Experience on start-up teams 
+Experience with testing backend systems
+Follow @JoinTheFlock for more recruiting info!

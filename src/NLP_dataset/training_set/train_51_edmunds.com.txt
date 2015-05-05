@@ -1,0 +1,33 @@
+Software Engineer, Java
+Santa Monica, CA | Data Content Ops
+
+We’re looking for a talented and passionate engineer to help us evolve one of our core b2b product offerings: The Dealer Reporting Tool. This critical tool allows both our sales team and car dealers to measure how our Dealer Direct Program is performing on Edmunds.com to enable future sales & retention opportunities.  The Dealer Direct Program is a platform that connects our potential car buyers with dealerships, in an effort to create a superior car shopping experience.
+
+The technology stack you’ll be working with includes (but not limited to):  Java, Spring, MongoDB, Angular.js, statsD/graphite, HBase/Hadoop/Oozie
+What You’ll Do :
+
+     Help others around you grow as developers and be successful 
+     Application and infrastructure design from concept through development and implementation
+    Ensure the code you’ve written functions as designed by creating automated unit and integration tests, which execute in our continuous delivery pipeline
+    Instrument your code (aka statsD) so we can measure how it’s performing in production
+     Create useful documentation for systems worked on (javadoc, wiki pages, etc)
+
+What You Need:
+
+      Proficiency with Java
+      Exposure to architectural patterns of a large, high-scale web application
+      Experience troubleshooting problems that can occur at scale
+      Great interpersonal skills and enjoy operating in a fast paced team setting
+      Self-starter that can work in a highly cross functional environment and remove road blocks
+
+Working at Edmunds:
+
+At Edmunds.com we’re driven to make car buying easier.  As one of the most trusted review sites on the Internet, almost 18 million visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car.  How do we do it, you ask?  The key ingredients are our enthusiastic employees, progressive company culture and cutting edge technology.
+
+A few of the perks:
+
+    ​Results Only Work Environment (ROWE) - we celebrate results, not hours worked; you're empowered to manage your schedule in order to integrate work and life so that neither gets neglected
+    Competitive pay + fantastic benefits including 14 paid company holidays (how many of your friends get to celebrate Earth Day as a paid day off?)
+    Flexible Time Away From Work - no more counting your vacation days; take what you need; as long as your work gets done
+
+Employees think it's a pretty great place to work and some pretty impressive publications think it is too: we've been recognized as one of the best places to work by the LA Business Journal (for the last 4 years!), Wall Street Journal, Business Week Magazine and Architectural Record.  If you’re interested in learning more and joining our mission, we'd love to hear from you!

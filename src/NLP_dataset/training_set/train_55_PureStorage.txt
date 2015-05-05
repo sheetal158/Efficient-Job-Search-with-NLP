@@ -1,0 +1,39 @@
+Software Engineer - Core
+Pure Storage - Mountain View, CA
+Why Pure
+
+Pure Storage is a fast growing, private company in the heart of the Silicon Valley, whose world-class engineers are disrupting a $15 billion annual market (and growing) for enterprise storage. Our founders created the company with a passion to build storage technology customers love and deliver it with simplicity and service that fundamentally changes the enterprise storage experience. With over $470 million in funding from some of the most prominent venture capitalists, our record revenue growth has landed us among a very select group of companies. Today, customers and industries across the world are experiencing the benefits of going Pure - from healthcare and education to the largest websites, financial institutions and consumer brands.
+
+Our Team
+
+Our engineers come from various backgrounds and we thrive off of challenging the norm. This cross pollination of backgrounds led to numerous ground breaking ideas and has helped us build one of the most reliable and easy to use storage systems in the industry. ​We strive to hire the smartest engineers who are the very best at what they do. We are seeking enthusiastic engineers to solve real world problems while having fun along the way.
+
+What You Will Be Doing
+
+    Full lifecycle application development
+    Designing, coding and debugging applications in various software languages.
+    Software analysis, code analysis, requirements analysis, software review, identification of code metrics, system risk analysis, software reliability analysis
+    Performance tuning, improvement, balancing, usability, automation.
+    Support, maintain and document software functionality
+    Integrate software with existing systems.
+    Focus on reliability.
+
+What You Bring To The Team
+
+    The ideal candidate should have proven design ability and the willingness to work in a collaborative and team oriented environment.
+    A minimum of 3 years experience using C++/C coding on a Linux, BSD or Solaris platform is required.
+    A variety of storage experience and or virtual machine experience is desirable but not necessary.
+
+Culture & Perks
+
+Pure is a very special place. What makes and keeps us special is who we recruit to join us and how we work together. Our culture was shaped organically as our early team poured their heart and soul into Pure’s first generation product and supporting our early customers and partners. We expect each employee to approach their job at Pure with the same level of pride and care, and perpetuate the values that are making us the best storage company in history.
+
+At the center of those values is the belief that the single most important thing we do is continue to hire the best and create a workplace where they thrive and enjoy. To reward our employees for the great work they’re doing we offer a number of perks and benefits, including:
+
+    Flexible vacation - take time off when you need it
+    Exceptional medical benefits with 100% employer paid premiums
+    Commuter benefits for public transit and bicycle commuters
+    Free lunches, dinners, and fully stocked snacks & beverages
+    Lounge areas with ping pong, foosball, pinball, and arcade games
+    Company ski trips, boat parties, BBQs, happy hours, game nights... just to name a few!
+

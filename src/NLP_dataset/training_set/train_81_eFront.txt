@@ -1,0 +1,23 @@
+Software Engineer
+eFront - Tampa, FL
+About eFront eFront is a leading software provider of end-to-end solutions dedicated to the financial services industry with a recognized expertise in enterprise risk management and alternative investments. eFront’s solutions serve more than 700 customers in 40 countries, including companies in the private equity, real estate investment, banking and insurance sectors. eFront’s primary product suites offer tightly integrated solutions for streamlining the management of alternative investments and corporate risk. Founded in 1999, eFront services clients worldwide from offices in Asia, Europe, the Middle East and North America. For more information visit www.efront.com and follow us on LinkedIn at www.linkedin.com/company/efront .
+
+The Position The Developer will join a team of strong developers distributed across (4) global sites : Tampa, London, Belgrade, Mumbai. He will be expected to be highly technical with a strong background in SDLC within Java / Web ecosystems. A deep understanding of web communication protocols and security as well as experiences in Cold Fusion, Flex and SQL developments would be highly beneficial.
+
+Responsibilities include:
+
+    Collaborate with Team Leaders and Department Heads to ensure consistent quality of deliverables and respect of milestones.
+    Collaborate on technical decisions, architecture and design
+    Show proactivity on coding standards and development processes
+    Collaborate with IT and operations as part of our SaaS support escalation plan
+    Accompany application deployments 
+
+Specific experience and skills:
+
+    8+ years of experience in development on a wide range of technologies : Java, Javascript, HTML, CSS, SQL (Adobe Cold Fusion and Adobe Flex are pluses)
+    Experience in large scale, SaaS applications systems
+    Experience in Agile developments
+    Be a fast learner
+    Have strong problem solving skills 
+
+A previous experience in managing developers would be beneficial. Excellent written and verbal communication skills are required. 

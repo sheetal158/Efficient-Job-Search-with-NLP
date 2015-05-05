@@ -1,0 +1,35 @@
+Software Engineer - Virtualization, CI, Automation
+Job ID: 45549
+Westford, MA
+Remote: No
+Software Engineering
+
+Company description
+
+At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing technologies that solve business problems. We're a billion dollar S&P 500 company offering solutions from Linux to middleware, storage to cloud, together with award-winning global customer support, consulting, and implementation services.
+Job summary
+
+The Red Hat Engineering team is seeking a continuous integration developer to join us as a Software Engineer, ideally in Westford, MA, but other locations will be considered for the right candidate. In this role, you'll join the globally distributed Red Hat Enterprise Linux Virtualization team to develop and maintain a continuous integration environment for the Kernel-based Virtual Machine (KVM), a core technology of Red Hat Enterprise Linux (RHEL). You will help us maintain our exceptional quality standards by developing and maintaining a continuous integration infrastructure and providing support to the team. You'll develop and strengthen the depth and breadth of continuous integration testing for KVM, as well as promote continuous integration infrastructure improvements to enhance software quality, stability, reporting capabilities, and user experience. This position is a great opportunity to work alongside some of the brightest engineers in the open source industry. We'll need you to have experience with continuous integration technologies, open source software development, and either quality assurance or release engineering.
+Primary job responsibilities
+
+    Ensure maintenance and reliability of the continuous integration environment
+    Facilitate, design, and implement continuous integration improvements
+    Maintain continuous integration documentation, like environment diagrams, workflows, and processes
+    Assist and support downstream maintainer activities
+
+Required skills
+
+    Proven Python, shell, or other scripting expertise; C or Python programming experience is a plus
+    Experience in continuous integration
+    Expertise with testing frameworks (Jenkins, AutoTest, or equivalent)
+    Specific Virt-Test or Avocado experience is a plus
+    Ability to develop and implement test plans
+    Experience with or knowledge of OpenStack, Red Hat Enterprise Virtualization (RHEV), or QEMU is an advantage
+    Experience contributing to open source projects is an advantage
+    Familiarity with X86, PPC, or ARM64 architectures is a plus
+    Familiarity with iSCSI, Fiber Channel, or other storage technologies is a plus
+    Ability to work independently in a globally distributed environment
+    Good communication skills
+
+
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to applicants’ race, color, religion, national origin, ancestry, citizenship, sex, gender, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.

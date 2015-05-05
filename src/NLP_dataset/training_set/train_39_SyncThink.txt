@@ -1,0 +1,31 @@
+Junior Software Engineer
+SyncThink Inc. Boston, MA
+
+c++ opengl sdl lua
+Job Description
+
+SyncThink is a small Boston-based growth company with timely solutions for traumatic brain injury (concussion) and cognitive assessment. In collaboration with the Brain Trauma Foundation and Stanford University, we combine the latest in mobile eye tracking technologies with head mounted VR displays and our proprietary cognitive assessment software. Our technology is currently deployed in a 10,000 person clinical trial with elite military units and athletic teams. We are looking for a junior software developer who is interested in supporting our current technology deployment; developing automated data analysis tools; and innovating new and unique ways for assessing cognitive state in an immersive environment.
+
+Responsibilities: 
+
+- Validating and testing new products
+- Maintaing FDA-quality documentation & control
+- Developing data filters, analytical pipeline, and visualizations
+- Implementing visual-motor assessments on a virtual reality platform
+- Contributing towards new UI and UX features
+
+Compensation:
+- $60,000 base + qualification
+- Healthcare
+Skills & Requirements
+
+(Minimum)
+- B.S. in computer science, engineering, or related field from a top university
+- C++
+
+(Preferred)
+- 1-2 years in computer vision, data science, virtual reality, and/or user interface design
+- OpenGL, Lua, SDL
+About SyncThink Inc.
+
+SyncThink, Inc. is a privately-held neuroscience technology company developing a new generation of portable, easy-to-use, non-invasive instruments to rapidly and objectively assess cognitive function at the initial point of care.

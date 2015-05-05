@@ -1,0 +1,36 @@
+Software Engineer II
+Job ID: 13608
+Apply Now
+Share on facebook Share on twitter Share on linkedin
+Share on email Share on print
+
+As a Software Engineer, II on the Payments team, you will utilize your outstanding software engineering skills to enhance our payment platform and expand our payment offerings across the globe. You will be on an agile team responsible for fast, reliable, and secure transaction processing, handling over $1 billion USD per year from 26 localized websites spanning 16 currencies. You will also support our compliance with local tax and payment industry regulations. Software development at Cimpress is fast-paced, with new code released continuously. We design, build and test our systems in a highly collaborative environment, encouraging feedback from all aspects of the business.
+
+In this role you will:
+
+    Be responsible for building critical applications in payment processing using service oriented architecture, test driven development, and continuous integration and deployment.
+    Leverage communication skills working with both internal clients and external partners to help create and execute on technology roadmaps
+    Mentor junior software engineers in best practices
+
+To be successful, you will need:
+
+    BS/MS in Computer Science or equivalent
+    3-5 years of experience with Object-oriented programming (C# preferred, but other OO languages are ok)
+    Database programming with SQL (Microsoft SQL Server is a plus) required
+    Familiarity with software development for the web (CSS, JavaScript, jQuery, DHTML, XML)
+    Experience with service oriented architecture, multi-threading and 3rd party application integration
+    Industry experience in payment processing is highly desirable
+
+Personal qualities that make you thrive:
+
+    Team player, desire to work in a strong team
+    Passion for coding, hands-on development
+    Strong initiative; autonomous and detail-oriented
+
+What you’ll get from Cimpress:
+
+ 
+
+    Work at a growing, results driven companyA competitive salaryRespect for work/life balanceAn opportunity to work with smart motivated people.
+
+Cimpress N.V. (NASDAQ: CMPR) is the world leader in mass customization. For 20 years, the company has focused on developing software and manufacturing capabilities that transform traditional markets in order to make customized products accessible and affordable to everyone. Cimpress’ portfolio of brands includeVistaprint, Albelli, Drukwerkdeal, Pixartprinting and others serve many customer segments across many applications for mass customization. The company produces more than 80 million unique products a year via its network of computer integrated manufacturing facilities. To learn more, visit http://www.cimpress.com

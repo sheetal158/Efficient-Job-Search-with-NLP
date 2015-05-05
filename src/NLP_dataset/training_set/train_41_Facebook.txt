@@ -1,0 +1,23 @@
+Software Engineering
+Software Engineer, Infrastructure
+LocationBoston, MA
+Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.
+Facebook is seeking an experienced Software Engineer to join our Infrastructure Engineering team in Boston. The position is full-time and is based in our Cambridge, MA office. There are minimal travel requirements for this position. Infrastructure Engineering builds large, distributed components that run Facebook. Our code serves millions of requests per second, and it does so with subsecond latency and in a fault tolerant manner. We handle everything from Facebook scale data storage, to synchronization and coordination of large server clusters, to providing a runtime environment for front end Facebook code. We are looking for candidates who share a passion for tackling complexity and building platforms that can scale through multiple orders of magnitude.
+Responsibilities
+
+    Design core, backend software components
+    i. New: Code using primarily C/C++, Java, PHP and Hack
+    Interface with other teams to incorporate their innovations and vice versa
+    Conduct design and code reviews
+    Analyze and improve efficiency, scalability, and stability of various system resources
+
+Requirements
+
+    B.S. Computer Science or related field preferred
+    Extensive experience building large-scale server applications
+    Expert knowledge developing and debugging in C/C++ or Java/C#
+    Knowledge of Perl, PHP, Hack or Python a plus
+    Experience with operating system internals, filesystems, programming language design, compilers also a plus
+
+
+As part of our dedication to the diversity of our workforce, Facebook is committed to Equal Employment Opportunity without regard for race, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity or religion.

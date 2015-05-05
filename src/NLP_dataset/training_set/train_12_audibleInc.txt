@@ -1,0 +1,39 @@
+ Job Description
+About Audible:
+Audible is a mission driven, highly profitable media company in hyper-growth. We're a collection of artists, designers and technologists with a love of literature, performance and the spoken word. We're the leading provider of audiobooks worldwide with a huge catalog of exclusive content and a first-class listening experience on Kindle, Android and iOS devices. We love our customers and we love our product. We're on a mission to share great stories with the world and we want you to be a part of that journey.
+
+About THIS opportunity:
+Within Audible we have built a Platform group that owns tools, frameworks and services. The Platform group enables other development teams within the organization to build and ship software quickly and with a high bar of engineering excellence. This team builds awesome frameworks that development teams use to rapidly develop new experiences. We provide processes that keep our teams unblocked and highly productive but we do so in a way that's much more exciting than this sentence. We listen to our customers and the tech industry and it's our responsibility to push Audible into new places; wherever our customers are listening. That's really an excuse to experiment with things like adaptive streaming, home automation, wearables or even the Raspberry Pi.
+
+This opportunity specifically is on the Services team within the Platform group. This team is setting the technical direction for the services that power our customer experience across all surfaces (web/mobile-web & devices). We need your help to develop and deliver on this vision in an iterative manner. Success means we lay the foundation for continued expansion of our company without disrupting an already tremendously successful and much loved product.
+
+As an engineer on our team you'll be expected to write great code, execute on your ideas, challenge the status quo and generally make things better. You'll need the soft-skills too; Communication, influence and passion are key to the success of the team and ultimately the company. You'll experience all the challenges, ambiguity and opportunities of a new team with a new mission but for the right candidate that's part of the fun.
+
+How does Amazon fit in?
+We're a part of Amazon, they are our parent company and it's a great partnership. You'll get to play with all of Amazon's technologies like EC2, SQS and S3 but it doesn't stop there. Audible's built on Amazon technology and you'll have insight into the inner workings of the world's leading ecommerce experience. There's a LOT to learn! Your career will benefit from working with teams like Kindle, A9, P13N and many more.
+
+If you want to own and solve problems, work with a creative dynamic team, fail fast in a supportive environment whilst growing your career and working on high volume (2000+ tps) services that support millions of customers worldwide we want to hear from you.
+
+As engineers we like specifics so here's some of the standard info:
+* Own key services within our platform. "Owning" means envisioning, designing, creating, building and supporting. These services need to operate with a high degree of operational excellence (we measure EVERYTHING).
+* Support our developers. "Support" means be the go-to-person for questions but never be a bottle-neck, see around the corner and anticipate developers' needs, host brown bags, knowledge-transfer sessions and generally evangelize the platform.
+* Partner with product management to imagine, design, develop, test, and launch software that wows our community and inspires our peers.
+* Be willing to explore and learn un-prompted. Bring problems AND solutions to the table.
+* Lead the way - "Lead" means staying up to date with tools, trends, technologies and best practices both industry-wide and within Amazon and then sharing that knowledge in a meaningful way with the community.
+Basic Qualifications
+Basic Qualifications:
+* Solid Computer Science or equivalent experience (5+ years)
+* Java or equivalent OO language, familiarity with Unix/Linux environments, in depth knowledge of service development with solid experience in code optimization and low-latency computing.
+* Well-rounded engineering skills; full-stack development experience - web + services - If you've built something in your spare time send us the link, we'd love to hear about it.
+* Strong problem solving skills; adaptable, proactive and willing to take ownership.
+* A high-quality bar; just-enough documentation, unit testing, code reviews, test automation, continous integration & deployment and a preference for agile methods.
+* Great communication skills - ability to think creatively and adapt the message to the audience.
+
+Preferred Qualifications
+Preferred Qualifications:
+Don't worry, we'll ramp you up but experience in any of these areas will help you hit the ground running:
+* Dependency injection frameworks and associated techniques.
+* Digital-media delivery, HTTP Adaptive Streaming, HLS, HDS, Smooth Streaming, MPEG, AAC & MP3 processing.
+* Personalization, distributed systems, Amazon Web Services.
+* Progressive rendering, Responsive Design and modern brower techniques (HTML5, CSS3)
+* Automation - Continuous Integration/Deployment

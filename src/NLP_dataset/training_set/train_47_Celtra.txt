@@ -1,0 +1,42 @@
+Software Engineer - Analytics
+Celtra Inc. - San Francisco, CA
+We are looking for analytics software engineers to work with us on backend data services infrastructure. The main challenges are to use mountains of data collected through tracking ad usage and (i) bring it closer to internal as well as external users and (ii) to turn it into actionable insights for ad builders and campaign planners, which will lead to improved user experience and ultimately better performance of ads built with our system.
+
+Main areas of work will be:
+
+    Research, development and maintenance of high performance solutions for collecting, storing and processing data.
+    Developing and extending our current distributed analytics pipeline.
+    Troubleshooting and optimizing complete lifecycle of data from collection to distributed processing and presentation.
+    Finding new innovative ways of collecting data from various sources in real-time. 
+
+We take good care of our people. This is what we offer:
+
+    Work in a diverse team of creative A-players: developers, designers and managers from all over the globe.
+    Receive a highly competitive base salary, benefits and semiannual bonuses for performance.
+    Enjoy a generous education budget for conferences, classes, literature or studies.
+    Choose your equipment.
+    Work in our cosy offices either in San Francisco CA or the very center of old Ljubljana, Slovenia. Our fridge is always full and we drink the best coffee.
+    Not from around here? No problem: If you are the right person, we are more than willing to help you relocate.
+    Travel between US and Europe. 
+
+But our bar is set high. This is what we expect:
+
+    Very good knowledge of algorithms and data structures.
+    Experience with best practices of software development (unit testing, code reviews, design documentation).
+    Excellent programming skills in at least one of the following programming languages: Scala, Java, C, C++, C#.
+    Very good programming knowledge of SQL.
+    Experience with design and development of scalable and highly reliable systems.
+    B.Sc. or higher in Computer Science or a related field (or a very good reason for not having one).
+    Fluent written and spoken English.
+    Deal with problems and situations in a pioneering fashion, used to solving problems.
+    Passion for ensuring data correctness, integrity and reliable interpretation. 
+
+Big pluses are:
+
+    Experience in Scala development or Java/Scala deployments.
+    Knowledge of functional programming concepts.
+    Understanding dimensional data models and experience with building data warehouses.
+    Experience with Big Data technologies (Spark, Hadoop, Hive, Pig, HDFS, MapReduce).
+    Knowledge of Vertica, Teradata or other MPP databases. 
+
+Let’s talk Interested candidates, please send your resume and samples of your work to jobs@celtra.com . No recruiters please. 

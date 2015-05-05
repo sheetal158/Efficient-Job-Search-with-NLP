@@ -1,0 +1,48 @@
+Share
+ 
+Job Description - Tech Yahoo, Software Dev Eng (1451485)
+Job Description 
+Tech Yahoo, Software Dev Eng
+Job Number:
+ 1451485 
+Primary Location
+: United States of America-California-Sunnyvale 
+  
+ 
+
+The Advertising and Data team builds the large-scale platforms and products that enable selling, targeting, serving, understanding, and optimizing display and video advertising across Yahoo sites and other web properties and apps. We live and breathe “big data” and deep science, delivering results for advertisers, revenue for publishers, and relevant, engaging experiences for consumers.
+
+
+A Little About Us
+
+Yahoo passionately believes that making technology accessible can level the playing field for people with disabilities and the elderly, and enable them to lead rich and productive lives. If you share this belief, we invite you to join us in making our products accessible to over 800 million Yahoo users. As a member of the Accessibility team, you will work closely with product groups to identify barriers to accessibility, propose or invent technical solutions, and validate that our products don’t just meet minimum requirements, but delight everyone. 
+
+ 
+
+A Lot About You
+
+As an Accessibility Engineer, you will specialize in building elegant, high performance, accessible mobile and desktop applications using HTML5, CSS3, Javascript and other web technologies. You will partner with world-class interface designers, software engineers, architects, backend engineers, cloud data experts, and computer scientists to bring amazing and emotional experiences to people with disabilities.
+
+
+Your Day
+
+Your role is to apply a deep empathy and understanding of assistive technology, disability user requirements, and a thorough knowledge of W3C WCAG accessibility guidelines to analyze, write, and modify code that optimizes Yahoo’s web products for accessibility in multi-platform mobile and desktop web browsers. 
+
+You'll also ensure that Yahoo’s SDKs, frameworks and other reusable code are accessible and well-documented, and develop and deliver technical accessibility training and presentations to fellow developers. Your mission is more than just implementing guidelines and specifications; it is to create accessible products that are a model for the industry and a delight for users.
+ 
+
+You Must Have
+
+· B.S. in Computer Science or equivalent
+
+· An excellent understanding of accessibility best practices, industry standards, and WCAG 2.0 guidelines
+
+· At least two years of experience in Accessible Web development and front-end engineering in a large corporate environment
+
+· Experience building rich client-side interactions with ARIA using a combination of AJAX, HTML, CSS, JavaScript
+
+· Demonstrated experience using JavaScript, not just jQuery or YUI
+
+· A strong command of CSS and the ability to use a minimal amount of CSS to bring just about any design to life
+
+· Ability to use a screen reader and accessibility testing tools to troubleshoot and validate your code

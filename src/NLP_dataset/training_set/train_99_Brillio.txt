@@ -1,0 +1,36 @@
+Software Development Engineer in Test (SDET 3)
+Brillio - Redmond, WA
+
+We are looking for a motivated Software Development Engineer in Test (SDET) who has a passion for tools and automation.
+
+The qualified candidate will have immediate impacts with responsibilities ranging across:
+
+    Automated service testing, including game client service call emulation
+    Service scalability and stability assessment
+    Building and maintenance of critical infrastructure systems
+    Assuring quality in telemetry analytics and reporting
+    Maintaining and enhancing service build and deployment
+
+Requirements:
+
+    BS in Computer Science/Engineering or equivalent industry experience
+    At least 2 years of SDET experience
+    A strong understanding of testing methodologies
+    Prior experience testing high volume, mature services
+    A minimum of 2 years of C#/C++ development experience
+    A minimum of 2 years scripting experience, preferably with some PowerShell experience
+    Prior experience writing client and performance automation and using Visual Studio unit, load and web test frameworks, as well as custom proprietary solutions
+    Dynamic problem solver
+    Build framework experience
+    Strong communication skills
+
+Optional skills:
+
+    Prior experience developing test automation for AAA game clients and services
+    Familiarity with Xbox 360, Xbox LIVE, and XLSP technologies
+    Experience with Azure or similar Cloud Services
+    Prior experience using Power Shell
+    Familiarity with current online security protocols and measures
+    Passion for the entertainment and gaming space
+    Experience with agile or scrum development practices
+

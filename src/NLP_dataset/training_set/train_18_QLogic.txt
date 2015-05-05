@@ -1,0 +1,52 @@
+Test Engineer
+
+Tracking Code
+    4794 
+Job Description
+
+    QLogic® is a global leader and technology innovator in high-performance server and storage networking connectivity and application acceleration solutions. The company builds solutions based on networking technologies that include Fibre Channel, iSCSI, and FCoE/Ethernet that are optimized for today’s demanding data centers. Our leadership in product design and maturity in our software stack make us the top choice of leading OEMs and channel partners worldwide to address I/O requirements for virtualized, converged, and cloud environments.
+
+     
+
+    We have an immediate need for a Test Engineer in the Engineer Integration Testing (EIT) group. This position is in our Mountain View, CA design center. In this position, you will be responsible for design, cration and execution of functional and regression test suites for integration and solution testing od Ethernet, FC/FCoE & iSCSI firmware, drivers, and management software for QLogic 10GbE Converged Network Adapters and Fibre Channel Adapters.
+
+     
+
+    We have an opening for this position in ESX (VMware) Operating environment.
+
+     
+
+    Responsibilities include:
+
+        Design, implement and execute functional and stress tests.
+        Develop and execute regression test suites and tests using automated test infrastructures.
+        Defect logging and accurate gathering of required test logs.
+        Report status updates based on executed test results.
+        Perform first level triaging of defects.
+        Provide technical guidance to newer or less experienced team personnel.
+
+Required Skills
+
+        BS degree in Computer Engineering, Computer Science or related engineering degree.
+        3+ years of experience in testing, networking or storage drivers on Operating environments such as Linux, ESX.
+        Excellent analytical skills and attention to detail.
+        Experience in shell scripting, perl/Tcl/python/expect/etc.
+        Good communication skills and must be able to work in a team environment.
+        Knowledge of networking or storage protocols.
+        Knowledge of Virtualization, OS internals and device drivers.
+
+     
+
+    THE COMPANY
+    Founded in 1994, QLogic Corporation (Nasdaq QLGC) is a leading provider of data, server, and storage networking infrastructure solutions. QLogic is focused on the predictability and consistency of infrastructure—a key requirement of application owners. Using a protocol-agnostic approach, the company offers a diverse portfolio of networking products, including Fibre Channel adapters and switches, Converged Network Adapters for the Fibre Channel over Ethernet (FCoE) market, Ethernet adapters, iSCSI adapters, and intelligent caching and I/O management adapters to accelerate applications access to I/O. QLogic has partnered with the world’s leading technology providers, including companies such as Cisco, Dell, EMC, Hitachi, HP, Huawei Symantec, IBM, NetApp, and Oracle, which have come to rely on QLogic products for their networking solutions. QLogic is a NASDAQ Global Select company with headquarters in Aliso Viejo, (Orange County) CA, and fiscal 2014 revenues (FY14 ended March 30, 2014) of $460.9M.  The company employs over 1000 people globally and is an Equal Opportunity Employer.
+Job Location
+    Mountain View, California, United States 
+Position Type
+    Full-Time/Regular 
+
+Apply
+
+
+Share
+Share on linkedin Share on facebook Share on twitter Share on email More Sharing Services
+Return To Job Listings

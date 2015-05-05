@@ -1,0 +1,63 @@
+Software Engineer, Systems & Test
+Sunnyvale, CA | Engineering
+Job Description
+
+About Us:
+
+Kumu Networks revolutionizing the way wireless systems are built using an innovative full-duplex wireless design that its co-founders developed in their research at Stanford. Wireless full-duplex allows a radio to transmit and receive signals at the same time using a single frequency channel. Kumu's patent pending full-duplex technology changes the basic assumptions on which current wireless radios are built, allowing for improved performance and reduced complexity across a variety of wireless devices and markets. Come help us change the future of wireless!
+
+Job Title: Software Engineer, Systems & Test
+
+Description:
+
+To work on ground-breaking technology like full-duplex wireless, our engineers must be agile, have broad skillsets, and have the desire to tackle diverse and challenging problems. Often, our best innovations require a holistic approach. In software terms, this translates to a full-stack approach, using a variety of different languages and tools. Software engineers at Kumu are exciting to dig into all kinds of different problems, ranging from networking to algorithms to frameworks for test automation, just to name a few.
+
+You are, first and foremost, a versatile software engineer who is comfortable using a variety of interpreted (python) and compiled languages (C++). You love to tinker, and you love to automate your own projects wherever possible. Ideally, you have some exposure to wireless and RF systems - although this is not a requirements. Your first project will be to participate in the architecture and design of an internal Kumu tool for system test automation, written in python. You will be one of the first people ever to design or implement tests for full-duplex wireless systems, which span hardware, software, and DSP algorithms. You will specify, design, and develop a variety of different components, ranging from drivers for test equipment, to systems for storing test data, to test scripts for analyzing full-duplex systems, to data validation and visualization tools for looking at results. You will use this system-level understanding to eventually participate in system design and specification of our next generation systems.
+
+Responsibilities:
+
+* Demonstrated ability to design and implement software written in python
+
+* Experience with build systems (make), source control (Git), and bug tracking systems (JIRA)
+
+* Familiarity with modern software engineering practices like object oriented design, unit testing, and code review
+
+* Clear written and spoken communication, ability to create functional and design specifications
+
+* B.S. / M.S. in Computer Science or related field, with 1+ years experience
+
+* Exposure to / experience with test automation
+
+
+Requirements:
+
+* Demonstrated ability to design and implement software written in python
+
+* Experience with build systems (make), source control (Git), and bug tracking systems (JIRA)
+
+* Familiarity with modern software engineering practices like object oriented design, unit testing, and code review
+
+* Clear written and spoken communication, ability to create functional and design specifications
+
+* B.S. / M.S. in Computer Science or related field, with 1+ years experience
+
+* Exposure to / experience with test automation
+
+ 
+Bonuses
+
+* Experience with Matlab
+
+* Proficiency in RF test methods and use of RF equipment like signal generators, spectrum analyzers, network analyzers, etc.
+
+* Exposure to radio design and communication theory (LTE/Wi-Fi) is a plus
+
+* Experience with Unix/Linux platforms desirable
+
+Perks:
+
+• Breakfast and lunch provided daily
+
+• Sunny, open, collaborative workspace
+
+• Opportunity to work with great people

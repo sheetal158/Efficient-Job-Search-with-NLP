@@ -1,0 +1,38 @@
+Software Engineer
+Auto req ID 	24018BR
+Full-time or Part-time 	Full-time
+Location 	USA - California, Culver City
+About Us 	Relentlessly protect the world’s information. Make a difference at Symantec. Across the globe, we are an ‘essential’ partner to both consumers and businesses of all sizes. We combine our talents, our brains, and our creative energy to reinforce our place as a world-class technical community.
+
+In Security Technology and Response, you will have the opportunity to be a part of a global team of security engineers, virus hunters, threat analysts, and researchers that provides the underlying security technology, content, and support for all Symantec corporate and consumer security products. The division considers not only today’s threats, but the threats of tomorrow and uses this intelligence to develop entirely new approaches to security. These technologies are being developed for every possible platform including the network infrastructure, servers, desktops, and mobile devices. The group is high-talent and high-energy, pushing new technologies that must achieve the best detection, best performance, and best user experience in the marketplace.
+Job Function 	Development Function
+Responsibilities 	
+This is a Software Developer position in Security Technology & Response Team in Symantec, Culver City office.
+Work on security products researching and developing methods to detect and remediate emerging threats.
+Thoroughly understand and identify security product defects which impact protection, performance, stability, user experience, and more.
+Candidate should have strong ability in research new ideas and implement them quickly in production code.
+Candidate should be able to work independently and reliably estimate their own tasks.
+Candidate is self–motivated and can work individually on committed milestones.
+Candidate is experienced with rapid development cycles on an Agile team.
+Qualifications 
+• MS or BS Degree in a computer science-related field, with relevant experience in software development or quality engineering.
+• Proficient knowledge of database (PostgreSQL preferred)
+• Proficient knowledge scripting languages (Python preferred)
+• C++
+• Software Test Automation
+• Understanding of various testing methodologies (Black Box testing, unit testing, etc.)
+• Experience working with core development tools (source code management, bug tracking).
+• General Windows, Linux operating systems knowledge
+• Ability to solve problems proactively.
+• Must be able to interact comfortably with members of the worldwide team and employees in other departments in Symantec.
+
+Nice To Have Qualifications
+
+• Machine learning experience
+• Scrum/Agile team experience
+• Database & data quality expertise such as query optimization
+• Computer security background
+• Advanced knowledge of operating system internals
+• Experience with code analysis tools such as code coverage, static analysis, dynamic analysis tools
+
+“Symantec is an equal opportunity employer. All candidates for employment will be considered without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, physical or mental disability, veteran status, or any other basis protected by applicable federal, state or local law.”

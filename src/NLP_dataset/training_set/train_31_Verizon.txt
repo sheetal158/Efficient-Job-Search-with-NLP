@@ -1,0 +1,37 @@
+Entry Level Software Engineer - Java
+
+    Boston, MA - United States
+    Information Technology - Full-Time
+    Job # 384346
+    Date posted - 03-26-2015
+
+Share this Job
+
+Information Technology
+
+Grow your IT career at one of the leading global technology companies. We offer hands-on exposure to state-of-the-art systems, applications and infrastructures.
+
+Responsibilities
+
+The MTS I- Sys Engrg will work with senior members of technical staff and partner application/operations teams to gather requirements, document design decisions, and develop platform functionality necessary to implement the DevOps platform. Working in a pair-programming mode, this position will be responsible for building the modules identified in the requirements process, continually monitor performance of the code, and work to optimize it in consultation with senior technical staff.
+
+    Train in test driven and agile development practices
+    Work collaboratively with application/operations  teams to gather and document requirements
+    Work in a pair-programming environment to create platform functionality based on user provided requirements
+    Work collaboratively with senior platform engineers to document design decisions, create platform architecture maps
+    Create and maintain platform functionality usage documents including technical guides, wiki and blog posts that provide example and aid on-boarding
+    Learn Jira, Stash, Jenkins, Sonar, Jira, Confluence, Splunk, and Openstack and provide tier 1 support for developer and operations staff
+    Provide 24x7 tier-1 troubleshooting and break-fix support for production services. 
+
+Qualifications
+
+    B.S. in Computer Science or demonstrated experience building applications using Java, Ruby, Python or Node.js 
+    0-2 years relevant experience
+    Familiarity with software development practices, including use of code repositories, issue and bug tracking
+
+Equal Employment Opportunity
+
+    Verizon is a Federal Contractor
+    Verizon requests veteran priority referrals
+    Verizon is an equal opportunity and affirmative action employer M/F/Disability/Vet.
+

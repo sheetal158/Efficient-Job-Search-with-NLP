@@ -1,0 +1,17 @@
+Principal Software Engineer at Juntos
+San Carlos, CA, US
+
+At JUNTOS, being an engineer is about more than solving interesting problems, it’s about applying the power of exceptional engineering to truly meaningful global challenges.
+As principal engineer, you’ll lead the technical design and development of Juntos’ messaging platform and mentor a team of young and talented engineers. You’ll dive into mounds of financial and conversational data to discover the most effective ways of empowering the financially disenfranchised. You’ll oversee scaling our conversation platform as Juntos grows from hundreds of thousands to millions of end users.
+If you’ve always dreamed of using your skills to make an impact, we’d love to talk to you.
+
+- Ability to toggle between big picture thinking and tactical implementation:
+- Work across the engineering and design teams to identify new ways to empower teammates and users - Ability to conceive, design, and develop product features for internal tools.
+- Deep expertise in full-stack web development. Experience with Rails and PostgreSQL preferred.
+- Background & comfort with statistics & statistical tools. Experience with R preferred.
+- Demonstrated focus on product & technical quality. Hold self & others to high standard.
+- Obsession with process efficiency. Desire to improve your own efficiency and that of teammates.
+- True love of learning. Attitude of: “I don’t know how to do that... yet”
+- Willingness to do whatever it takes to achieve the team’s goals
+- Humility in actions, conversations, and mentality. Absence of personal ownership over ideas. Strong personal satisfaction from collective success.
+Our Principal Software Engineer will create products that have a chance to change the global landscape of financial inclusion. If that’s exciting to you or someone you know, please reach out. 

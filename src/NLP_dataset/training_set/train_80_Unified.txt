@@ -1,0 +1,63 @@
+API Software Engineer- Go
+New York, NY | Technology
+Job Description
+
+About Us
+
+Unified is an award-winning marketing cloud technology company. Unified provides professional marketers with powerful insights, content, and advertising tools built on the industry’s most advanced data platform. Unified serves over 600 customers, including Global 2000 enterprises and their advertising agencies, from its offices in New York, San Francisco, Los Angeles, and Chicago.
+
+The Role:
+
+Unified’s Platform API team builds the api layer for the next generation Unified Platform.  You’d be working heavily in Golang building an entirely new platform using a microservices-based architecture.  You will get exposure to many different types of databases, including graph, relational, and NoSQL.  You will be working on a high-performance high-availability stack using cutting-edge technology.  The Platform API team is the one that ties all of these microservices together to provide a contiguous technology stack.  Your opinion on architecture design decisions is welcome and expected.  You will interface with many different tech and product teams in order to deliver these services.
+
+ 
+
+What you'll do:
+
+    Design and implement performant, scalable, and distributed web services and backends in Go
+
+    Own parts of the system and continuously work to improve them in an agile environment
+
+    Practice and enforce disciplined software engineering (writing tests, code reviews, and pair programming)
+
+    Lead Platform API team initiatives from architecture, design, execution to deployment
+
+ 
+
+Who you are:
+
+You’re someone that has seen multiple code bases and wants to contribute from day one.  You’re great at some languages, solid in others.  You’d rather be working on the backend of the code and contributing to the core services that make our Platform run.  You’ve had experience developing software that actually goes to market, not just one-off apps.  You should be pretty comfortable with experimenting. You love the fact that you have one of the most amazing skillsets in the world - writing code that bends to your will.  
+
+ 
+
+Need to have:
+
+    5+ years of professional software development experience
+
+    Experience developing modern services and applications using languages like Go/Scala/Java/Python etc
+
+    Understanding of software development lifecycle and best practices
+
+    Knowledge of RDBMs like PostGres and data modeling
+
+    Familiarity with NoSQL data stores Cassandra, Elasticsearch, Redis
+
+    Experience with Git and command-line
+
+    Knowledge of testing Methodologies
+
+ 
+
+Nice to have:
+
+    Experience using Neo4J or understanding of graph databases
+
+    Exposure to Microservices Architecture
+
+    Experience working with Social Network APIs (Facebook, Twitter, LinkedIn etc.)
+
+    Experience working with client-side MVC frameworks
+
+    Familiarity with Vagrant & Docker
+
+    BS/MS in Computer Science, Mathematics, or related degree

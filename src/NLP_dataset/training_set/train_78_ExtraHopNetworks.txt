@@ -1,0 +1,35 @@
+Entry-Level Software Engineer
+Engineering - PM - IT Svcs | Seattle, WA, United States
+Apply
+	Send Jobvite
+
+Big Data, the cloud, elastic computing, SaaS, AWS, BYOD, HPC, SDN - we do it all. The solutions we build at ExtraHop are transforming the IT industry. From retail websites and point-of-sale systems to financial services and the healthcare industry, ExtraHop helps modern businesses handle the growing demands on their applications and infrastructures.
+
+Founded by engineers, ExtraHop is a technology start-up located in downtown Seattle that delivers elegant solutions for the IT industry's most challenging problems. The ExtraHop system is an application-aware wire-data processing technology that keeps network applications running at light speed.
+
+We’re looking for the right people to join us as we design and build the most cutting-edge products in operational intelligence. We're hiring interns who want to solve problems and have the skills and attention to detail to back up their ideas. We move quickly and have a passion for building elegant, scalable solutions.
+Duties & Responsibilities
+
+    Help build simple, fast, resilient, and scalable solutions using back-end and/or front-end technologies
+    Work with other members of our Engineering staff to help design, develop, test, and/or launch our product line
+
+Qualifications
+Required Education & Experience
+
+    Current student in Computer Science or related
+    Strong analytical and problem solving skills
+    Solid knowledge of data structures and algorithms
+    Experience or aptitude for implementing scalable software
+
+Desired Skills & Experience
+
+    Previous relevant work experience or internship(s)
+    Good understanding of computer networking
+    Experience with Linux and CLI (Linux command line)
+    Programming experience in one or more of the following languages: C/C++, Go, JavaScript, Python
+    Active member in an IT-related organization, club, or association
+
+
+About ExtraHop
+
+As a privately held fast-growing technology leader in the $20B IT operations management space, ExtraHop Networks is positioned to be the next great systems company. We are known as innovators who take a smart, creative approach to solving problems. Our ExtraHop team and product line have received many awards, including wins in multiple categories of Best of Interop, a Gold Medal prize in Puget Sound Business Journal’s annual list of Washington’s Best Workplaces, and several Gold Stevie American Business Awards.

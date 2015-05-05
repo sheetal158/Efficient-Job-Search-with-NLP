@@ -1,0 +1,36 @@
+Test Software Engineer
+San Diego & Rohnert Park, CA
+
+The Test Software Engineer is innovative, passionate, and driven to create the best products in the marketplace. This individual must be able to roll up his/ her sleeves to get the job done, and also be able to work on an Agile team to solve challenging problems. In this position, you will use your expertise in software development to perform white box testing of our next generation cloud-based web and email security products. You will create and execute automated and manual test plans and procedures.
+Duties and Responsibilities:
+
+    Participate in a Scrum-framework based Agile process by assisting in effort estimation and identification of testing requirements.
+    Design testing strategy, test plans, and test cases to cover various features, components, systems, and platforms.
+    Implement automated test frameworks to support continuous integration and regression testing.
+    Develop benchmarking through the design and implementation of performance testing.
+    Anticipate and mitigate issues through risk analysis and assessment.
+    Contribute to refinements/improvements in the release process.
+    Proactively investigate, isolate, and report defects. Summarize findings.
+    Interface with developers, and technical support to resolve product or system malfunctions.
+    Stay abreast of industry test tools and testing best practices.
+    Other duties as assigned regarding testing, investigating defects and documentation of work and results.
+
+Experience and Requirements:
+
+    A Bachelor’s degree in Computer Science or related discipline or equivalent education and/ or experience.
+    3+ years related experience in software testing or development.
+    Proactive, curious, independent, and highly motivated
+    Solid software troubleshooting & software problem analysis skills.
+    Proficiency with at least one of: Java, C, Python, Ruby, Perl, or JavaScript
+    Proficiency with Linux and SQL
+    Knowledge of networking concepts and protocols, including TCP/IP, HTTP, and DNS
+    Experience in creating test plans, test cases and test scripts.
+    Excellent written and oral communication skills.
+
+Preferred:
+
+    Experience with testing and development tools, such as Jira, git, TestRail, Confluence
+    Experience deploying to cloud platforms, such as Amazon AWS
+    Experience with web proxies, such as Squid
+    Experience with test automation and load testing tools
+

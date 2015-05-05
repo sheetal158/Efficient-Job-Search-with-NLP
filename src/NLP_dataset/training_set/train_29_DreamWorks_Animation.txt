@@ -1,0 +1,27 @@
+Software Engineer - BaaS
+DreamWorks Animation - Glendale, CA
+Context/Scope of Position:
+DreamWorks Animation is seeking a bright, passionate, and self-motivated software engineer for its Redwood City, CA location, to work within the cutting edge department responsible for leveraging animation technologies to build compelling new products and consumer experiences.
+
+Job Responsibilities:
+Create and maintain a Unity plug-in (runtime / tool), and corresponding web-based tool, that help create believable and partially autonomous characters
+Work with the cross-site team leads (producers, designers, and engineers) to collaborate on the project
+Write technical documentation, and address bugs and other issues in a timely manner
+Research and implement algorithms in the area of intelligent characters
+
+Required Qualifications:
+B.S. or M.S. in Computer Science
+Experience in scripting and developing apps/games using the Unity game engine 2D/3D
+Expertise with web applications and programming languages such as HTML, CSS, JavaScript, JQuery andother APIs.
+Functional knowledge or hands on design experience with web services (REST, SOAP, etc ..)
+Good understanding of data structures, algorithms, and cross-platform development
+Comfortable with agile development methodology
+
+Preferred Qualifications:
+Understanding of rigging, animation, and computer graphics
+Some knowledge of AI and gameplay programming
+Must have shipped at least one commercial Unity game
+Experience with iOS and Android / Windows Mobile development
+Experience with server side programming, databases, RESTful APIs, and content management systems such as drupal.
+
+If interested in this position, please submit resume and cover letter to jobs@dreamworks.com. Please put the position name in the subject line. We apologize that due to the volume of submissions we're unable to personally respond to each applicant or inquiry. If your qualifications meet our needs, we will contact you. 

@@ -1,0 +1,26 @@
+Software Engineer – Junior
+Development McLean, VA Must be able to obtain U.S. security clearance
+
+Next Century is a high performance organization committed to growing out team to accomplish the mission of saving lives and protecting our country. Our focus is on providing solutions that integrate situational awareness, at-a-glance analysis, decision support, collaboration, and other core capabilities utilizing our expertise in data visualization, user interface design, SIGINT, OSINT, and GEOINT expertise. Joining our team is not just a position, but a journey with a team of world class software engineers who share a passion for using their skills and experience to make a difference.
+
+What you will need to accomplish…
+
+    Develop the graphical user interface of web applications
+    Design and code visualization tools using JavaScript frameworks and integrate them with RESTful services
+    Participate in the design, development, and integration of new UI functionality
+    Build rapid prototypes for review by end users and interact closely with end users and other development team members
+    Implement analytics that provide data to visualization tools
+    Collaborate in a team environment
+
+What it takes to succeed…
+
+    Must have an academic degree in Computer Science/Engineering (or other relevant degree and/or equivalent experience)
+    1+ years of experience with user interface development, including HTML5, CSS3, and JavaScript web development frameworks
+    An understanding in visualization best practices and tools such as,D3.js, AngularJS, jQuery, HTML5, CSS, etc.
+    Excellent communication skills
+    Highly desired:
+        Appreciation and taste for innovation user experience and visual deign
+        Can learn and pick up new technologies very quickly
+        Experience working with RESTful Services and NoSQL databases
+        Experience with ‘Big/ Large Data” Analytic Frameworks such as: Storm, Hadoop, Spark, etc.
+        Desire to work in high performing environment; mission focused

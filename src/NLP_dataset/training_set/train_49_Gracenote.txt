@@ -1,0 +1,59 @@
+Software Engineer, Big Data
+Emeryville, CA | Business Intelligence
+Job Description
+
+Gracenote is the top provider of entertainment information, creating industry-leading databases of TV, movie, and music metadata for entertainment guides and applications. Our technology serves billions of requests daily to hundreds of millions of devices around the world. Our customers include innovators like Apple, Twitter, Google Netflix, M-GO and Hulu, as well as the top consumer electronics and cable companies throughout the US and the world. Simply put, data provides you with an opportunity to impact the evolution of the entire entertainment industry.
+
+We presently looking for a Software Engineer, Big Data to 1) build our data pipe, and then 2) move into the deeper analytics.
+
+Req#: 0058
+
+Title: Software Engineer, Big Data
+
+Location: Emeryville, CA
+
+Terms: FTE
+
+Min Required Skills: Big Data, Hadoop, Pig, Sql/Hive, Object Oriented design concepts
+
+If you are a software engineer dreaming about building a big data analytics platform at scale on the public cloud, and learning how to derive value from data using data science methods please read on!
+
+We are a fast growing big data analytics team that is part of a large media company. We are building next generation company-wide platform for storing, analyzing and visualizing messages arriving at the rate of a Twitter fire hose. Due to company’s unique position we are able to try our technologies on large volumes from the start and keep at the forefront of innovation of how data is being analyzed and monetized.
+
+We are using latest technologies, running on big data platform and deployed on public cloud. Team is comprised of engineers with experience building analytics and big data platforms for leading web consumer and open source companies in the Bay Area.
+
+Top reasons to work for us:
+
+    Getting in on the ground floor of this new team in an established company, learning how to build modern big data analytics shop from scratch on public cloud
+    Significant opportunity to learn all pieces of big data technology stack
+    Opportunity for advancement and leadership
+    Open culture where fun, collaboration and happiness is key
+    Profitable company, plus stability and security of a larger parent company; we won’t run out of money
+    Fun activities – we’re in media and entertainment business
+
+What You Will Be Doing:
+
+    Developing data pipe for big data platform using variety of tools such as Spark, Spark Streaming, Kafka, Hadoop and Cassandra
+    Developing BI style analytics on big data platform
+    Developing predictive analytics using latest data science methods and algorithms
+
+Required skills:
+
+    Understanding of data flows, data architecture, ETL and processing of structured and unstructured data
+    Some experience in a professional environment performing analysis, design and development tasks on multiple platforms; can be through internship
+    Knowledge of Java and object oriented programming concepts and design
+    Familiar with data mining concepts, machine learning algorithms and basic statistics
+    Ability to work as part of a team and interact effectively with others
+    Displays initiative and self-motivation
+    BS in computer science, mathematics, or equivalent work experience
+
+Desired skills:
+
+    Some work with data visualization techniques
+    Scala
+    Python
+    Java Script, AngularJS
+    S3, EC2 and variety of Amazon Web Services / AWS technologies
+    Logstash, Flume or other ingestion technologies
+
+Our passion for music and TV is at the heart of everything we do. But, what really makes us tick is our people. From Emeryville to Tokyo and Queensbury to Copenhagen, we are building the team that’s going to disrupt the digital universe. This starts by creating a workplace where all things entertainment is celebrated and innovation can come from anyone, not just people with offices and fancy titles.  Gracenote has the soul of a small company, with the benefits and stability of a global leader. We offer competitive compensation, 401K match, vacation time, a full range of health benefits and the opportunity to learn and advance your career. Not to mention, the biggest data, coolest technology, and a seemingly endless supply of snacks, organic fruit and fizzy water.  So if you are interested in being mission critical and on the leading edge of entertainment technology then please contact us today!   

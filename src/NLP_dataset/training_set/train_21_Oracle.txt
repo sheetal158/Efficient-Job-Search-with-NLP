@@ -1,0 +1,68 @@
+Job Description 
+Applications Developer 3-14000W6M 
+Preferred Qualifications
+ 
+
+As a member of the Oracle Marketplace team you’ll build dynamic user interfaces and task flows using Oracle ADF technologies for the deployment and management of applications on the Cloud.  Our development practices include continuous build and integration, regular code reviews, and a heavy emphasis on testing early and often with unit tests and test automation.
+
+
+As an Application Developer of the Oracle Cloud Marketplace, you will:
+
+
+•        Work cooperatively with a team of programmers and QA engineers to resolve and troubleshoot customer issues either by providing workarounds or solutions.
+
+ 
+
+•        Develop, maintain and coordinate programming deliverables including builds, unit tests and code reviews.
+
+ 
+
+•        Initiate and foster collaborative relationships with peers and other developers to achieve group and divisional objectives.
+
+
+Qualifications:
+
+The highly qualified candidate will possess:
+
+ 
+
+·         4 + years of relevant experience in building enterprise business applications using J2EE technologies, with at least two major releases.
+
+ 
+
+·         Strong programming skills in Java/J2EE/JSF/JSP, MVC design patterns. ADF experience a plus.
+
+ 
+
+·         Experience in Scrum based development
+
+ 
+
+·         Strong knowledge of relational database and SQL
+
+ 
+
+·         Good verbal and written communication skills
+
+ 
+
+·         Strong analytical / problem solving skills.
+
+
+·         BS/MS in Computer Science.
+
+
+Detailed Description and Job Requirements
+
+Analyze, design develop, troubleshoot and debug software for designed for the Oracle Cloud ecosystem. Writes code, completes programming and performs testing and debugging of applications.
+
+
+As a member of the Oracle Cloud Marketplace product development team, you will perform high-level design based on provided external specifications. Specify, design and implement minor changes to existing software architecture. Build highly complex enhancements and resolve complex bugs. Build and execute unit tests and unit plans. Review integration and regression test plans created by QA. Communicate with QA and porting engineering as necessary to discuss minor changes to product functionality and to ensure quality and consistency across specific products.
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+ 
+Job: Product Development
+Location: US-CA,California-Redwood City
+Job Type: Regular Employee Hire
+Organization: Oracle

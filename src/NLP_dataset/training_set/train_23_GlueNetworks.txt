@@ -1,0 +1,47 @@
+ Front End / UI Development Engineer
+Glue Networks - Sacramento, CA
+At Glue Networks, we want to disrupt decades-old practices in wide area networking. This is enabling cloud-based design, provisioning and on-going management of complex world-wide networks in a way network engineers only have dreamt about. You can expect to be surrounded by super-energy folks and take on tough challenges in the networking space that have been safely shoved aside in the past.
+
+Responsibilities
+
+    Lead the architecture, design and development of beautiful user interface that is intuitive, inviting, intelligent and responsive
+    Work directly with Network Architects, Service Delivery, Field Sales and our Customers in transforming existing products and shaping new products from scratch
+    UI Passion – quick mockups, idea transformations and an urge to "take it to the next level"
+    Effectively communicate conceptual ideas, design rationale and the specifics of user centered design process
+
+Skills
+
+    8-12 years relevant experience with a BS or MS degree in relevant field
+    3+ years as a senior/lead engineer on a project where the UI was transformed and you could show it off during the interview
+    Excellent problem solving, critical thinking, and communication skills; A true team player
+    Proven track record of shipping software
+    Ability to work in a fast-moving team environment and juggle many tasks and projects
+    Comfortable with rapid development cycles and tight schedules
+    The drive and discipline to get things done.
+    A maniacal attention to detail.
+    Startup or equivalent experience a plus!
+
+HANDS-ON experience with the following:
+
+    Web UI development
+    Modern front end development workflows including: nodejs, yo, grunt, bower, compass, sass, and/or angularjs
+    In-depth mastery of Client-side JS development
+    In-depth mastery of jQuery, Bootstrap or similar frameworks to create reusable UI components
+
+In-depth mastery of HTML, XHTML, CSS, JavaScript
+
+    Well versed in CSS3 and HTML5
+    Deep understanding of OOJS and MVC design patterns
+    Good understanding of SVG
+    Deep Understanding of REST
+    Good understanding of DVCS (git and mercurial)
+    Creation of cross-browser, mobile and internationalization ready front-end
+    Agile based development and large scale enterprise commercial site delivery
+
+Bonus Points
+
+    Development of Apple IOS (iPhone/iPad) and Android applications
+    Design skills such as; basic color theory, vectorized/scalar drawing programs (photoshop/illustrator)
+    Continuous Integration (Jenkins/Hudson or Travis CI) environment with automated and complete tests, frequent releases and live production A/B validation
+
+While attractive compensation and standard benefits packages take care of your day-day life, we think you will love the early-stage equity opportunities, atmosphere, engaging fun, sheer energy and camaraderie of being part of a winning team once you are onboard. Interested? Send your resume to jobs@gluenetworks.com 

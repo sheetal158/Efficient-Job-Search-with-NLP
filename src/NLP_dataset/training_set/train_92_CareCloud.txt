@@ -1,0 +1,42 @@
+CareCloud Corporation
+Job 149863 - Software Engineer, Ruby on Rails, Miami, FL 
+Location: Miami, FL
+Employment Type: Full-Time
+Salary: Competitive
+Job Description
+
+CareCloud, the leading provider of cloud-based healthcare IT solutions, is seeking a dynamic and driven software engineer to join our agile development team. This individual will be based in Boston, MA.
+
+The right candidate for this role is someone with a passion for technology. This person will have a strong work ethic and personal drive. They will be interested in solving challenges that help to deliver better patient care and in doing so making a difference in healthcare.  This person will be comfortable in a high-performance, always-on, SaaS environment and working as a member of an agile team.
+
+This opportunity is perfect for an individual who wants to make a tangible difference within a rapidly growing company that rewards individual efforts, promotes a team attitude and is focused on revolutionizing the massive healthcare industry. 
+
+Requirements
+
+Qualifications Include:
+
+·       Bachelor's degree in computer science or related field
+
+·       5+ years of building enterprise level/commercial applications
+
+·       Passion for delivering high-quality product
+
+·       Experience with Web Development technologies (HTML5, Javascript, AJAX, CSS)
+
+·       Experience with one or more of the following: Ruby, Flex, Java, PHP, C#, Perl, ColdFusion
+
+·       Experience with one or more of the following databases: Postgres, MySQL, Oracle, MSSQL
+
+·       Experience with RESTful web services
+
+·       Experience debugging, profiling and optimizing code
+
+·       Ability to work in an Agile environment
+
+·       Ability to learn new technologies quickly
+
+·       Strong analytical and troubleshooting skills
+
+·       Desire to tackle the complex problems of scale
+
+·       Excellent written and verbal communication skills

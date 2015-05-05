@@ -1,0 +1,31 @@
+Job Description
+Job Title: QA Engineer
+Location: Sunnyvale, CA
+Duration: 6 months
+
+Position Description
+Lead quality assurance testing for large-scale, eCommerce web applications, tools, and/or software
+Support continuous integration process improvement and innovation
+Write test plans and test cases (automated)
+Improve, optimize, and identify opportunities for improved software development lifecycle
+Troubleshoot critical defects in software coding
+Work closely with the Developers and Engineers to achieve a high level of code coverage
+Minimum Qualifications
+
+Bachelor' s Degree in Computer Science or related field
+* 3 - 5 years experience developing and testing highly distributed, complex eCommerce Platforms
+* At least 2 years hands-on scripting (automation) experience in any of the following languages - JAVA, Python, Ruby, Groovy, or similar
+* Extensive hands-on QA & white box testing, and automation
+* Strong prior experience in QA test technologies like Selenium, JUnit, TestNG or equivalent technologies required.
+* QE experience in J2EE technologies strongly preferred Experience with Agile Methodologies
+* Hands-on experience working with relational (Oracle, MySQL, PostgreSQL)
+* White box testing using JUnit/TestNG
+* Experience testing software at API level Proactive problem solver
+
+Additional Preferred Qualifications
+
+* Experience with Continuous Integration and related tools (Jenkins/Hudson/ CruiseControl/ Maven)
+* Experience with Code Quality Governance related tools (Sonar, Gerrit, PMD, FindBugs, Checkstyle, Emma, Cobertura, JIRA, etc)
+* Experience and knowledge of cloud enabled services / applications
+* Excellent written and oral communication skills
+* Hands-on experience with Eclipse or other IDE development tools

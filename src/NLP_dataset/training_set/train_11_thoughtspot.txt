@@ -1,0 +1,18 @@
+Software engineers wanted for a hazardous journey involving long months of complete darkness, constant danger and doubtful safe return, with the promise of honor and recognition in case of success…!
+
+Are you passionate about building systems and software that lasts and will make an impact? Do you relish in the satisfaction of solving challenging problems? Do you want to build complex systems from the ground up? If these questions resonate with you, you’ve come to the right place!
+
+ThoughtSpot is disrupting the Business Intelligence world in a big way and to do so, we need and welcome ideas from many areas within computer science: information retrieval, distributed computing, large-scale system design, networking, security, data compression, user interface design and more.
+
+ThoughtSpot relational search appliance brings the ease of search to enterprise data analysis. It includes a new kind of search engine, tightly integrated with large-scale, in-memory computing. The result is a consumer-class user experience combined with enterprise-class scalability while maintaining enterprise data governance and manageability for IT. We are looking for highly motivated individuals who want to make a big impact in their work. 
+
+What it takes to be a Software Engineer at ThoughtSpot:
+
+    Strong coding skills in modern languages such as C++/Javascript/Python
+    Strong problem solving skills, algorithmic thinking and a strong foundation in how systems work.
+    Very strong computer science fundamentals
+    Bachelor/Masters in Computer Science, PhD preferred
+
+    Experience in designing and developing scale-out, high-performance systems OR experience with database design OR experience in building search engines including areas such as search relevance, aggregation and indexing OR full stack/frontend development experience in building complex web/mobile applications is a plus.
+
+About ThoughtSpot  ThoughtSpot is a tier-1 VC funded startup looking to disrupt the $69B Business Intelligence market. The ThoughtSpot founders previously built the fastest-growing enterprise tech company of the last decade, Nutanix. They’ve also created market-defining search and analytics technologies at companies such as Google, Yahoo and Oracle. ThoughtSpot has raised $40.7 million to date from Lightspeed Venture Partners, Khosla Ventures and top-tier angel investors. This would be a really unique opportunity for you to get in early and make a significant impact by doing what you love.

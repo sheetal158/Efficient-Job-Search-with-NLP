@@ -1,0 +1,37 @@
+Job Description 
+Software Engineer-TRI010329
+
+Description
+ 
+
+Build highly scalable, high performance consumer facing web solutions. Engineer industrial strength consumer facing web solutions at scale, machine learning, search engine marketing (SEM), electronic advertising, commerce, customer analytics, and general technology architecture. Work on code at every level, from UI, to the servlets and backend services, to the database. Design complex systems at component level. Work closely with product, design, and sales teams to define feature specifications. Design and implement learning algorithms suitable for big data to analyze, adapt, and optimize marketing on search engines. Work on search engine marketing team specific projects including algorithm design, development, and data analysis.
+
+ 
+
+REQUIREMENTS: Employer will accept Master’s degree in Computer Science, Engineering, or related technical field and six months of work experience in job offered or in a software engineer-related occupation. Experience must include: 1) Designing, developing, and implementing software applications; 2) Coding, Java; 3) Object oriented coding; 4) UNIX, Linux; 5) SQL, Database, SQL server; 6) Big data algorithm design; 7) Big data analysis; 8) Machine learning techniques; 9) Data structure, Algorithm design and development; 10) Multithreaded coding; 11) Automated testing; and 12) Full life cycle development. Experience may be gained concurrently. 
+
+ 
+
+Job #: 10173.61
+
+ 
+
+TO APPLY:    TripAdvisor Recruiting
+
+                        Attn: 10173.61
+
+                        141 Needham St. Bldg. N2
+
+                        Newton, MA 02464
+
+Primary Location
+United States-Massachusetts-Newton
+Organization
+ TripAdvisor
+
+Unposting Date
+ 
+ 
+**This employer participates in E-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization. ***
+	
+ 

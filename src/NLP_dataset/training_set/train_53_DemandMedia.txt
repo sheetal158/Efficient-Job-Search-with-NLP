@@ -1,0 +1,37 @@
+Software Engineer (Backend)
+Engineering | Santa Monica, CA
+
+Located in Santa Monica, CA.
+
+Saatchi Art is the world's largest online art gallery, connecting people with art and artists around the world. We are looking for a back-end engineer to join us at our Santa Monica, CA headquarters to help us build new features and tools, helping to create our next-generation marketplace platform. 
+Working with folks across our small but rapidly growing organization, you will be involved in all aspects of development, including planning, execution and testing. You are a creative problem solver with a knack for picking up things quickly, expert-level debugging skills, and thrive in a team-based environment. Rockstars, ninjas and jedi need not apply.
+
+Requirements:
+
+    Strong written and verbal communication skills
+    Ability to work independently and proactively
+    Strong knowledge of OO concepts and design patterns
+    Experience working on a team doing practicing agile development, unit testing, code reviews, and continuous integration
+    3+ years LAMP (PHP) stack experience using Zend or Symphony. Laravel experience strongly desired.
+    Experience developing against REST-based APIs
+    Experience with both SQL and NoSQL databases
+    Experience using Git
+    Basic fluency with Javascript, HTML, and CSS
+
+Huge pluses:
+
+    One additional language and web framework (Ruby/Rails, Javascript/node.js)
+    Asyncronous programming
+    Solr/Lucene
+    Elasticsearch
+    AWS (EC2, Route53, SNS, SQS)
+    CDNs (Cloudfront, Akamai)
+    SOAP/XML
+
+Join Saatchi Art because...
+Regardless of how much you know about art, you have a strong appreciation about it and a desire to learn more.  You desire to discuss and work with a broad range of modern technologies.  You want the flexibility and excitement of being part of a startup team, but backed by the resources of a larger organization.
+Art is a powerful form of expression, both for those who create it and those who experience it. It is a conversation independent of language, inviting curiosity, celebrating uniqueness of thought and individual craftsmanship. Join our team and help us move this conversation forward.
+
+Agency Disclosure
+
+If the Demand Media Human Resources department, or any current company employee, receives an unsolicited resume from a third party recruiting agency and Demand Media does not have a signed Agency Agreement active, Demand Media will not be deemed liable to pay a placement fee.  The unsolicited resume will be considered a gift and can be considered for our recruitment efforts

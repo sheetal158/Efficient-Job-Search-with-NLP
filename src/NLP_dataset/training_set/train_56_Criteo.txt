@@ -1,0 +1,49 @@
+Software Development Engineer
+Software Development | Palo Alto, CA
+	
+Software Development Engineer
+San Francisco Bay Area
+About CRITEO [CRTO]
+Criteo delivers personalized performance marketing at an extensive scale. Measuring return on post-click sales, Criteo makes ROI transparent and easy to measure. Criteo has over 1,000 employees in 21 offices across the Americas, Europe and Asia-Pacific, serving over 6,000 advertisers worldwide with direct relationships with over 8,000 publishers.
+Why work for us?
+We are innovative, passionate, fearless, creative, driven, and adaptable. Our core values are at the heart of who we are. We have a spontaneous and vibrant culture, and we truly believe in team spirit and collaboration.
+Check out a day in the life at Criteo!
+Overview
+In order to support the company through its significant growth and to enhance and nurture the company reputation, we are seeking a talented, enthusiastic
+Software Development Engineer to join our team in Palo Alto.
+Our R&D team of 200+ engineers worldwide is building the next generation of digital advertising technologies that allow us to manage billions of ad impressions every month. A few figures:
+
+    7 datacenters on 3 continents
+    More than 2500 servers
+    30B HTTP requests and 1.2B unique banners displayed per day
+    Peak traffic: 500K HTTP requests per second
+
+Our engineers develop the infrastructure that allows us to serve this high volume of ads and manage our advertisers’ inventory and our publisher partners. We are working in a very fast-paced release cycle and are adding new capabilities weekly and even daily.
+
+    Design, architect and build systems that make bid decisions in under 50ms, half a million times per second, across three continents and seven datacenters, 24/7.
+    Apply the machinery you created and our 1000+ node Hadoop cluster to extract the signals hidden in tens of TB of and constantly keep improving the systems while measuring the impact on our business.
+    Get stuff done. A problem partially solved today is better than a perfect solution next year. Have an idea during the night? Code it in the morning, push it at noon, test it in the afternoon and deploy it the next morning.
+    Develop open source projects. As we are working at the forefront of technology, we are dealing with problems that few have faced. We’re big users of open source, and we’d like to give back to the community.
+    High stakes, high rewards: 1% increase in performance may yield millions for the company and a great respect and besides financial gain a feeling of accomplishment for you.
+
+What do we NEED?
+
+    MS in Software Engineering or related field.
+    4-6 years of programming experience in C#, Java, or C++.
+    You have a rock-solid foundation in Computer Science (data structures, algorithms, software design).
+    You are experienced with architecting, developing and extending large and complex systems.
+    A passion for shipping quality high-performance code.
+    You are a problem solver, a fixer, and a creative technologist. We believe coding is a talent and a passion, not just a skill.
+    You need to be a great team worker and a great communicator.
+
+Preferred Skills:
+
+    Experience with taking the initiative and acting as a technical lead.
+    Experience in a web or mobile advertising technology business.
+    Working in a very fast-paced and continuously changing environment.
+    Experience with Big Data and technologies such as Map/Reduce, Hadoop, Pig, HBase, Hive, etc.
+
+Criteo, the global leader in scalable personalized retargeting solutions, is growing their U.S. Operation and looking for aggressive and motivated professionals with varying levels of experience to be an integral part of our continued success.
+For more information, please visit http://www.criteo.com. Find us on LinkedIn.
+*Criteo is an equal opportunity employer.
+

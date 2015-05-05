@@ -1,0 +1,27 @@
+ Software Development Engineer, Devices
+
+Engineering Palo Alto, California
+Apply
+Description
+
+SmartThings is looking for a Software Development Engineer, Devices to join its Device Certification and Integration team in the San Francisco Bay Area. The Software Development Engineer will be responsible for developing device type handlers to integrate connected devices across the range of ZigBee, Z-Wave, LAN-Connected, and Cloud-Connected devices into the SmartThings Platform.
+
+Responsibilities:
+
+    Develop SmartThings device type handlers for a range of connected devices against internal priorities, as well as through professional service engagements with SmartThings partners
+    Act as a subject matter expert and engage with the SmartThings developer community through online forums, developer events and hack days, and online events such as SmartThings Developer Office Hours
+    Participate in the generation and maintenance of SmartThings developer documentation
+    Complete code reviews and process approvals of community-submitted device type handlers for release to end-users
+    Up to 20% domestic travel may be required
+
+<Req>Desired Background:</Req>
+
+    Strong background working with embedded devices and wireless protocols such as Z-Wave, ZigBee, and WiFi
+    Expertise with standard Internet protocols across the stack, such as TCP/IP, UDP/IP, HTTP, SOAP, and RESTful Web Services
+    Familiarity with developing software for cloud-based Platform-as-a-Service products (e.g., force.com)
+    Expertise in one or more of the following languages: Groovy, Java, Ruby, Python - Groovy experience is strongly preferred
+    Familiarity with the "Internet of Things" space
+
+Qualifications:
+
+    Bachelors of Science in Computer Science, Electrical Engineering, or related field; or 7+ years relevant experience

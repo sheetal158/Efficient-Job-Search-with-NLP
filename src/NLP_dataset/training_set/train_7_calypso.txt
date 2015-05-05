@@ -1,0 +1,48 @@
+Software Engineer
+Location: 	US-San Francisco
+Job Code: 	CREQ2157
+# of Openings: 	1
+Description
+
+ 
+Software Engineer
+
+Calypso Technology is seeking a highly motivated and innovative individual on to join our engineering team. As a software engineer  you will be responsible for the design and development of new modules and enhancements, as well as maintenance of existing components.
+The Calypso system is a large scale software product for the capital markets supporting trading, risk management, and processing of various financial products such as Interest Rate, Equity and Credit Derivatives.
+Responsibilities
+
+    Design, develop and implement new features and modules in company's financial software system, and improving existing ones
+    Perform unit testing on new features Work in close liaison with Quality Assurance team and Technical Publications team.
+    Use the Java programming language, and Swing to design and develop graphical user interfaces Assist Helpdesk personnel with customer problems
+    Work with Product Management to translate and understand accurately product specifications
+    Responsible for bug fixing for several Calypso modules related to interest rate derivatives
+
+Requirements
+
+    Minimum 3 years of post-academic experience in commercial software including Java, Swing, JDBC, RMI, J2EE, XML
+    Solid development experience in distributed systems; interface development on window/UNIX platform 
+    Excellent object-oriented analysis, design & development skills.
+    Familiarity with open source frameworks: Spring, Hibernate, Spring MVC, Spring JDBC, Ant, JMS.
+    Knowledge of relational databases and SQL including working experience with Sybase and/or Oracle
+    BS and/or MS in computer science or related field or equivalent experience
+    Experience building software for capital markets, in particular experience with trading systems a plus
+    Experience practicing Test Driven Development or Open Source testing tools.
+
+Calypso’s Rewarding Careers
+
+Since our founding in 1997, Calypso has been the leader of innovation in capital markets technology. To continue our track record of growth we need the best talent from across the globe and offer outstanding opportunities to join a uniquely innovative, highly successful company that straddles the worlds of technology and finance. With 20 offices worldwide, market leading products and a customer base of the world’s top banks, asset managers, hedge funds and insurers our team thrives on stimulating challenges and global opportunities.
+Your Calypso Career
+
+We are growing our team by recruiting and hiring the best talent in the market - those who desire to take the initiative, are self-directed learners and have the desire solve our customers’ problems to drive our growth. Also, we identify, train and develop future leaders to ensure we have the capabilities to scale the business and to provide career development to our team members.
+
+At Calypso, you will have an active role in a business that makes a difference in the capital markets every day. Regardless of your role, your work will be closely tied to our customers’ success and will have an impact on their mission critical systems.
+
+If you have the drive, a winning attitude and a desire to make a difference then we invite you to apply today.
+
+Calypso Technology is an equal opportunity employer (EOE) and strongly supports diversity in the workforce.
+
+Calypso only accepts resumes from approved agencies who have a valid executed Non-Exclusive Master Staffing Agency Agreement on file. Please do not forward resumes to our applicant tracking system, Calypso employees, or send to any Calypso location. Calypso is not responsible for any fees or claims related to receipt of unsolicited resumes.
+
+ 
+
+

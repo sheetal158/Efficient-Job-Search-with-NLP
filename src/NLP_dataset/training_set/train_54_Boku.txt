@@ -1,0 +1,26 @@
+Software Engineer
+Engineering | San Francisco, CA
+
+Responsibilities:
+
+    Work hands-on with an agile, highly skilled team of engineers
+    Participate in all phases of software development lifecycle from design, to development, to testing
+    Utilize best of breed technologies to build a layered, component-based, service-oriented architecture
+    Be highly motivated and maintain a positive, 'can-do' attitude in a
+    Fast moving start-up
+    Foster the spirit of collaboration across multiple internal teams
+    Support for our production systems as part of our on-call rotation
+
+ 
+Required Skills:
+
+    Bachelor’s degree in Computer Science/Engineering or 3+ years of equivalent experience in related disciplines
+    Demonstrated technical capabilities and ability to work collaboratively and effectively with a range of stakeholders
+    3+ years’ experience with Java/JEE and related technologies
+    Knowledge of developing trends and emerging standards in relevant fields
+    Strong background in object-oriented architectures
+    Understanding of the software development life-cycle
+    Attention to detail and strong organization skills
+    Strong communication skills for working with third-parties
+    Meet eligibility requirements to work in the US
+

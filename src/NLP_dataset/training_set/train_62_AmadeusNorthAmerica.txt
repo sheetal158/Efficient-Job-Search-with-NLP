@@ -1,0 +1,57 @@
+Careers Site: Software Engineer - C++ (24043)
+Req ID 24043 - Posted 17/03/2015 - Country (1) - Location / Office (1) - Research and Development - Permanent
+Job Description Print Preview
+ 
+Join us and shape the future of travel
+
+Shaping the future of travel has always been important to us at Amadeus. Today, with technology getting smarter by the minute, that future is more exciting than ever.
+
+We work at the heart of the global travel industry.  Amadeus offers you the opportunity to learn and grow and drive your own progression in an exciting and multicultural environment.
+
+Our people are driven by a passion for 'Where next?' If you want to shape your career and the future of travel, Amadeus is the place for you.
+
+Summary of the role
+
+Our Reservations and Distribution Technology division is seeking talented Software Engineers to join our PNR (Passenger Name Record) organization.
+
+You will join the team in charge of the system managing the PNR agent context for all Amadeus Reservation users through different applications and providing facilities to work with the PNR. With a throughput of more than 20 000 Transactions per second, this application is the central point in the Amadeus Reservation as every PNR related message exchange is going through it.
+
+Being in the middle of the PNR world you will have the opportunity to participate in major technical infrastructure projects and interact with different teams and many business cases (Ticketing, Car, Rail, Hotel, Inventory etc…)
+
+The PNR organization is a global Information Technology organization spread over Nice, Boston and Sydney. During Boston business hours you will be the contact of operational and customer support teams for problems troubleshooting and changes on the system.
+
+ 
+Main responsibilities
+ 
+
+    Contribute to the projects and changes in collaboration with the team in Nice.
+    Follow up problems and changes to ensure “follow the sun” support.
+    Provide relevant studies, sizings, and reporting to management.
+    Define user requirements for development of new or improvement of existing software solutions.
+    Design technical solutions and perform feasibility studies and propose viable solutions.
+    Develop software according to Amadeus Standards.
+    Conduct unit, package and performance tests of the software and ensure a level of quality in line with the Amadeus guidelines.
+    Participate in the validation / acceptance phase of the product cycle ensuring the fine-tuning necessary to finalize the product.
+    Produce software documentation necessary for the application.
+    Support the end user in the Production phase by debugging existing software solutions in response to Problem Tracking Records (PTR) and Change Requests(CR).
+    Share your technical and functional knowledge within the team.
+
+Requirements
+
+    B.S. in Computer Science or equivalent.
+    3 to 8 years of relevant development experience.
+    Experienced working in a Linux development environment.
+    Good knowledge of C++
+    RDBMS/SQL (Oracle preferred).
+    Knowledge of distributed systems.
+    Usage of version control systems (CVS, Mercurial or other).
+    Usage of Python or other scripting language.
+    Multicultural approach.
+    Pro-activity, sense of initiative, autonomy.
+    Change management and flexibility.
+    Information gathering skills.
+
+ 
+
+Relocation is available.
+

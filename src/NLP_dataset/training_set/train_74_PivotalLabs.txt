@@ -1,0 +1,36 @@
+Software Engineer
+Pivotal Labs Boston, MA (relocation offered)
+
+Job Description
+
+We Can Go Fast Forever.
+
+We pair program, all day, every day because we know it delivers remarkable results. We practice and teach an approach to software engineering that applies across industries and organizations, so you’ll experience all types of teams, products, and technologies. And we believe in working at a sustainable pace – you’ll typically code hard for 8 hours each day, but then you’re off work to relax, recharge and refocus.
+
+We Court Perfection.
+
+Working at Pivotal means you get better at what you already do well. We set up regular retrospectives to figure out what we’re doing wrong so we can fix it, and what we’re doing right so we can improve on it. We consistently practice Test Driven Development, which results in high-quality, reliable and more maintainable code. And we believe that methodical, steady, relentless forward momentum drives consistent results.
+
+Get Breakfast Everyday. And Get Paid to Master The Latest Technologies.
+
+To make sure you start your day energized, we provide a catered breakfast every weekday morning, and unlimited snacks are available all day. Our collaborative, open-plan office space is filled with talented, like-minded Pivots who enjoy taking advantage of our weekly Tech Talks, playing ping pong, and hanging out with their co-workers on beer night.
+Skills & Requirements
+
+What We’re Looking For
+
+    Strong Knowledge of Ruby, Python, Golang and/or Java programming languages
+    Strong Knowledge of Rails and/or Spring frameworks
+    2+ years of relevant (above) work experience
+    Exceptional software engineering knowledge; OO Design Principles
+    Experience in test first development and pair programming a plus
+    Experience in web front-end development a plus; JavaScript, client-side MVC frameworks
+    Experience deploying to cloud environments a plus
+    Strong communication skills and interest in a pair-programming environment
+    Passion for growing your skills, tackling interesting work and challenging problems
+
+Interested in becoming a Pivot? We’re seeking more amazing developers to add to our New York City team. Apply by sending us a resume and a cover letter.
+About Pivotal Labs
+
+Pivotal Labs: We Transform Ideas into Software.
+
+As a recognized leader in highly disciplined agile software development practices, Pivotal Labs has been building high reliability software for over 20 years. We build consumer and enterprise web and mobile applications for global clients, and have a growing practice building applications for the iOS and Android platforms. We also developed Pivotal Tracker, the project management and collaboration tool used by thousands of software developers worldwide

@@ -1,0 +1,45 @@
+Job Title 	Software Engineer - PHP (Virtual)
+Req # 	27234BR
+Division 	Kaplan, Inc.
+State/Province 	Florida
+City 	Virtual
+Full Time/Part Time 	Full-Time
+
+Job Description 	
+The Software Engineer is responsible for software development as a member of a project team.
+He/she works closely with subject matter experts, business analysts, quality analysts, and others to design, develop, and test software solutions to business problems.
+
+Key Job Responsibilities
+Develop technical specifications for software from business requirements.
+Follow instructions written in specifications and delivered verbally, including refining and elaborating on requirements based on experience.
+Work closely with Manager or Director and other project members as a team where necessary, and also work on own initiative where appropriate.
+Develop code including unit tests, appropriately employing object-oriented design methods and patterns and following industry and Kaplan standards.
+Work with diverse teams including business analysts, database and UI specialists, and offshore developers in order to get work done efficiently.
+Work with appropriate technology teams in analysis, troubleshooting, communication, and prioritization of system-related issues.
+Solve problems of limited scope and complexity, with assistance on occasion from more senior developers.
+Operate and support the configuration management and development/test environment and tool set as necessary.
+
+Minimum Qualifications
+Bachelor's Degree (B.A./B.S.)
+Computer Science, Management Information Systems, or other
+3 - 5 years related experience
+Professional software development for websites using a SQL-based database and an object-oriented
+programming language such as PHP or C#.
+Acceptable Experience in Lieu of Education: Two years experience for every year of formal education required.
+Knowledge of systems architecture.
+Strong skills in the use of software tools to develop business programs.
+Experience or aptitude in the creation of business software
+Ability to work well with people and quickly learn new concepts.
+Able to apply basic software engineering principles, theories and concepts.
+Familiar with basic software algorithms and terminology.
+Experience with object-oriented design including common patterns, interfaces, and inheritance
+Ability to stay focused and detail-oriented in a fast-paced dynamic environment.
+Excellent written and spoken communication skills.
+
+Preferred Qualifications
+Experience developing in a LAMP (Linux, Apache, MySQL, PHP) environment
+Experience PHP 5 and MVC Frameworks such as: Zend or Symfony
+Experience with web development using HTML, CSS3, JavaScript
+Experience with modern development techniques such as: Test Driven Development, Automated Testing, Dependency Injection, Development Patterns, etc.
+Experience working in an AGILE/SCRUM development team
+Experience using a JavaScript framework such as jQuery.

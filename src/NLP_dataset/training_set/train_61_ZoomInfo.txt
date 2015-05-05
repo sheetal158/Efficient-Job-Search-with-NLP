@@ -1,0 +1,42 @@
+Software Developer - Python / Java
+Department: 	Engineering
+Location: 	Waltham, MA
+Click Here to Complete Your Application
+
+Are you a Software Developer who likes working on tough problems? Whether that’s how to build systems that handle millions of customer requests per day, or how to make sense of over a billion pieces of potentially correlated data - ZoomInfo’s the right place for you! Welcome to ZoomInfo - the most comprehensive directory of business information on the Web.
+
+We're changing the way business information is found and managed. And the Data Generation team sits at the heart of this effort. We employ cutting-edge NLP technologies to empower America's knowledge workers. With in-depth profiles on millions of business people and companies, ZoomInfo will find people you know and those you need to know. As a member of Zoom’s Data Generation team, you’ll be responsible for improving the data that thousands of customers see every day.
+
+In case you hadn’t noticed, we take a different approach than our competitors for how we get our data. Instead of relying exclusively on human editors, surveys and phone calls, Zoom leverages the power of computing with tools like NLP and Machine Learning to continually update our database of 95 million people and 7 million companies. As a Zoomer, you’ll get to work with cutting-edge technologies and a tremendously large - and fantastically rich - data set. As our Software Developer, you will be responsible for expanding and improving ZoomInfo’s Content Aggregation Network.
+
+We are truly passionate and excited about what we do! See interviews with team members on our Careers Page!
+
+Please Note: We are only considering candidates local to the greater Boston, MA area.
+
+The Opportunity
+
+    Solve interesting and challenging problems alongside a great team of engineers
+    Work with interesting technologies like Hadoop, Solr, JBoss and Hibernate
+    Work with enormous data sets. Our database has over 10 billion records extracted from the Web
+    Develop new skills as you push your knowledge - and our technology - to new levels
+    Work for a profitable, growing company that works with an impressive Fortune 500 client list
+    Have fun!
+
+The Requirements
+
+    Experience doing client and server-side Python application development
+    Win32 experience is a plus
+    A strong knowledge of Java
+    Experience with Java EE, JMS, Hibernate, Spring, Junit
+    Experience with Google AppEngine is a plus
+    Experience with OLE/COM is a plus
+    Experience with A/B testing is a plus
+    Eager to learn new technologies
+    You should be able to tell us why you want to work here and what kinds of challenges you're looking for
+    You should be able to talk intelligently and passionately about the interesting challenges your projects presented
+    3+ years industry experience
+    B.S. in Computer Science or equivalent
+
+About ZoomInfo: 
+
+ZoomInfo is a B2B database software company that delivers business data to supercharge marketing campaigns and sales outreach. ZoomInfo helps their customers identify their buyer personas, reach decision makers faster, and enhance and grow their databases.

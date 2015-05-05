@@ -1,0 +1,36 @@
+SOFTWARE DEVELOPMENT ENGINEER
+Emerson US-IA-Marshalltown Posted: 3/31/2015
+
+Emerson
+Emerson (NYSE: EMR) is a diversified global manufacturing and technology company. We offer a wide range of products and services in the industrial, commercial and consumer markets through our Process Management, Industrial Automation, Network Power, Climate Technologies, and Commercial & Residential Solutions businesses. 
+
+Job Description
+
+SCOPE OF POSITION:
+The Software Engineer (software developer) is responsible for translating product specifications into usable software code which can be distributed to customers.
+The Software Engineer uses development tools to create software solutions that meet project requirements, while ensuring the products comply with industry standards for performance, quality and usability. They are also responsible for ensuring compliance to company standards and project methodologies including Agile and stage-gate development.
+The Software Engineer works primarily with analysts, software architects and project managers to clarify product requirements, create development plans, and design and deliver tangible results.
+The Software Engineer is also responsible for evaluating specific functional and performance-related customer needs as they are identified, and in providing a software design path to meeting those customer needs.
+
+MAIN RESPONSIBILITIES:
+- Design and code software solutions in response to product specifications.
+- Help identify and implement technology parity releases, such as in support of new operating systems, 3rd-party security patches and industry compliance standards.
+- Help identify and implement product design improvements that improve both variable and operational costs associated with manufacturing and delivering the product (cost-out design changes).
+- Sustain technology products after their commercial release through maintenance and improvement software releases.
+- Ensure the robustness of software deliverables in terms of scalability, reliability and sustainability.
+Job Requirements - B.S. in Computer Science is required. An advanced degree in Computer Science, Informatics, Automation
+- Minimum of 2 years experience in software design
+- Experience in software design for commercial product markets preferred
+- AHRF-3 REV D 5/10/04 2
+- Minimum of two years’ experience each with two or more of the following: C++, C#, .NET, XML, Java, web services, application server design or deployment
+- Experience with design or deployment of service-oriented architectures (SOA), web services, or federated architectures is highly desirable
+- Strong communication and time-management skills
+- Ability to work as a collaborative member of a diverse team
+Job Requirements
+ 
+Job Snapshot
+Location US-IA-Marshalltown
+Employment Type Full-Time
+Pay Type Year
+Pay Rate N/A
+Store Type Engineering & Aerospace, IT & Technical

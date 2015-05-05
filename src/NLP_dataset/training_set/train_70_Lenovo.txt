@@ -1,0 +1,20 @@
+Job ID #: 34122
+Position Title: Advisory Software Engineer
+Location: USA-CA-San Jose
+Functional Area: Engineering
+Facility: Corporate Office
+Relocation Provided: No
+Education Required: Bachelors Degree
+Experience Required: 5 - 7 Years
+Travel Percent: 0
+	
+Position Description
+Lenovo (United States) Inc. is seeking an Advisory Software Engineer in Santa Clara, California.
+
+Summary of Duties:
+Design, develop, implement, and test application/system software in Layer 2-7 switching and data center networking. Develop Layer 2 and Layer 3 Data Center Networking protocols like Link Aggregation (LAG), Virtual Local Area Networks (VLAN). Policy Based Routing (PBR), Equal Cost Multi Path (ECMP) Routing, and VRRP. Develop Openflow protocol for switches, Software Defined Networking (SDN) related technologies like SDN controller vendor extensions, Virtual Tenant Networks, Load Balancing, Automatic server health-check mechanism, and offloading health-checks to controller from load balancers.  Use C programming language in the implementation of software.  Use various tools such as IXIA test systems, Openflow controllers, and Virtual machines for the purpose of testing the applications. Perform unit testing and system integration and testing of the SDN, Openflow, Layer 2 and layer 3 protocols, and load balancing software developed for Data Center Networking.  Provide device management and monitoring through Simple Network Management Protocol (SNMP).  Conduct client-server programming using TCP/IP for applications hosted in switches.
+Position Requirements
+Qualifications:
+Bachelor’s degree in Computer Science, Engineering, or related field of study and five (5) years of experience in the job offered or five (5) years of experience as a Computer Programmer, Software Engineer, Technical Lead, or related role.  Master’s degree in Computer Science, Engineering, or related field and three (3) years experience in the job offered or three (3) years experience as a Computer Programmer, Software Engineer, Technical Lead, or related role will be accepted in lieu of a Bachelor’s degree and five (5) years experience.  Demonstrated experience must include: Development of Openflow wire protocol for switches; Software Defined Networking (SDN) related technologies like SDN controller vendor extensions; Virtual Tenant Networks; Developing Load Balancing applications; Automatic server health-check mechanism; off-loading health-checks to controller from load balancers; Development of Layer 2 and Layer 3 Data Center Networking protocols like Link Aggregation (LAG) and Virtual Local Area Networks (VLAN); Policy Based Routing (PBR); Equal Cost Multi Path (ECMP) Routing; VRRP; Design, development, implementation, and testing of application/system software in Layer 2-7 switching and data center networking; Client-Server programming using TCP/IP for applications hosted in switches; Testing of SDN, Openflow, Layer 2 and Layer 3 protocols, system integration and testing of the SDN, Openflow, Layer 2 and Layer 3 protocols; Unit testing load balancing software developed for Data Center Networking; System integration and testing of load balancing software for data center networking deployments.
+
+We are an Equal Opportunity Employer and do not discriminate against applicants due to race, ethnicity, gender, veteran status, or on the basis of disability or any other federal, state or local protected class. 

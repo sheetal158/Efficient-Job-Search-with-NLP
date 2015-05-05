@@ -1,0 +1,39 @@
+Software Engineer
+Location: 	Reston, VA
+Req #: 	4580
+# of openings: 	1
+Description
+
+Would you like to perform rewarding work while contributing to the success of an established, growing company?   Pragmatics, Inc. is seeking a Software Engineer to join our team.
+
+As a Software Engineer, you will:
+• Support web services development
+• Provide component design expertise and development in the areas of Java, Spring, and integration with REST and SOAP web services, SAML, and PKI
+• Ensure implementation of Agile Development practices including test driven development, continuous integration, providing high-quality delivery of software products
+• Participate in Agile Development teams
+
+ 
+Required skills:  
+Candidates must have Java development skills.
+Minimum 3 plus years of hands-on experience performing web development in a J2EE environment
+Strong Java and SOAP Web Service skills and experience in a professional Agile Development/ Test Driven Development environment
+
+
+Desired skills:
+GWT, Spring Framework, SQL, REST, SOAP, SAML, XML, PKI, Tomcat, Linux, Virtual Machines, JavaScript, CSS, MyBatis, OpenStack, Ansible, RabbitMQ/AMPQ, CQRS, Continuous Integration, Maven/Gradle, Decker, SVN/Git.
+
+EDUCATION AND YEARS OF EXPERIENCE
+BS in Computer Science, Engineering, or related discipline, or equivalent plus 5-7 years of work experience OR Masters and 3-5 years of work experience.
+
+Certified Java developer is a plus.
+
+CLEARANCE
+Active Secret Clearance required
+
+COMPANY OVERVIEW
+
+Join an established and reliable mid-tier government contractor with a reputation for excellence.  For 29 years, Pragmatics, Inc. has provided state-of-the-art technology services and solutions to the federal government.  We provide software engineering, agile business intelligence and analytics, audiovisual and learning technologies, cybersecurity, systems engineering, independent verification and validation, IT service management, program management, and transportation solutions.  Pragmatics has diverse contracts with both defense and civilian agencies.  We have been externally appraised at SEI CMMI® Level 5 and are ISO 9001, ISO/IEC 27001, and ISO/IEC 20000-1 certified.
+ 
+Pragmatics strives to provide the highest level of customer satisfaction, as well as rewarding careers for our employees, who are hardworking, enthusiastic, and dedicated to superior performance.  We encourage you to find out more about our company and our benefits at: www.pragmatics.com.    Pragmatics is an Equal Opportunity Employer.
+
+Minorities/Women/Veterans/Disabled.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, or protected veteran status and will not be discriminated against on the basis of disability. 

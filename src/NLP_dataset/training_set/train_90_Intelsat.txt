@@ -1,0 +1,77 @@
+Software Engineer
+
+Employer
+    Intelsat 
+Location
+    20008 
+Posted
+    Mar 17, 2015 
+Closes
+    Apr 02, 2015 
+Function
+    Engineer, IT - Software 
+Industry
+    Engineering, IT 
+Career Level
+    Experienced (Non-Manager) 
+Hours
+    Full Time 
+
+ 
+
+An Equal Opportunity Employer
+
+
+No. Vacancies: 2.00
+
+FLSA: Exempt
+
+Department: 16405.Information Systems
+
+Location: McLean, VA 
+
+Travel %: None
+
+Education: Four-year college degree
+
+Experience: At least 1 year of experience required
+
+Equivalency: Equivalent combination of education & experience not considered 
+
+Does this position have direct reports: No
+
+ 
+
+Primary Purpose of the Position
+
+Conduct requirements analysis, architectural and detail design, coding, implementation, testing and maintenance for highly integrated complex information systems. These systems (as part of Satellite Control Systems) support the ground network system, i.e. real time telemetry processing, commanding and flight dynamics systems. Identify and resolve systems software and hardware issues, also identifying and implementing process improvements.
+
+ 
+
+Position Responsibilities
+
+    Participate in the initial formulation, analysis and design phases of the Systems Development Life Cycle.
+    Design and develop highly integrated complex information systems (specifically computer applications for use in a real time satellite control system environment) and test procedures for these systems.
+    Collaborate with other developers on the various software implementation tasks and participate actively in that implementation.
+    Participate in planning and scheduling all tasks authorized by the Satellite Control Systems management.
+    Report technical issues and progress against schedule.
+    Produce appropriate specifications and support documentation for applications in development.
+
+ 
+
+Position Requirements
+
+    Must have a Bachelor's of Science in Engineering or Computer Science with at least one year of professional experience in real-time data acquisition and processing systems.
+    Must have knowledge of entire system life cycle and system development methodologies, as well as a broad knowledge of computer network, hardware/software interface and protocols, operating systems and telecommunication systems.
+    Experience in C/C++ programming required.
+    Experience in Python programming highly desired, as well as a good knowledge of JAVA programming.
+    Experience with CORBA desired
+    Must have experience in developing unit testing strategies and plans, testing methods and configuration management procedures.
+    Must be able to express ideas clearly both in written and oral communications, with proven leadership and organizational skills and a willingness to work with others to foster a team spirit.
+
+ 
+
+    This position requires ITAR access; all candidates must be US Citizens or Permanent Residents.
+    These statements are intended to describe the general nature and level of work being performed by employees assigned to this job.  This is not intended to be an exhaustive list of all responsibilities, duties, and skills required of employees assigned to this job.
+    Company description: Intelsat is the largest provider of fixed satellite services worldwide. We enable providers of media, telecom and government services to deliver information and entertainment to people at home, in the office or on the move. On a day-to-day basis, Intelsat supplies video, data and voice connectivity in approximately 200 countries and territories for approximately 1,800 customers, many of which Intelsat has had relationships with for over 30 years. Some of the world's leading media and communications companies, multinational corporations, Internet service providers and government/military organizations hallmark Intelsat's customer base. Customers access capacity through extensive service offerings, which include transponder services, hybrid managed services combining satellite capacity and terrestrial facilities, and channel services.
+

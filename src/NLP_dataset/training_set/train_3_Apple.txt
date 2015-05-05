@@ -1,0 +1,27 @@
+Software Tools Engineer
+
+    Job Number: 39195541
+    Santa Clara Valley, California, United States
+    Posted: Mar. 18, 2015
+    Weekly Hours: 40.00
+
+Job Summary
+
+The Special Projects Group (SPG) is looking for a Software Tools Engineer to develop tools to collect, replay and post process data for future projects. These tools would be used to gather product data from prototyping stages through to mass production. The ideal candidate will rapidly build beautiful and functional apps, tools, and frameworks to assist a wide range of internal product design and engineering teams.
+Key Qualifications
+
+    Languages: Objective-C, C, JavaScript, Python
+    Platforms: iOS and Mac OS X and Linux and Web
+    Data visualization / statistics experience (JMP, d3js, R)
+    Willing to pick up new technologies and engineering requirements quickly
+    Able to create and maintain software documentation
+    Able to collaborate cross-functionally with hardware and product design teams
+    Able to take requirements, work independently, and produce status reports periodically
+    Agile experience preferred
+    Hardware experience preferred
+
+Description
+
+Education
+
+BS in Engineering or equivalent industry experience

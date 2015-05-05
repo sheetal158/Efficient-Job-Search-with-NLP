@@ -1,0 +1,59 @@
+Software Development Engineer
+Technology Development
+Dublin, Ireland | Pleasanton, CA, USA
+
+Join our team and experience Workday!
+
+It's fun to work in a company where people truly believe in what they're doing. At Workday, we're committed to bringing passion and customer focus to the business of enterprise applications. We work hard, and we're serious about what we do. But we like to have a good time, too. In fact, we run our company with that principle in mind every day: One of our core values is fun.
+
+Job Description
+
+Position: Tools Engineering – Software Engineer
+
+Location: San Francisco, CA or Pleasanton, CA or Dublin, Ireland
+
+We have immediate openings for engineers in our Development Operations group to design and develop our next generation of internal and developer tools. This is a unique opportunity to build a toolset from design to deployment with technical ownership of all stages.
+
+Required Skills/Experience:
+
+• 8+ years experience in developing server side applications.
+
+• 2+ years experience in developing Ruby
+
+• Familiar with and experience of SQL, NoSQL, Messaging, Middleware and similar systems.
+
+• Familiar with and experience of Configuration Management and Deployment systems i.e. CHEF and/or Puppet.
+
+• A keen eye for good architecture and the ability to develop new architectures and frameworks.
+
+• Proficient in major development tools and processes, such as source control, requirement spec, design and design review, unit test, system test, performance test, etc.
+
+• Must have a disciplined, methodical, minimalist approach to designing and constructing layered software components that can be embedded within larger frameworks or applications.
+
+• Proven ability to take leadership role in projects that span multiple teams.
+
+• Ability to communicate designs
+
+• Ability to work with product managers, developers, quality assurance and PMO to clarify and prune requirements.
+
+• Bachelors Degree or higher. Computer Science/Engineering major is preferable.
+
+Responsibilities:
+
+• Work closely with Product Owner to define use cases
+
+• Collaborate with peers on technical design, work estimation and implementation of new features.
+
+• Design and develop features in an agile way.
+
+• Contribute ideas for continually improving the team’s productivity, job enjoyment, and code quality.
+
+*LI-JA
+
+About Workday
+
+Workday delivers Human Capital Management, Financial Management, Payroll, Time Tracking, Procurement, and Employee Expense Management applications to the world's largest organizations. Hundreds of companies, ranging from medium-sized to the Fortune 50, are gaining business value from Workday.
+
+Workday is proud to be an equal opportunity workplace. Individuals seeking employment at Workday are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation.
+
+We do not accept resumes from headhunters, placement agencies, or other suppliers that have not signed a formal agreement with us.

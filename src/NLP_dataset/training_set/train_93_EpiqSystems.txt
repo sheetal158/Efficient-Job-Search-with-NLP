@@ -1,0 +1,60 @@
+Software Engineer Support
+Job Code : 755
+Division : Epiq eDiscovery Solutions (EDS)
+Location : Kansas City KS US 66105
+Job Type : Full Time
+Career Level : Experienced (Non-Manager)
+Education : Bachelor's Degree
+Category : IT/Software Development
+Job Description :
+
+
+This position entails Development Operations responsibilities, supporting proprietary and 3rd party production applications that utilize C++, C# WCF, ASP.NET and SQL Server technologies. The role will primarily focus on supporting software applications with strong developer skill sets in a Tier 3 level initiative. We are currently seeking candidates available for multiple shifts.
+ 
+Job Responsibilities
+
+    Work priority/severity (P1, P2, P3 etc.) incidents reported to the Software Engineering Support (SES) team
+    Work within the Information Technology Infrastructure Library (ITIL) best practices
+    Use Agile SDLC methodologies to develop, debug, and support production applications
+    Participate in solution oriented workaround and permanent solutions through code change
+    Proactively identify, analyze and raise issues when incidents lead to quality, system performance, or architectural issues in product
+    Collaborate with support team peers and Scrum development teams in areas relating to bug defects, code change review and solution proposals
+    Develop, debug and deliver enterprise application solutions in emergency patch situations
+    Willingness to accept on-call rotation responsibilities in support of a 24X7 Operations initiative
+
+ 
+Job Requirements :
+Qualifications and Skills:
+
+    Outstanding troubleshooting and technical support skills
+    Experience supporting and writing multi-tier components
+    Demonstrate self-directed and proactive approach to solving problems
+    Self-starter capable of working on small teams in a fast-paced environment
+    Experience working with IT and infrastructure teams that correlate with software applications
+    Familiar with all aspects of the software development life cycle methodology including specification, documentation and testing, and scheduling
+    Excellent communication skills are required
+    Bachelor’s degree in Computer Science or related discipline
+    5+ years of experience developing and supporting software in C++, C#
+    Strong experience with the following technologies: C++ C#, WCF, ASP.NET, SQL Server
+    Strong knowledge of Microsoft Team Foundation Server (TFS) source code management suite
+
+Leadership Competencies
+ 
+Client Focus- Engages with the clients, both internal and external, and their needs as a primary focus; builds a sustaining collaborative and productive relationship with clients; seeks to understand client situations, issues, expectations, etc.; takes appropriate action to meet client needs and address concerns; implements or utilizes methods to monitor and evaluate client feedback; appropriately meets client needs without jeopardizing business outcomes or results.
+ 
+Results Oriented- Sets stretch goals for personal accomplishment and works tenaciously to achieve those goals; acts with a sense of urgency; takes the initiative on actions; establishes metrics to monitor progress and measure success; maintains focus by avoiding or overcoming roadblocks.
+ 
+Integrity - Behaves in an honest, fair and ethical manner; shows consistency in words and actions; does what he/she commits to doing; respects the confidentiality of information or concerns shared by others; is honest and forthright with people; carries his/her fair share of the workload; takes responsibility for own mistakes.
+ 
+Entrepreneurial Orientation - Proposes innovative business opportunities/ideas to customers and business partners; encourages and supports entrepreneurial behavior in others; demonstrates willingness to take calculated risks to achieve business goals.
+ 
+Decisiveness - The ability to make well informed, effective, and timely decisions even when data is limited or solutions produce unpleasant consequences; perceives the impact and implications of decisions; ability to make tough decisions.
+ 
+About Epiq:
+ 
+Epiq Systems solves problems faced by the legal profession in managing high volume, complex electronic data. We serve corporations and law firms around the world in practice areas spanning bankruptcy, litigation, class action, mass tort, antitrust, investigations and regulatory compliance.
+Epiq combines proprietary software, deep subject matter expertise and a global infrastructure to assist clients with the technology requirements for their most important and complex matters. Our clients include top worldwide law firms, corporate legal departments, government agencies and trustees.
+We strive for a cohesive, collaborative environment that focuses on group achievement.
+ 
+Epiq is a NASDAQ listed company (EPIQ) with over 1000 associates worldwide. Epiq operates globally with key offices in Hong Kong, Kansas City (corporate headquarters), London, New York, Phoenix, Shanghai (data center only), Tokyo, Toronto and Washington, D.C.
+

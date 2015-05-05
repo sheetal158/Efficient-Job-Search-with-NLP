@@ -1,0 +1,46 @@
+ [Not starred]
+Software Engineer, YouTube Video Ads
+San Bruno, CA, USA
+Software Engineering
+·
+Full-time
+Know someone who would be interested?
+Know someone at Google? Reach out to them
+
+Google's software engineers develop the next-generation technologies that change how millions of users connect, explore, and interact with information and one another. Our ambitions reach far beyond just Search. Our products need to handle information at the the scale of the web. We're looking for ideas from every area of computer science, including information retrieval, artificial intelligence, natural language processing, distributed computing, large-scale system design, networking, security, data compression, and user interface design; the list goes on and is growing every day. As a software engineer, you work on a small team and can switch teams and projects as our fast-paced business grows and evolves. We need our engineers to be versatile and passionate to tackle new problems as we continue to push technology forward.
+
+With your technical expertise you manage individual projects priorities, deadlines and deliverables. You design, develop, test, deploy, maintain, and enhance software solutions.
+
+YouTube, a global leader in online video delivery, has a growing number of partnerships with traditional advertisers who want to expand to using Video Ads. Working in this area, you can make our ads more relevant, create new ways to monetize video content, and develop web-based applications and back-end systems to make our advertising operations more scalable and profitable. By understanding video traffic, popularity and distribution you will be part of a team committed to promoting high quality content in the most cost-effective way possible. By understanding background material and message, you will predict the next set of advertisers, helping them get closer to the holy grail of precision targeting.
+Responsibilities
+
+    Develop innovative systems and algorithms to automatically create promotion units, bidding, budgets and targeting for videos.
+    Build robust, high-volume production software to predict advertisers and automatically create video ads.
+    Build front ends to provide an easy way to create ads in various formats using differing targeting criteria.
+    Build backends for estimating reach, frequency, traffic, and targeting of campaigns; predicting and suggesting alterations to campaigns.
+    Create and manage video-specific APIs.
+
+Minimum qualifications
+
+    BS in Computer Science 
+    or equivalent practical experience.  
+    Coding skills in C++, Java or Python.
+
+Preferred qualifications
+
+    Master's or PhD in Computer Science or related technical field.
+    Experience with Ad serving technologies, Ads APIs, front ends or streaming video.
+    Experience in information retrieval, data mining or machine learning.
+    Solid foundation in computer science, with strong competencies in data structures, algorithms and software design.
+    Strong analytical skill set.
+
+Area
+
+In just eight years, YouTube has grown into a video community that 1 billion people across the globe use to access information, share video, and shape culture. The YouTube and Video team helps budding filmmakers and musicians build careers, creates products like YouTube Live and runs collaborative projects like Life in a Day and the YouTube Space Lab. We are changing how people entertain, inform, share and change the world, one video at a time.
+
+Job details
+Team or role:
+Software Engineering
+Job type:Full-time
+Last updated:Mar 24, 2014
+Job location(s):San Bruno, CA, USA

@@ -1,0 +1,33 @@
+Software Developer
+Location: Huntsville, AL
+Department: Hardware Engineering
+Type: Full Time
+Min. Experience: Experienced
+
+Digium®, Inc., the Asterisk® Company, created and is the innovative force behind Asterisk, the most widely used open source telephony software. Since its founding in 1999 by Mark Spencer, Digium has become the open source alternative to proprietary communication providers, with offerings that cost as much as 80 percent less. Digium offers Asterisk software free to the open source community and offers Switchvox, Digium's Unified Communications solution to power a broad family of products for small, medium and large businesses. The company's product line includes a wide range of telephony hardware and software to enable resellers and customers to implement turnkey VoIP systems or to design their own custom communications solutions. At Digium, we're changing the way businesses communicate.
+
+Duties of Position:
+
+As a Senior Software Engineer, you will be a part of a team of engineers working on the design, development, and release of embedded communications devices. The software you create will have a major impact on Digium's suite of unified communications products. The team you will work with is a motivated team, who are passionate about building great software for Digium's customers.
+
+Successful candidates will be strong developers who are experienced in all phases of delivering software to customers; who have a passion for writing high-quality software; who enjoy working with high degree of autonomy and independence; and who have demonstrated a history of producing and maintaining excellent software.
+
+Qualifications Required:
+
+    BS in Computer  Science or Computer Engineering or equivalent
+    A minimum of 5 years of professional software development experience
+    Mastery of C/C++ programming language
+    Notable contribution as a software developer on a project
+    Solid understanding of software design and computer architecture
+    Excellent verbal and written communication skills
+    Source code management
+    Experience developing for Linux
+    Familiar with Agile development and test processes
+
+Desired Experience:
+
+    Understanding of networking concepts
+    VoIP, media streaming, and/or telephony
+    Embedded development experience
+    Android familiarity
+

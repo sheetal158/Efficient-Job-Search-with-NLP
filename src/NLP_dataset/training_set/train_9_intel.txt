@@ -1,0 +1,58 @@
+Job Description 
+Software Engineer - 758114 
+Description
+ 
+
+Job Description: Come join Intel's Platform Engineering Group organization as a Software Engineer. In this role you will conduct or participate in multidisciplinary research and collaborate with design, layout and/or hardware engineers in the design, development, and utilization of productivity enhancement layout tools and design rule checkers, electronic data processing systems software. Determines computer user needs, advises hardware designers on machine characteristics that affect software systems such as storage capacity, processing speed, and input/output requirements, designs and develops compilers and assemblers, utility programs, and operating systems. Responds to customer/client requests or events as they occur. Develops solutions to problems utilizing formal education, judgment and formal software process.
+
+ 
+
+The ideal candidate should exhibit the following behavioral traits:
+
+- Problem-solving skills
+
+- Ability to multitask
+
+- Strong written and verbal communication skills
+
+- Ability to work in a dynamic and team oriented environment
+ 
+<Req>Qualifications</Req>
+ 
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+  
+Minimum Qualifications:
+- BS or MS in Electrical Engineering, Computer Engineering or Computer Science
+- Minimum of 3 months experience with Computer System Architecture
+- Minimum of 3 months experience with C/C++ programming
+- Minimum of 3 months experience with subsystem HW/SW stack
+
+Preferred Qualifications
+- Prior internship experience in Maestro team will be valuable
+- Experience with validation tools like Maestro
+- Experience with Linux kernel and Linux device drivers
+- Experience with PC bus protocols any industry-standard IOs (PCIe, USB, SATA, etc)
+- Experience with reading specifications and identifying, interpreting and implementing innovative test cases
+ 
+
+Job Category
+: Software Engineering 
+Primary Location
+: USA-California, Folsom 
+Full/Part Time
+: Full Time 
+Job Type
+: College Graduate 
+Regular/Temporary
+: Regular 
+Posting Date
+: Mar 18, 2015 
+Apply Before
+: Jul 1, 2015 
+
+Business Group The Platform Engineering Group (PEG) is responsible for the design, development, and production of system-on-a-chip (SoC) products that go into Intel’s next generation client and mobile platforms. PEG strives to lead the industry moving forward through product innovation and world class engineering.  
+Posting Statement: Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.  
+	
+Applying for a job
+Select "Apply Online" to apply for a specific job. You can also use the "Add to My Job Cart" button to add it to your job cart and apply later.
+ 

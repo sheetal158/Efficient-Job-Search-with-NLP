@@ -1,0 +1,15 @@
+Software Engineer
+Engineering
+
+About the Engineering Team
+For our software engineers, code is a way of life. You're the kind of person who enjoys picking up a new language on your free time, and get the tingles thinking about scalable, high-performance systems. Our engineers play a critical part in designing the technology behind Munchery's e-commerce and operations management systems. Our code is very "tangible." It moves food from production to inventory to fulfillment and delivery, and a ton of algorithms behind it. With the lack of innovation in the "tech and taste" space, there's nothing better than putting smart, creative engineers to solve it. 
+
+Location: Washington, D.C.
+
+    3-5 years experience in Rails.
+    Minimum B.S. in computer science or equivalent
+    Rails proficiency in ActiveRecord, RESTful routing, permissions, caching, nested forms, mailers, exception handling, and namespaces/scopes.
+    Expert in front-end development in HTML5, CSS3, jQuery, and CoffeeScript. Backbone.js and other JS frameworks a plus.
+    Experience building your own JS libraries and shared CSS libraries.
+    Previous startup experience a plus.
+

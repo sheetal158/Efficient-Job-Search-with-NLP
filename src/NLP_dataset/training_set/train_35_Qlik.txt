@@ -1,0 +1,44 @@
+Software Engineer - Data Management
+R&D | Newton, MA, United States 	
+
+Software Engineer – Data Management
+
+Qlik is committed to changing the world by making it easier to make more insightful decisions, and act on them. Our Business Discovery software, QlikView and Qlik Sense, help organizations do more than just report findings. It allows them to explore their data and make informed decisions that can change the way they both see their business and operate more effectively. We are a Values Driven organization, operating over 100 countries with 30,000 customers around the world. If you think we are interesting, please read on – we may be looking for you!
+
+Qlik has an innovative, team-oriented, and high-energy culture. We offer a flexible and exciting work environment, and plenty of opportunities for you to grow as a professional and as an individual. As a member of the Qlik product R&D team, you will have direct impact on our growth and success.
+
+Qlik’s Data Management team transforms customer data from its raw state into a form suitable for sophisticated Business Intelligence. Whether from a single spreadsheet or a large Hadoop instance, we apply a fusion of data science and old school ETL to shepherd the user as quickly as possible into our first-in-class visualization experience. As a Software Engineer on the Data Management team, you will be responsible for the development and delivery of the software that makes this possible. Your ability to learn and understand new data preparation techniques and technologies and commitment to creating high quality software will translate into new game-changing capabilities in the Qlik product line.
+
+If you have an interest in delivering high quality software with significant business value and are looking for a new challenge, then this is a tremendous opportunity to make key contributions on a high profile team for one of the hottest technology companies in Business Discovery and Intelligence.
+
+
+Role and Responsibilities
+
+    Develop and maintain data management software for Qlik products
+    Understand and confirm new requirements
+    Employ test-driven development practices including unit tests
+    Document specifications and other relevant technical content as directed
+    Communicate with engineering management and team leaders on task prioritization, scheduling, and coordination
+    Collaborate and coordinate with other team members on all aspects of the process including user experience, architectural design, implementation, testing, and documentation
+
+
+Education Requirement
+
+    A bachelor’s degree in Computer Science or a related discipline is MANDATORY.
+
+
+Required Skills and Experience
+
+Intern experience working on a commercial software product is strongly preferred
+
+    Experience with modern language such as C#, Java or JavaScript is strongly preferred
+    Experience with the JavaScript framework node.js is strongly desired
+    Experience with data management, data mining or data science technologies is strongly desired
+    Bonus points for experience with the JavaScript framework angular.js / HTML / CSS
+    Self-starter with good communication & presentation skills in a fast paced environment with multi-tasking capabilities
+
+ 
+
+You must be a highly motivated team player, reliable and dependable, dedicated not only to the craft and science of software development but also to the success of the company. We are a team of goal-oriented multi-taskers who approach problems with intellectual rigor and zest for software delivery. You should be the same.
+
+Qlik is not accepting unsolicited assistance from search firms for this employment opportunity. Please, no phone calls or emails. All resumes submitted by search firms to any employee at Qlik via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of Qlik. No fee will be paid in the event the candidate is hired by Qlik as a result of the referral or through other means.
